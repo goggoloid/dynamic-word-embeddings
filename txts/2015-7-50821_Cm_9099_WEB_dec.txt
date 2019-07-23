@@ -1,0 +1,230 @@
+The Government’s response to the House of Lords
+Select Committee Report on Digital Skills
+Presented to Parliament
+by the Minister of State for Culture and the Digital Economy
+by Command of Her Majesty
+July 2015
+
+Cm 9099
+
+© Crown copyright 2015
+This publication is licensed under the terms of the Open Government Licence
+v3.0 except where otherwise stated. To view this licence,
+visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write
+to the Information Policy Team, The National Archives, Kew, London TW9
+4DU, or email: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information you will need to
+obtain permission from the copyright holders concerned.
+This publication is available at www.gov.uk/government/publications
+Any enquiries regarding this publication should be sent to us
+at enquiries@culture.gov.uk
+Print ISBN 9781474121217
+Web ISBN 9781474121224
+ID 05061507
+
+07/15
+
+Printed on paper containing 75% recycled fibre content minimum
+Printed in the UK by the Williams Lea Group on behalf of the Controller of Her
+Majesty’s Stationery Office
+
+Recommendation 1: The Government should develop an ambitious
+‘Digital Agenda’ for the UK: at its heart should be the Government’s
+vision for the UK to keep up with the best leading digital economies
+across the board in five years’ time.
+The Government is committed to ensuring that the UK remains a leading
+digital economy. Putting the UK at the forefront of digital transformation is a
+key priority for this Government, and at its core is the belief that the UK has
+the knowledge and expertise to thrive and compete internationally. The
+Government is leading from the front: the Government Digital Service has
+been leading the digital transformation of public service provision, emerging,
+in the words of The Washington Post, as “the gold-standard in the global
+world of digital government”.
+However, the Government recognises the scale and importance of the
+challenges that must be addressed, and the need for far-reaching ambitions
+that will have sustainable impact. To achieve a truly digital economy, we
+need to work in partnership with industry to create the right conditions for
+every individual and business to be able to profit from the benefits of
+technology.
+Training and education must keep pace with the ever-changing technological
+landscape, with the right skills and infrastructure to underpin digital
+transformation. These are challenges faced by all developed nations, but this
+Government will focus on capitalising upon the UK’s strengths to seize the
+opportunities that technology provides.
+The UK has six of the top sixty universities in the world for science and
+engineering, developing the highest levels of tech talent. There are also
+hotbeds of capability throughout the UK, and in 2014 the Tech Nation report
+identified over 20 clusters of technology expertise across the country. In terms
+of infrastructure, the coverage and take-up of superfast broadband is the
+highest of the 5 largest EU economies. The UK also leads the world on open
+data, with over 20,000 government datasets now openly available for use by
+industry.
+The Government is committed to not only ‘keeping up’ with the best leading
+digital economies, but being a thought leader in this space. The UK is a
+founding member of the D5, a network of some of the most digitally advanced
+governments in the world. The UK hosted the first summit in December 2014,
+providing a platform to share best practice; for instance England’s lead in
+becoming the first country in the world to mandate coding in the primary and
+secondary school curriculum from September 2014.
+As we go through this autumn’s Spending Review and the development of
+departmental plans the Government is committed to ensuring that the UK
+continues to be one of the world’s leading digital economies.
+
+Recommendation 2: The Digital Agenda should be the responsibility of a
+Cabinet Minister in the Cabinet Office, who would assume ultimate
+responsibility for driving the Digital Agenda across all Government
+departments.
+Ed Vaizey, Minister for Culture and the Digital Economy, as a joint BIS and
+DCMS Minister, reports to both Secretaries of State, which ensures that at a
+Cabinet-level there will be a strong focus on Digital, both from an economic
+and a social perspective. This reflects that to truly reap the benefits, digital
+must be embraced in all aspects of UK citizens’ lives.
+Ensuring the UK’s position as a leading digital economy is by its nature a
+cross-government effort that requires cross-government Ministerial
+sponsorship. Ed Vaizey chairs the Prime Minister’s implementation taskforce
+on Digital Infrastructure and Inclusion whose membership includes a number
+of Cabinet Ministers including Matthew Hancock, the minister responsible for
+the Digital Transformation of Government. Consequently the Taskforce is
+well-placed to coordinate activity across government to develop a
+comprehensive digital agenda.
+At an official level, in May 2015 the Digital Economy Unit (which was initially
+established in July 2014 as a joint BIS and DCMS Unit) was fully moved into
+DCMS under Ed Vaizey’s portfolio. This means that policy for the key
+underpinning drivers for the digital economy, including skills and
+infrastructure, is developed within one Department to drive collaborative
+activity across Whitehall to meet the UK’s ambitions. This will ensure greater
+alignment in the way that policy is developed and delivered; embedding digital
+throughout government policy and bringing together the full expertise of
+government and its stakeholders to drive the digital agenda forward at pace.
+It also provides opportunities to further reinforce the synergies with the
+Creative Industries, which form a key part of the digital landscape and sit
+within the DCMS portfolio.
+Recommendation 3: The responsible Cabinet Minister should evaluate
+the UK’s Digital Agenda on a regular basis, seeking to drive the UK’s
+digital competitiveness. The Minister should report to Parliament
+annually against the measures within the Digital Agenda. We
+recommend an initial progress report to Parliament by summer 2016. We
+note that a similar practice is already undertaken by the Scottish
+Government.
+The Government agrees that it is important to regularly review and evaluate
+the UK’s progress in achieving its digital objectives. A report will be provided
+to Parliament via a Written Ministerial Statement in summer 2016, which will
+give an update on progress in meeting the Government’s digital commitments.
+
+Processes have also been put in place to ensure that the Government
+frequently reviews and evaluates digital activity. In May 2015, the Government
+announced the formation of the Digital Infrastructure and Inclusion
+Implementation Taskforce which will meet frequently, ensuring that the
+Government’s key digital objectives are regularly reviewed, with a clear focus
+on expediting delivery. The Taskforce will provide quarterly reports to Cabinet,
+ensuring there is a sustained high-level focus on the UK’s digital
+competitiveness at the highest levels of government.
+Recommendation 4: Our Committee has completed its work with the
+production of this report, but has highlighted an issue of critical
+importance that will need continuing oversight; we urge the Liaison
+Committee to consider how best to integrate such a commitment into
+the future work of select committees in the House of Lords.
+Whilst this recommendation is for the Liaison Committee, the Government is
+supportive of ensuring that digital issues continue to be discussed and
+considered by Parliament.
+Recommendation 5: In its response to this report we invite the incoming
+Government to comment on the focus of our illustrative Digital Agenda
+and to commit to designing its own, with specific detail on how it
+intends to meet its objectives.
+The synergies between the Committee’s draft Digital Agenda and government
+activity already under way are notable. This is a positive reflection on the
+shared understanding of the scale and nature of the challenge the UK faces.
+Both are focused on highlighting the underpinning role that infrastructure and
+skills play in maximising opportunities - not just for economic growth but for
+social benefit too. The centrality of these strands is echoed by the decision to
+establish the Digital Inclusion and Infrastructure Implementation Taskforce to
+drive progress and ensure the right foundations are in place.
+However, the Government goes further than the Committee on infrastructure,
+with activity in place to make sure it is secure from natural and man-made
+threats and that we are considering how new technologies can best be
+exploited. We are also considering how best the UK can drive the
+development of digital technologies to realise the full benefits. On regional
+ecosystems and clustering, the Government is keen to make sure that digital
+is being embedded at an even more local level, and that all businesses and
+individuals, regardless of locale are able to capitalise on their area’s strengths
+and access the support they need.
+This Government is committed to meeting ambitious objectives to ensure that
+the UK is at the forefront of digital transformation. In addition to work already
+in train, attached at Annex A is a list of the publicly announced digital
+manifesto commitments, which will be delivered over the course of this
+Parliament. These set out a number of stretching objectives, which will ensure
+the UK has the right infrastructure and basic digital skills for the UK to adopt
+and be at the forefront of maximising the benefits of new technology.
+
+The creation of a Digital Inclusion and Infrastructure Implementation
+Taskforce, as one of only ten Implementation Taskforces, shows the high
+priority that Government gives to digital. It also highlights the desire to act
+quickly to ensure these ambitions are met at pace.
+The manifesto commitments and the Implementation Taskforce are focused
+on ensuring the UK has the right building blocks in place to secure the UK’s
+place as a leading digital nation. However, this government’s ambitions go
+further and are reflected in the wide ranging programmes of work already in
+train to make sure that the UK is at the forefront of adopting and profiting from
+new technologies. This includes activity to ensure that schools, Further
+Education and Higher Education routes are providing the digital skills needed
+at all levels of the economy. This Government is also undertaking work to
+support the development and uptake of new technologies, and activity to
+ensure that individuals and businesses are secure online.
+The Government agrees with the Committee’s focus and commits to providing
+an update this autumn, which provides more substantive details on the
+Government’s digital agenda and how we intend to meet our commitments
+through a cross-government Digital Transformation Plan (announced following
+Budget 2015 within the Productivity Plan). The update report will provide a
+full account of activity and aspiration across government and reflect the
+outcomes of the upcoming Spending Review.
+What is clear, is that these challenges cannot be underestimated, and it is
+essential that activity continues at pace. The Government is now, and will
+continue, working in partnership with the private, public and third sectors to
+reach its ambitions.
+This Government is committed to delivering an ambitious programme of
+activity to ensure that the UK ‘makes’ its Digital Future.
+Annex A: Key digital manifesto commitments
+•
+•
+•
+•
+•
+•
+•
+
+Roll out universal broadband and better mobile phone connections to
+ensure everyone is part of the digital economy;
+Ultrafast broadband should be available to nearly all UK premises as soon
+as practicable;
+Invest in infrastructure to give the most comprehensive and cheapest
+superfast broadband coverage of any major European country;
+Delivering superfast broadband in urban and rural areas to provide
+coverage to 95% of the UK by the end of 2017;
+Subsidising the cost of installing high speed-capable satellite services in
+the very hardest to reach areas;
+Release more spectrum from public sector use to allow greater private
+access;
+Holding mobile operators to their legally-binding commitment to ensure
+that 90 per cent of the UK landmass will have voice and SMS coverage by
+2017;
+
+•
+•
+•
+•
+•
+
+Continue to invest in mobile infrastructure to deliver coverage for voice
+calls and text messages for the final 0.3-0.4% of premises that do not
+currently have it;
+Ensure the UK is a world leader in the development of 5G and plays a
+leading role in defining industry standards;
+Fit out trains with new wifi equipment in England and Wales;
+Provide free wifi in libraries and ensure remote access to e-books without
+charge and with appropriate compensation for authors that enhances the
+Public Lending Right scheme;
+Roll out cross-government technology platforms such as GOV.UK to cut
+costs and improve productivity while actively tackling digital exclusion and
+ensuring digital assistance is always available for those not online.
+
+

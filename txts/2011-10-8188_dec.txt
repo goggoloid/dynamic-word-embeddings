@@ -1,0 +1,810 @@
+Department for Culture, Media and Sport
+
+Memorandum to the Culture, Media
+and Sport Select Committee on the
+Post-Legislative Assessment of the
+Gambling Act 2005
+
+CM 8188
+
+£6.00
+
+Department for Culture, Media and Sport
+
+Memorandum to the Culture, Media
+and Sport Select Committee on the
+Post-Legislative Assessment of the
+Gambling Act 2005
+
+Presented to Parliament by the Secretary of State for Culture,
+Olympics, Media and Sport by Command of Her Majesty
+October 2011
+
+CM 8188
+
+£6.00
+
+© Crown Copyright 2011
+You may re-use this information (excluding logos) free of charge in any format or
+medium, under the terms of the Open Government Licence. To view this licence,
+visit http://www.nationalarchives.gov.uk/doc/open-government-licence/ or e-mail:
+psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Any enquiries regarding this document should be sent to us at enquiries@culture.gov.uk
+This publication is available for download at www.official-documents.gov.uk
+This document is also available from our website at www.culture.gov.uk
+
+ISBN: 9780101818827
+ID: 2455641
+
+10/11
+
+15350
+
+19585
+
+Printed in the UK by The Stationery Office Limited
+on behalf of the Controller of Her Majesty’s Stationery Office
+Printed on paper containing 75% recycled fibre content minimum.
+
+Department for Culture, Media and Sport
+Select Committee
+
+Post-Legislative Assessment of the
+Gambling Act 2005
+
+Introduction
+1. This memorandum provides a preliminary assessment of the Gambling Act 2005
+(the 2005 Act) and has been prepared by the Department for Culture, Media and
+Sport for submission to the Culture, Media and Sport Select Committee. It will be
+published as part of the process set out in the document Post-Legislative Scrutiny
+– The Government’s Approach (Cm 7320).
+
+Objectives of the Gambling Act 2005 (“the 2005 Act”)
+2. The main purpose of the 2005 Act was to ensure that gambling is properly
+regulated through the following licensing objectives:
+• preventing gambling from being a source of crime or disorder, being
+associated with crime or disorder or being used to support crime,
+• ensuring that gambling is conducted in a fair and open way, and
+• protecting children and other vulnerable persons from being harmed or
+exploited by gambling.
+3. These objectives are central to the new regulatory regime created by the 2005
+Act.
+4. The 2005 Act also introduced:
+• a unified regulator for commercial gambling1 in Great Britain – the Gambling
+Commission
+• a new licensing regime for commercial gambling
+• a new regulatory regime for casinos and for gaming machines; and
+• a revised regime for the law on lotteries
+5. It also provided protection for children and adults from the effects of harmful
+gambling through the creation of a number of specific offences.
+
+Implementation and subsequent amendment
+6. The Gambling Act 2005 received Royal Assent on 7th April 2005. While some of
+the provisions of the 2005 Act came into force during 2005 and 2006, the majority
+of the legislation came into effect on 1st September 2007.
+
+1
+
+With the exception of spread betting (which is regulated by the FSA), and the National Lottery (which is regulated by
+the National Lottery Commission).
+
+3
+
+4
+
+Department for Culture, Media and Sport
+Select Committee
+
+7. It generally extends to England and Wales, and to Scotland with the exceptions of
+sections 148 (legal assistance scheme), 221 (fees) and 346 (prosecution by
+licensing authority).
+8. Sections 443 (chain gift schemes), 331 (foreign gambling) and 340 (foreign
+betting) also apply to Northern Ireland.
+9. There have been a number of Commencement Orders, other Orders (some of
+which have amended the 2005 Act) and Regulations made under the Act. These
+are listed at ANNEX A.
+
+Provisions not brought into force
+Regional casinos:
+10. Following advice from the Casino Advisory Panel2 an Order put before Parliament
+in March 2007 identified the local authorities who would be authorised to licence
+the 17 new casinos permitted by the Gambling Act (one regional casino licence;
+eight large casino licences and eight small casino licences). The Order was
+approved in the House of Commons but was narrowly rejected in the Lords.
+There was a clear consensus that the 16 large and small casinos should proceed
+in the areas recommended by the Panel but the 17th licence for a regional casino
+caused considerable concern in both Houses.
+11. A new Order allowing sixteen local authorities to license a small or large casino
+was laid before Parliament in February 2008 (and came into force on 19 May
+2008). At the same time the Government confirmed it would not allow a regional
+casino licence on the basis of the concerns expressed by Parliament in March
+2007 about the potential negative impact of such a casino and other evidence
+presented at the time that raised concerns about the uncertain level of risk
+involved.
+12. In its recent evidence to the Culture, Media and Sport committee’s inquiry into the
+Gambling Act 2005, the Government has said that, given the incomplete process
+for awarding the eight large and eight small casinos, it is currently not appropriate
+to reconsider the establishment of a regional casino3.
+Voluntary Levy for Research, Education and Treatment (RET):
+13. To oversee and organise the programme of research, education and treatment,
+the Budd Report4 recommended the establishment of a Gambling Trust, to be
+funded voluntarily by the industry, but failing that should be funded by a statutory
+levy. In response to the Budd Report recommendations, section 123 of the 2005
+Act included a provision for the Secretary of State to introduce a statutory levy to
+
+2
+
+The Casino Advisory Panel was established to recommend the locations of the new casinos permitted under the
+
+Gambling Act. The final report of the panel, published on 30 January 2007, is available on the Casino Advisory Panel
+website and can be viewed at: http://webarchive.nationalarchives.gov.uk/+/http://www.culture.gov.uk/cap/
+http://www.publications.parliament.uk/pa/cm201012/cmselect/cmcumeds/writev/gambling/m79.htm
+4
+The correct title of the Budd Report is the “Gambling Review Report”, prepared by the Gambling Review Body and
+published in 2001.
+3
+
+Department for Culture, Media and Sport
+Select Committee
+
+raise funds for the delivery of projects relating to addiction to gambling; other
+forms of harm or exploitation associated with gambling; or any of the licensing
+objectives.
+14. Introduction of a levy would require regulations to be passed by Parliament, and
+would require approval by the Treasury. Following the Gambling Commission’s
+RET Review in 2008, the Government decided that the voluntary levy should
+continue, and section 123 would not be enacted unless the voluntary approach
+failed to generate sufficient funding to sustain a programme of research,
+education and treatment.
+
+Legal Issues
+Airside bars:
+15. As a result of section 278 of the Gambling Act 2005, the provisions in section 2825
+about automatic gaming machine entitlements and section 2836 about licensed
+premises gaming machine permits only apply to premises that hold an alcohol
+licence under Part 3 of the Licensing Act 2003 (the 2003 Act) or the Scottish
+equivalent. Section 173 of the 2003 Act and section 124 of the Licensing
+(Scotland) Act 2005 prevent activities which would normally require a licence (i.e.
+the sale and supply of alcohol) from being licensable if they are carried on at
+specified premises. The list of specified premises effectively includes airside
+bars.
+16. This means that airside bars, because they are not licensable, are not able to
+benefit from the gaming machine entitlements available to licensed premises.
+The Department is considering a Legislative Reform Order (LRO) under the
+Legislative and Regulatory Reform Act 2006 to rectify this anomaly.
+On-course bookmaking
+17. When it came into force on 1 September 2007, the 2005 Act repealed certain
+provisions in the Betting, Gaming and Lotteries Act 1963 and replaced the
+previous regulatory requirement for racecourses to hold a certificate of approval
+with the requirement to obtain a betting premises licence. In doing so, it ended
+the previous system of bookmakers’ lists (containing each bookmaker’s pitch
+position), with which a racecourse was obliged to comply as part of their
+certificate, together with the rule ensuring that no on-course bookmaker was
+charged more than five times the amount for entry as an ordinary race-goer.
+18. Subsequent Regulations preserved ‘list positions’ and the ‘five times rule’ for five
+years (until 31 August 2012) by maintaining the requirements for racecourses to
+provide the same areas for on-course bookmakers as provided prior to 1
+September 2007, and for the charge applicable by racecourses to on-course
+bookmakers to be at five times the public admission price.
+
+5
+
+Section 282 permits licensed premises to make available for use up to two Category C or D gaming machines
+without the need for a Gambling Act licence.
+6
+Section 283 permits licensed premises to apply for a permit to make available for use more than two Category C or
+D gaming machines.
+
+5
+
+6
+
+Department for Culture, Media and Sport
+Select Committee
+
+19. From 1 September 2012, it will be a mandatory condition of racecourse premises
+licences that racecourses will still have to provide an area for on-course
+bookmakers, but the five times rule will no longer apply, meaning that
+bookmakers and racecourses will enter into a commercial arrangements.
+Similarly, on-course bookmakers raised concerns that racecourses would no
+longer recognise the existing arrangements whereby bookmakers’ allocation of a
+pitch in a betting area is determined by their position on a pitch list.7
+20. To aid the agreement of commercial arrangements between racecourses and
+bookmakers, the Government convened a working party in 2008 under
+independent chairmanship, with representation from the Federation of
+Racecourse Bookmakers (FRB) and the Racecourse Association (RCA).
+Following prior agreement on general principles to govern entry by bookmakers to
+betting rings at racecourses and the allocation of bookmakers’ pitches from 1
+September 2012, the RCA agreed in November 2009 to recognise bookmakers’
+list positions in existing betting areas until at least 2052 and, in general, to
+allocate pitches in new betting areas on the basis of existing pitch lists.
+21. Since that time FRB representatives have been taking forward negotiations with
+racecourses on the details of commercial arrangements at each course. Ministers
+have received regular updates and urged that this be resolved quickly.
+Employment of persons under 18 years old on ‘tracks’
+22. It is presently an offence, under section 55 of the Gambling Act 2005, for a person
+under the age of 18 years to be employed, in any capacity, at a track which holds
+a betting premises licence at a time when betting is being offered (effectively,
+throughout the period when horse/dog races, football matches etc. are taking
+place).
+23. This was not the original policy intention and the Department is considering a
+Legislative Reform Order (LRO) under the Legislative and Regulatory Reform Act
+2006 to amend section 55 and allow tracks to lawfully recruit and train under-18s
+in various roles, such as catering and office staff, stable hands, jockeys, and dog
+handlers8. The provision in section 51 of the 2005 Act, which imposes a criminal
+offence for any person under 18 to be employed in the provision of gambling
+facilities, would remain in place.
+Scottish Local Authorities:
+24. Section 310(1) does not apply in Scotland because Schedule 13 of the 2005 Act
+(Provisions about Licensed Premises Gaming Machine Permits) does not have
+effect in Scotland as a result of section 283(5)9.
+25. Section 310(2) only relates to premises in respect of which an on-premises
+alcohol licence has effect. Section 277 defines an on-premises alcohol licence by
+reference to the Licensing Act 2003 – which does not extend to Scotland. Section
+7
+
+In 2007/2008, the Culture, Media and Sport Select Committee considered such issues and published a report on 15
+January 2008.
+8
+Prior to the implementation of the 2005 Act, under-18s were employed in such a way
+9
+“Schedule 13 … shall have effect except in relation to Scotland”.
+
+Department for Culture, Media and Sport
+Select Committee
+
+277(c) has a separate definition for a “relevant Scottish licence”, but section
+310(2) makes no reference to a “relevant Scottish licence”.
+26. Section 304(2) is intended to provide local authorities with the opportunity to
+empower local authority staff already involved in licensing, but does not apply to
+Scotland because the officers given responsibility by Scottish local authorities
+(usually Licensing Standards Officers – LSOs) are not officers of the licensing
+authority10. This creates difficulties in implementing a shared regulation model, as
+local authority officers in Scotland do not have the same powers of entry as their
+English and Welsh counterparts.11
+
+Post-Legislative Reviews
+Fees Review:
+27. 2008 - The Secretary of State undertook to review Gambling Commission fees in
+the light of the Commission's experience of the first full year of compliance and
+enforcement work with the industry. The fees were revised from 1 August 2009
+following a public consultation in April - June of that year12.
+Gaming machines:
+28. Since the 2005 Act came into force, there have been three ‘reviews’ of gaming
+machines focussing on stake/prize limits and machine numbers, and a review of
+prize gaming limits that stemmed from the category C/D review • 2008/9 - the maximum number of category B3 gaming machines that bingo
+premises could offer was increased from four to eight (Public consultation
+June – Sept 2008; implemented February 2009)13;
+• 2008/9 - stake and prize limits for category C and certain types of category D
+gaming machines were increased (Public consultations Aug – Nov 2008 and
+Dec 2008 – Jan 2009; implemented June 2009)14;
+• 2009/10 - stake and limits for prize gaming (consultation with the industry Oct 2009; implemented March 2010)15;
+• 2010/11 - stake limit for category B3 machines increased and B3 entitlements
+for AGCs and bingo premises changed (public consultation Nov 2010 –
+January 2011; implemented July 2011)16.
+
+10
+
+In Scotland, there are separate Licensing Boards, and LSOs are deliberately legally separated from the Boards.
+Sections 304 (3) and (4) are intended to provide local authorities with the opportunity to empower staff involved in
+other regulatory roles, but as most Scottish local authorities have given responsibility to LSOs instead, it does not
+provide the necessary enabler for Scottish local authorities.
+11
+To resolve this issue would entail amendment of the 2005 Act by primary legislation.
+12
+http://webarchive.nationalarchives.gov.uk/20091208125652/http:/www.culture.gov.uk/reference_library/consultation
+s/6042.aspx ).
+13
+http://webarchive.nationalarchives.gov.uk/20100407120701/http://www.culture.gov.uk/reference_library/consultation
+s/5223.aspx
+14
+http://webarchive.nationalarchives.gov.uk/20100407120701/http://www.culture.gov.uk/reference_library/consultation
+s/5711.aspx
+15
+http://webarchive.nationalarchives.gov.uk/20100407120701/http://www.culture.gov.uk/reference_library/publications
+/6410.aspx
+16
+http://www.dcms.gov.uk/publications/8290.aspx
+
+7
+
+8
+
+Department for Culture, Media and Sport
+Select Committee
+
+Hampton Review:
+29. The review of the Gambling Commission took place at the end of the
+Commission’s first full year of operation (October 2008), following the 2005
+Hampton report “Reducing administrative burdens: effective inspection and
+enforcement”. The review made a number of recommendations for improving the
+use of intelligence and risk analysis, better focus on outcomes, and being clearer
+about the Commission’s responsibilities with regard to the economic vitality of its
+regulated sector17.
+Remote Gambling:
+31. In 2009, there was a review of remote gambling regulation (public consultation
+“The Regulatory Future of Remote Gambling in Great Britain”18 March - June
+2010). In July 2011 - the Minister for Tourism and Heritage, John Penrose,
+announced proposals to Parliament via written Ministerial statement19. The
+proposals introduce the need for overseas operators based anywhere in the world
+to obtain a Gambling Commission licence to enable them to transact with British
+consumers and to advertise in Great Britain, and will result in the phasing out of
+the white list. The proposals will require changes to primary legislation and
+options for a legislative vehicle are currently being considered.
+RET Review:
+32. In 2008, the Gambling Commission undertook the Review of Research, Education
+and Treatment. A new tripartite structure was set up, consisting of the
+Responsible Gambling Strategy Board (RGSB), Responsible Gambling Fund
+(RGF) and the Gambling Research Education and Treatment Foundation
+(GREaT20). To negate the need for a statutory levy, the three-year voluntary
+targets and underwriting commitments were to be reviewed and agreed annually,
+following consultation.21
+
+Preliminary Assessment of the Gambling Act 2005
+33. In 2002, as set out in the Government’s White Paper “A safe bet for success –
+modernising Britain’s gambling laws”22, the key intentions of the Government’s
+approach to the regulation of the gambling industry were to “keep crime out,
+protect the vulnerable and ensure that gambling products are fair to the
+consumer”23, with the following objectives:
+• to modernise gambling legislation and to consolidate it into a single piece of
+flexible and comprehensible legislation;
+
+17
+
+http://www.bis.gov.uk/files/file50888.pdf
+http://webarchive.nationalarchives.gov.uk/20100512144753/http://www.culture.gov.uk/reference_library/consultation
+s/6743.aspx
+19
+http://www.culture.gov.uk/news/ministers_speeches/8293.aspx.
+20
+GREaT replaced the former Responsibility in Gambling Trust (RIGT), an independent charitable body funded by the
+UK gambling industry
+21
+This has not happened, and the three-year agreement between GREaT and RGF ends in March 2012.
+22
+The Government’s Response to the Gambling Review Report (Budd Report), published in March 2002
+23
+“A safe bet for success”, page 13, 4.1
+18
+
+Department for Culture, Media and Sport
+Select Committee
+
+•
+•
+•
+•
+•
+•
+
+to create a new single regulatory authority (the Gambling Commission),
+funded through licence fee income, to regulate all gambling24 (with premises
+licensing performed by local authorities);
+to relax advertising restrictions, and the use of credit cards for payment ;
+to establish a new regulatory framework for gaming machines;
+to deregulate casinos and bingo, in order to provide greater choice for both
+players and industry;
+to legalise the provision of the full range of online gambling services by
+operators located in the UK;
+to provide proper controls and protections for children and vulnerable people –
+as part of the conditions of licences to operate - and to ensure there is
+prevention, research, education and treatment in relation to problem gambling.
+
+34. In September 2003, a Joint Committee of the House of Commons and the House
+of Lords was appointed to scrutinise the draft Gambling Bill. The Joint Committee
+examined carefully the impact that the proposals in the draft Bill could have on
+children and vulnerable people, and made a number of recommendations to
+reduce the risks of harm that might be involved in additional consumer choice.
+The Government accepted the vast majority of the recommendations of the Joint
+Committee25.
+35. The 2005 Act now provides a regulatory framework, with much of its powers
+controlled by secondary and tertiary legislation which can be adjusted to deal with
+technological and social changes - something the previous regime was unable to
+do.
+The Gambling Commission:
+36. The Gambling Commission is the national regulator for all forms of commercial
+gambling in Great Britain, except for spread betting and the National Lottery26. It
+is funded by licence fees and is an independent non-Departmental public body
+sponsored by the Department for Culture, Media and Sport (DCMS). It has a
+much broader regulatory remit than its predecessor, the Gaming Board for Great
+Britain.
+37. In addition to covering all forms of gambling (except spread betting), the Gambling
+Commission also has the licensing objective to protect young people and the
+vulnerable, has the statutory duty to advise the government on the impact of
+gambling and its regulation, is a prosecuting authority and is the money
+laundering supervisory body for the casino sector.27
+38. The 2008 Hampton Review of the Gambling Commission confirmed it takes a
+risk-based approach to regulating the gambling industry. There have been some
+concerns from the gambling industry that the Commission is not risk-based
+enough, and that companies themselves can manage the risk of non-compliance
+24
+
+except Spread Betting, which is overseen by the FSA
+In The Regulatory Impact Assessment which accompanied the Bill in 2004, the Government’s view is that
+“reduction of harm should take precedence over the maximisation of innovation, consumer choice and economic
+gains”.
+26
+The Public Bodies Bill, currently before Parliament, provides for Ministers to merge the Gambling Commission and
+the National Lottery Commission.
+27
+There has been some confusion by operators over the role of the Gambling Commission against the role of local
+authorities, with the latter responsible for local compliance and enforcement.
+25
+
+9
+
+10
+
+Department for Culture, Media and Sport
+Select Committee
+
+with the licensing objectives in the same way they manage other risks. The
+Commission continues to keep its risk-based approach under review, and has
+been considering, with the Department, how regulatory activity can best be
+targeted at where it has the greatest impact. The Gambling Commission also
+hopes that, in the future, it can rely more on the checks that companies undertake
+themselves, taking on more of an auditing role. This offers further potential to
+reduce regulatory activity away from responsible operators and focus on those
+who present a higher risk.
+39. The Government does not believe it is necessary to retain a separate regulator for
+the National Lottery, and is proposing to merge the Gambling Commission and
+the National Lottery Commission (NLC).
+Local licensing authorities
+40. The Government has confirmed that it believes the approach of a single national
+regulator along with local licensing authorities is the right one. The Gambling
+Commission and local government, however, need to continue to work together to
+resolve any areas of confusion, and to ensure that there is no duplication of roles
+which might lead to unnecessary additional regulatory burdens – local authorities
+are responsible for local compliance and enforcement.
+Regulation of online gambling:
+41. The Gambling Act 2005 brought remote gambling within the regulatory framework
+for the first time28, with only those operators who locate remote gambling (key)
+equipment in Britain requiring a Gambling Commission licence. Overseas-based
+remote gambling operators are not required to hold a Gambling Commission
+licence, although section 331(1) of the 2005 Act prohibits them from advertising
+unless they are situated within the EEA (including Gibraltar), or in one of the four
+jurisdictions that have been ‘white-listed’29 by the Secretary of State.
+42. It was hoped that a freer approach to advertising would provide maximum
+reciprocal benefits for British businesses in terms of European and International
+gambling markets, and that Britain would be influential in improving standards of
+regulation both across Europe and internationally.
+Experience suggests,
+however, that the system is not working as well as intended as, at present, there
+are different regulatory standards and approaches, and GB consumers may
+experience varying levels of protection depending on the operator they deal with.
+
+28
+
+In 2001 the Gambling Review Body, chaired by Sir Alan Budd, recommended that a proposed new gambling
+regulator license all forms of remote gambling. The then Government agreed with that recommendation and decided
+that gambling should be deemed to take place wherever the gambling operator is based (i.e. place of supply).
+29
+The Gambling Act allows the Secretary of State to designate non-EEA jurisdictions permitted to advertise remote
+gambling services in Britain. This is informally known as the ‘white list’. The current white list jurisdictions are Antigua
+& Barbuda, the Isle of Man, the States of Alderney and Tasmania. Operators supplying gambling from these places
+can advertise their services in Britain in reliance on the licence issued by their home jurisdiction (an arrangement
+which is unique to the British market amongst EU Member States).
+
+Department for Culture, Media and Sport
+Select Committee
+
+43. Following a public consultation30, the Government has recently proposed that the
+2005 Act should be simplified so that all operators selling into the British market will be
+required to hold a Gambling Commission licence31. The Government believes these
+proposals are an important measure to help address concerns about problem
+gambling and underage play. In addition, for the first time, overseas-based remote
+gambling operators will be required to inform the Gambling Commission directly about
+suspicious betting patterns to help fight illegal activity and corruption in sports betting.
+Problem gambling and underage play:
+44. The Licence Conditions and Codes of Practice (LCCP) issued under section 24 of
+the Gambling Act 2005 ensure the protection of children and other vulnerable
+persons by requiring operators to put into place policies and procedures in
+relation to combating problem gambling, preventing access to gambling by
+children and young persons, the provision of information on how to gamble
+responsibly and help for problem gamblers, customer interaction, and selfexclusion.
+45. The Government believes that tackling underage gambling is an example of how
+the new regulatory system has worked well. In 2009 the Gambling Commission
+conducted a test purchasing scheme in betting shops that showed a 2% success
+rate i.e. 98% of all visits resulted in underage players being allowed to gamble.
+This was clearly unacceptable, but following action from the Commission, the
+industry themselves took control of the situation with good results. While the
+Commission and local authorities continue to undertake test purchase schemes,
+this is an area where the industry itself needs to take increasing responsibility for
+monitoring performance and enforcing its own safeguards.
+46. The British Gambling Prevalence Study 2010 (BGPS 2010) indicated an increase
+in the small proportion of problem gamblers in Great Britain since the Gambling
+Act 2005 came into force. The increase was marginally statistically significant
+and in the context of an increase of around 5%, or 3.5 million, in the number of
+adults gambling overall. The study showed that Great Britain had a similar level
+of problem gambling to other European countries, and less than the USA,
+Australia and South Africa.
+47. There is no evidence that indicates whether the changes in the regulation of the
+gambling sector in place since 2007 have had any effect on the level of problem
+gambling, either positive or negative. Government, regulators and the industry
+(including those based overseas) need to do more to understand the causes and
+effects of problem gambling as well as the measures that can be put in place to
+prevent, limit and treat the damage it can cause.
+
+30
+
+The public consultation “The Regulatory Future of Remote Gambling in Great Britain” –
+www.culture.gov.uk/images/consultations/remotegambling_consultation.pdf - ran from March 2010 until June 2010,
+with a change of Government half way through.
+31
+The white list will be phased out as remote gambling operators based anywhere outside Britain will be allowed to apply for
+a Gambling Commission licence
+
+11
+
+12
+
+Department for Culture, Media and Sport
+Select Committee
+
+Gaming machines
+48. The 2005 Act introduced a new regulatory framework for gaming machines,
+including new definitions and categories of gaming machine together with powers
+to prescribe, among other things, maximum limits to stakes and prizes and
+machine entitlements for different types of premises. The approach to the
+regulation of gaming machines under the 2005 Act has, however, led to some
+unintended consequences.
+49. Following implementation of the 2005 Act some operators applied for and in some
+cases obtained operating licences without then providing the primary activity
+authorised by the licence type (for example betting or bingo) or artificially split
+their premises, both of these in order to take advantage of the gaming machine
+entitlements that accrued with the licences. Consequently, the Department and
+the Gambling Commission have sought to address these issues through, for
+example, the introduction of a licence condition to ensure the activities taking
+place reflect the nature of the licence held, more robust guidance to licensing
+authorities about primary gambling activity and more flexible machine entitlements
+for certain types of premises and certain categories of gaming machine.
+
+Department for Culture, Media and Sport
+Select Committee
+
+ANNEX A
+
+Secondary Legislation
+Bingo
+The Gambling Act 2005 (Gaming Machines in Bingo Premises) Order 2009, SI
+2009/324
+
+Casinos
+Gambling (Inviting Competing Applications for Large and Small Casino Premises
+Licences) Regulations 2008
+Gambling (Geographical Distribution of Large and Small Casino Premises Licences)
+Order 2008
+Categories of Casino Regulations 2008
+Gambling Act 2005 (Gaming Tables in Casinos) (Definitions) Regulations 2009, SI
+2009/1970
+
+Commencement Orders
+Gambling Act 2005 (Commencement No.1) Order 2005, SI 2005/2425
+Gambling Act 2005 (Commencement No.2 and Transitional Provisions) Order 2005,
+SI 2005/2455
+Gambling Act 2005 (Commencement No.3) Order 2006, SI 2006/631
+Gambling Act 2005 (Commencement No.4) Order 2006, SI 2006/2964
+Gambling Act 2005 (Commencement No.5) Order 2006, SI 2006/3220
+Gambling Act 2005 (Commencement No.6 and Transitional Provisions) Order 2006,
+SI 2006/3272
+Gambling Act 2005 (Commencement No.6 and Transitional Provisions) (Amendment)
+Order 2006, SI 2006/3361
+Gambling Act 2005 (Commencement No.6 and Transitional Provisions) (Amendment)
+Order 2007, SI 2007/1527
+Gambling Act 2005 (Commencement No.6 and Transitional Provisions) (Amendment)
+(No.2) Order 2007, SI 2007/2169
+Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment)
+Order 2007, SI 2007/1157
+Gambling Act 2005 (Commencement No.7) Order 2007, SI 2007/3155
+Gambling Act 2005 (Commencement No.8) Order 2008, SI 2008/1326
+
+Duty
+Gaming Duty (additional Games) Order 2007, SI 2007/2910
+Gaming Duty (Amendment) Regulations 2009, SI 2009/2046
+Gaming Duty (Amendment) Regulations 2010, SI 2010/1677
+Pool Betting Duty (Application of General Betting Duty provisions) Regulations 2010,
+SI 2010/1783
+
+Gaming
+Club Gaming and Club Machine Permits (Scotland) Regulations 2007
+Gambling Act 2005 (Prize Gaming) (Permits) Regulations 2007, SI 2007/455
+
+13
+
+14
+
+Department for Culture, Media and Sport
+Select Committee
+
+Gambling Act 2005 (Club Gaming and Club Machine Permits) Regulations 2007, SI
+2007/1834
+Gambling Act 2005 (Exempt Gaming in Alcohol-Licensed Premises) Regulations
+2007, SI 2007/1940
+Gambling Act 2005 (Gaming in Clubs) Regulations 2007, SI 2007/1942
+Gambling Act 2005 (Exempt Gaming in Clubs) Regulations 2007, SI 2007/1944
+Gambling Act 2005 (Club Gaming Permits) (Authorised Gaming) Regulations 2007,
+SI 2007/1945
+Gambling Act 2005 (Non-Commercial Equal Chance Gaming) Regulations 2007, SI
+2007/2041
+Gambling Act 2005 (Exempt Gaming in Alcohol-Licensed Premises) (Amendment)
+Regulations 2007, SI 2007/2240
+Gambling Act 2005 (Club Gaming and Club Machine Permits) (Amendment)
+Regulations 2007, SI 2007/2689
+Gambling Act 2005 (Limits on Prize Gaming) Regulations 2007, SI 2007/1777
+Gambling Act 2005 (Limits on Prize Gaming) Regulations 2009, SI 2009/1272
+
+Gaming machines
+Club Gaming and Club Machine Permits (Scotland) Regulations 2007
+Licensed Premises Gaming Machine Permits (Scotland) Regulations 2007
+Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006, SI
+2006/3284
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment)
+Regulations 2007
+Gambling Act 2005 (Family Entertainment Centre Gaming Machine) (Permits)
+Regulations 2007, SI 2007/454
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No.2)
+Regulations 2007
+Gaming Machines in Alcohol Licensed Premises (Notification Fee) (England and
+Wales) Regulations 2007, SI2007/1832
+Gambling Act 2005 (Licensed Premises Gaming Machine Permits) (England and
+Wales) Regulations 2007, SI 2007/1833
+Gambling Act 2005 (Club Gaming and Club Machine Permits) Regulations 2007, SI
+2007/1834
+Gambling Act 2005 (Gaming Machines) (Definitions) Regulations 2007, SI 2007/2082
+Categories of Gaming Machines Regulations 2007, SI 2007/2158
+Gaming Machine (Single Apparatus) Regulations 2007, SI 2007/2289
+Gaming Machine (Circumstances of Use) Regulations 2007, SI 2007/2319
+Gaming Machine (Supply &c.) Regulations 2007, SI 2007/2320
+Gambling Act 2005 (Club Gaming and Club Machine Permits) (Amendment)
+Regulations 2007, SI 2007/2689
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment)
+Regulations 2008
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No 2)
+Regulations 2008
+Gambling Act 2005 (Gaming Machines in Bingo Premises) Order 2009, SI 2009/324
+Categories of Gaming Machine (Amendment) Regulations 2009, SI 2009/1502
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment)
+Regulations 2009
+
+Department for Culture, Media and Sport
+Select Committee
+
+Gambling Act 2005 (Gaming Machines in Adult Gaming Centres and Bingo
+Premises) Order 2011, SI 2011/1710
+
+Horseracing
+Gambling Act 2005 (Horserace Betting Levy) Order 2007, SI 2007/2159
+Gambling Act 2005 (Horserace Totalisator Board) Order 2007, SI 2007/2102
+
+Inspection
+Gambling Act 2005 (Inspection) (Provision of Information) Regulations 2007, SI
+2007/319
+
+Lotteries
+Gambling Act 2005 (Incidental Non-Commercial Lotteries) Regulations 2007, SI
+2007/2040
+Small Society Lotteries (Registration of Non-Commercial Societies) Regulations 2007
+Gambling (Lottery Machine Interval) Order 2007, SI 2007/2495
+Gambling Act 2005 (Variation of Monetary Limit) Order 2009, SI 2009/207
+
+Operating licences
+Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006, SI
+2006/3284
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment)
+Regulations 2007
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No 2)
+Regulations 2007
+Gambling Act 2005 (Operating Licence Conditions) Regulations 2007, SI 2007/2257
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment)
+Regulations 2008
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No 2)
+Regulations 2008
+Gambling Act 2005 (Variation of Monetary Limit) Order 2009, SI 2009/207
+Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment)
+Regulations 2009
+Gambling Act 2005 (Operating Licence Conditions) (Amendment) Regulations 2010,
+SI 2010/774
+
+Personal Licences
+Gambling Act 2005 (Definition of Small-scale Operator) Regulations 2006, SI
+2006/3266
+Gambling Act 2005 (Personal Licences) (Modification of Part 5 of the Gambling Act
+2005) Regulations 2006, SI 2006/3267
+Gambling Act (Personal Licence Fees) Regulations 2006, SI 2006/3285
+Gambling Act 2005 (Relevant Offences) (Amendment) Order 2006, SI 2006/3391
+Gambling (Personal Licence Fees) (Amendment) Regulations 2009, SI 2009/1971
+
+15
+
+16
+
+Department for Culture, Media and Sport
+Select Committee
+
+Premises licenses
+Gambling Act 2005 (Licensing Authority Policy Statement) (Scotland) Regulations
+2006
+Gambling Act 2005 (Premises Licences and Provisional Statements) (Scotland)
+Regulations 2007
+Gambling Act 2005 (Mandatory and Default Conditions) (Scotland) Regulations 2007
+Gambling Act 2005 (Fees) (Scotland) Regulations 2007
+Gambling Act 2005 (Fees No 2) (Scotland) Regulations 2007
+Gambling Act 2005 (Premises Licences and Provisional Statements) (Scotland)
+Amendment Regulations 2007
+Gambling Act 2005 (Review of Premises Licences) (Scotland) Regulations 2007
+Gambling Act 2005 (Fees No 3) (Scotland) Regulations 2007
+Gambling Act 2005 (Fees No 4) (Scotland) Regulations 2007
+Gambling Act 2005 (Review of Premises Licences) (Scotland) Amendment
+Regulations 2007
+Gambling Act 2005 (Licensing Authority Policy Statement) (England and Wales)
+Regulations 2006, SI 2006/636
+The Gambling Act 2005 (Licensing Policy Statement) (First Appointed Day) Order
+2006, SI 2006/637
+Gambling Act 2005 (Proceedings of Licensing Committees and Sub-Committees)
+(Premises Licences and Provisional Statements) (England and Wales) Regulations
+2007, SI 2007/173
+Gambling Act 2005 (Premises Licences and Provisional Statements) Regulations
+2007, SI 2007/459
+Gambling (Premises Licence Fees) (England and Wales) Regulations 2007, SI
+2007/479
+Gambling Act 2005 (Mandatory and Default Conditions) (England and Wales)
+Regulations 2007, SI 2007/1409
+Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment)
+(England and Wales) Regulations 2007, SI 2007/1775
+Gambling Act 2005 (Premises Licences) (Review) Regulations 2007, SI 2007/2258
+Gambling Act 2005 (Premises Licences) (Review) (Amendment) Regulations 2007,
+SI 2007/3539
+
+Remote Gambling
+Gambling Act 2005 (Advertising of Foreign Gambling) (Amendment) Regulations
+2008, SI 2008/19
+Gambling Act 2005 (Advertising of Foreign Gambling) (Amendment) (No 2)
+Regulations 2008, SI 2008/2829
+Gambling Act 2005 (Advertising of Foreign Gambling) Regulations 2007, SI
+2007/2329
+Gambling Act 2005 (Repeal) (Remote Operating Licence and Credit) Regulations
+2007, SI 2007/2321
+Remote Gaming Duty Regulations 2007, SI 2007/2192
+
+Schedule 6
+Gambling Act 2005 (Amendment of Schedule 6) Order 2007, SI 2007/2101
+
+Department for Culture, Media and Sport
+Select Committee
+
+Temporary Use Notices
+Gambling Act 2005 (Temporary Use Notices) Regulations 2007, SI 2007/3157
+
+Tracks
+Gambling Act 2005 (Exclusion of Children from Track Areas) Order 2007, SI
+2007/1410
+
+Transitional Provisions
+Gambling Act 2005 (Transitional Provisions) (No 2) Order 2006, SI 2006/1758
+Gambling Act 2005 (Transitional Provisions) Order 2006, SI 2006/1038
+
+17
+
+Published by TSO (The Stationery Office) and available from:
+Online
+www.tsoshop.co.uk
+Mail, Telephone, Fax & E-mail
+TSO
+PO Box 29, Norwich, NR3 1GN
+Telephone orders/General enquiries: 0870 600 5522
+Order through the Parliamentary Hotline Lo-Call 0845 7 023474
+Fax orders: 0870 600 5533
+E-mail: customer.services@tso.co.uk
+Textphone: 0870 240 3701
+The Parliamentary Bookshop
+12 Bridge Street, Parliament Square
+London SW1A 2JX
+Telephone orders/General enquiries: 020 7219 3890
+Fax orders: 020 7219 3866
+Email: bookshop@parliament.uk
+Internet: http://www.bookshop.parliament.uk
+TSO@Blackwell and other Accredited Agents
+
+

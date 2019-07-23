@@ -1,0 +1,272 @@
+DEPARTMENT FOR CULTURE, MEDIA AND SPORT
+
+Government Response to the House
+of Lords Select Committee on
+Communications Report into Digital
+Switchover of Television and Radio in the
+United Kingdom Session 2009-10
+
+Presented to Parliament by the
+Secretary of State for Culture, Media and Sport
+by Command of Her Majesty
+June 2010
+
+Cm 7876
+
+£5.75
+
+© Crown Copyright 2010
+The text in this document (excluding the Royal Arms and other departmental
+or agency logos) may be reproduced free of charge in any format or medium
+providing it is reproduced accurately and not used in a misleading context.
+The material must be acknowledged as Crown copyright and the title of the
+document specified.
+Where we have identified any third party copyright material you will need to
+obtain permission from the copyright holders concerned.
+For any other use of this material please contact the Office of Public Sector
+Information, Information Policy Team, Kew, Richmond, Surrey TW9 4DU or
+e-mail: licensing@opsi.gsi.gov.uk.
+ISBN: 978 0 10 178762 8
+Printed in the UK by The Stationery Office Limited
+on behalf of the Controller of Her Majesty’s Stationery Office
+ID 2372065
+
+06/10
+
+3612
+
+19585
+
+Printed on paper containing 75% recycled fibre content minimum.
+
+Government Response to the House of Lords Select
+Committee on Communications Report into Digital
+Switchover of Television and Radio in The United Kingdom
+Introduction
+1. The Government welcomes the report by the Lords Select Committee on Communications into
+digital switchover of television and radio published on 29 March 2010.
+2. The report provides a detailed consideration and assessment of many of the issues that have
+emerged from the implementation of the TV Switchover programme, and the Government welcomes
+the Committee’s view that progress so far has been encouraging.
+3. The report also explores the broad range of issues to be considered in any future transition from
+analogue to digital radio. An overarching theme in the Committee’s recommendation is the need for
+clarity for consumers. We agree that this is important. As the Government develops and implements
+its policies on a transition to digital radio we will seek to ensure that the needs of consumers are at
+the centre of our considerations. Where decisions are made we will work with the industry so that
+these are clearly and consistently communicated to consumers.
+4. Government has carefully considered all the recommendations made by the Committee and this
+document represents its response.
+
+Conclusions and recommendations
+5. Recommendations at paragraphs 145, 146 and 148 are directed at Digital UK, the not-for-profit
+company set up by broadcasters to implement TV switchover. Digital UK will be responding to the
+Committee directly on these points.
+We recommend that the details of the Help Scheme’s aftercare are communicated clearly by
+the Digital Switchover Help Scheme to relevant voluntary sector organisations as well as to
+Help Scheme beneficiaries. (para 82)
+6. The Government and the Help Scheme agree that the Help Scheme’s aftercare arrangements
+must be communicated effectively to voluntary sector organisations. The Help Scheme aftercare
+offer is communicated to customers in the Options Pack sent to all eligible customers around 6
+months before Switchover, and reiterated by the installer at the point of installation. The Consumer
+Expert Group, made up of key consumer stakeholder organisations, are involved in agreeing content
+for each regional Options Pack.
+7. Key voluntary sector organisations involved in assisting the delivery of the Scheme receive
+training on the Help Scheme offer, including on the aftercare service. The lead voluntary sector
+organisations involved in delivering the Scheme in each region are identified by Digital Outreach
+Limited (DOL). The training consists of workshops delivered by DOL and Help Scheme staff.
+8. Help Scheme stakeholders receive a quarterly e-bulletin which makes clear the Help Scheme
+offer (including the12 months of aftercare). The Help Scheme website www.helpscheme.co.uk
+explains the standard offer, including the 12 month aftercare service.
+
+1
+
+We strongly regret that the cost benefit analysis carried out by PricewaterhouseCoopers was
+not published at the time it was delivered to Ofcom and the Department for Culture Media
+and Sport in February 2009. (para 99)
+9. The Cost Benefit Analysis produced by PricewaterhouseCoopers, to accompany the work of
+the Digital Radio Working Group, was widely distributed amongst broadcasters and consumer
+representatives. However, there were technical difficulties which prevented the initial publication of
+the report on the DCMS website; these were rectified and the report published in February 2010.
+We recommend that the full impact assessment, including the cost benefit analysis of digital
+radio, be commissioned by the Government and carried out as soon as practicable and that
+the results be published. (para 100)
+10. We agree that a full impact assessment is an essential part of informing the Government’s
+decision on whether and when to move from a primarily analogue to a digital radio landscape. Work
+has already begun to collect the evidence needed to support an impact assessment and analysis
+should begin shortly.
+Given the importance for the Government’s plans for digital switchover of universal reception
+of the BBC’s national stations, it is essential that a firm and unambiguous plan and funding
+for the completion of build-out of the BBC’s national multiplex is put in place as soon as
+possible. (para 107)
+11. In order to agree a plan for DAB coverage build-out, so that it can ultimately meet the current
+levels of FM coverage, Ofcom have been asked to form a Coverage and Spectrum Planning Group
+to make recommendation on the following:
+• the current coverage of national and local radio on FM;
+• changes to the current multiplex structure and frequency allocation; and
+• what new infrastructure is needed so that DAB can match FM.
+Ofcom are expected to present their recommendation to Government in Spring 2011.
+While we acknowledge that the current financial problems of commercial radio make further
+build-out of the national commercial multiplex difficult at this time, we urge the Government
+to ensure that, in due course, it is extended in line with the Digital Radio Working Group’s
+proposal. (para 108)
+12. Coverage of the national commercial DAB multiplex already broadly matches the coverage
+of the national commercial service on FM, although it has been suggested that improvements need
+to be made to the quality of indoor reception and, where possible, overall coverage. However, the
+roll-out of the national commercial multiplex is ultimately a decision for the multiplex operator.
+We recommend that, as a matter of urgency, the Government, the BBC and commercial radio
+agree a plan and allocation of funding responsibility for local multiplex build-out in order that
+local DAB coverage can be raised to 90 per cent. (para 111)
+13. Once the Coverage and Spectrum Planning Group and the industry have agreed a plan for
+DAB coverage build-out, the Government, the BBC and commercial radio can agree the allocation
+of costs for the build-out. These discussions can begin once Ofcom has made its recommendation
+on the scale of the necessary build-out of DAB infrastructure in Spring 2011.
+We recommend that the Government commissions and urgently publishes a report on the
+state of the FM network, what investment might be required to keep the network functioning
+and where any maintenance costs would fall. (para 112)
+
+2
+
+14. The Government recognises that a strong local and community radio tier is an important part of
+a healthy local media sector. It does not believe that future investment in maintaining infrastructure
+is a threat to the continued provision of these radio services on FM, therefore there is no need for
+such a report at this time.
+We urge the Government to clarify its longer term policy on the use of FM and AM for radio
+broadcasting. (para 115)
+15. In the event of a move to digital, a proportion of the FM frequency will need to be reserved for
+radio services, specifically small commercial and community radio services, which have no obvious
+route to digital. Therefore, we believe that the future for small local and community radio stations
+will be on analogue for the foreseeable future.
+We recommend that the Government seeks assurances from the electronics industry on when
+a single electronic programme guide will be available. The Government should include these
+assurances in the advice it issues to consumers on digital switchover. (para 117)
+16. The technology needed to provide an integrated radio station guide, similar to an Electronic
+Programme Guide, already exists. The Government recognises the benefits of such a guide to
+consumers and will work closely with manufacturers with the aim of encouraging the implementation
+and promotion of an integrated station guide in a wide range of radio receivers.
+17. The Government believes that the industry could do more to make consumers aware of the
+benefits of digital radio. This will need to be addressed if take-up and listening to digital radio is to
+continue to grow.
+We recommend that the Government should work with manufacturers to ensure that digital
+car radios are fitted with multi-standard chips as soon as possible and inform consumers of
+availability and benefits of digital radios containing the multi-standard chip. (para 120)
+18. Work with manufacturers and the automotive industry to support the implementation of digital
+radio receivers in vehicles is ongoing and we will continue to encourage the implementation of digital
+radio as standard in all new vehicles. On the specific issue of implementing a multi-standard chip
+for in-vehicle radios, we note that the automotive industry operates in a pan-European market and
+there would be little benefit in vehicle manufacturers incorporating technologies which didn’t work
+across Europe. We are therefore confident that manufacturers will willingly choose to implement
+multi-standard receivers in vehicles in the future.
+We recommend that the Government, in collaboration with the manufacturers, should provide
+guidance to the public on in-car digital listening, including advice on conversion kits available
+and likely to be available within the timeframe of digital switchover. (para 122)
+19. Government recognises the importance of clear and consistent guidance for consumers to
+help inform their future buying decisions; specifically when considering conversion of existing
+in-vehicle radios. We will continue to work with manufacturers and broadcasters to facilitate a
+comprehensive information campaign for listeners, which will be updated as the market develops.
+We recommend that, as a matter of urgency, the Government should liaise with the vehicle
+manufacturers to provide clarity on how traffic reports will be provided to motorists with
+digital radios and built-in satellite navigation systems, thus allowing manufacturers to
+incorporate this into their vehicle development. (para 123)
+
+3
+
+20. Government acknowledges the importance of traffic and travel services to motorists and will
+continue to work closely with manufacturers to ensure the continuation of these services to both
+digital and analogue radio receivers.
+The Government must ensure that advice goes to retailers and the public that when purchasing
+radios, consumers should purchase sets that include a digital tuner. This will prevent the
+problem getting worse. The Government should encourage the industry to devise a sensible
+scrappage scheme, recognising that the industry, manufacturers and retailers, will benefit
+heavily from the new sales generated by digital switchover. We recommend that the Government
+inform consumers as soon as possible as to how the Waste Electrical and Electronic Equipment
+(WEEE) regulations will operate for disposal of analogue radios. (para 126)
+21. The Government recognises the need to ensure that retailers are able to provide reliable advice
+to consumers when purchasing a new radio, specifically the benefits of purchasing a digital radio. To
+this end we will be working with broadcasters and manufacturers to ensure retailers fully understand
+the Government’s policies for digital radio.
+22. The Government is committed to ensuring that the WEEE Directive is appropriately applied
+in any disposal of analogue radios. We have already begun work with the relevant Government
+Departments to assess current disposal practices for small electrical waste and to provide clear
+advice for consumers, manufacturers and retailers.
+23. We note that the radio industry has launched a scrappage scheme in the lead-up to the football
+World Cup. This will provide a useful insight into the practicalities of running such a scheme and
+the issue of reconditioning and recycling old analogue devices.
+We recommend that the Government should make clear to the public that DAB will remain
+the digital radio standard for Digital Radio Upgrade. (para 128)
+At the same time, we recommend that the Government should set a date by which all new
+digital radios should contain the multi-standard chip, giving the UK the option of a subsequent
+move to a different standard. We also recommend that the cost benefit analysis, which the
+Government has undertaken to carry out, should include an analysis of the costs and benefits
+of a subsequent move to another standard. (para 129)
+24. DAB listening represents the majority of all digital listening, 15% (RAJAR Q1 2010), and is
+likely to remain the technology of choice for broadcasters and listeners for the foreseeable future.
+There are no plans at this time to introduce DAB+, although we recognise there are benefits in
+ensuring receivers sold in the future would support any such change of technology.
+25. The cost benefit analysis of a transition to digital radio will need to take account of all areas of
+the government’s proposals, including, if appropriate, a possible future transition to DAB+.
+We recommend an early and extensive information campaign to publicise the Government’s
+digital radio policy, its rationale and its implications for listeners. (para 131)
+26. The Government is working with Digital Radio UK to develop a clear and consistent
+communications plan to improve listeners’ awareness of digital radio, the benefits of the technology
+and the services available.
+We recommend that, as a matter of urgency, the Government, Digital Radio UK, representatives
+of the electrical manufacturing and retailing industries, and representatives of the vehicle
+manufacturing and retailing industries should agree advice to consumers about purchase of
+digital radio equipment. We also recommend the introduction of a “kitemarking” scheme for
+digital radios, to include information on power consumption. (para 132)
+
+4
+
+We recommend that the Government explains in a public communications campaign on
+digital radio that, while DAB radios will continue to operate for the foreseeable future, radios
+containing the multi-standard chip will provide insurance against a future change of digital
+standard and will also work on the continent of Europe. (para 133)
+27. A kitemark scheme is an effective way of providing assurances to consumers about the
+quality of their devices. Clearly any kitemarking scheme would need to be underpinned by a clear
+set of receiver specifications and a conformance testing regime. We believe that this minimum
+receiver specification should include capability to receive both DAB and DAB+, to protect against
+a future change of technology. Work has already begun with manufacturers and the industry to
+agree a common set of specifications and the mechanisms for testing; once these are agreed and
+implemented, discussion on an appropriate labelling scheme can begin.
+We recommend that the Government confirms as soon as possible that a help scheme with
+special focus on disadvantaged groups will be part of the Digital Radio Upgrade programme.
+In this case, funding should be raised through general taxation, not through the licence fee.
+(para 134)
+28. A comprehensive impact assessment, including a cost benefit analysis, will be required before
+any date for a transition to digital can be set. The findings of the cost benefit analysis will help
+inform whether a Help Scheme to support a transition is necessary, what its purposes should be,
+how much it might cost and how to best publicise it.
+We recommend that the Government and broadcasters consider how increased production
+and dissemination of digital radio content can be encouraged. (para 137)
+29. Government agrees with the Committee’s view that an increase of digital content will be a
+key driver to the take-up of digital radio. However, this is primarily a matter for the broadcasters
+themselves; although we believe that certainty about the future of digital radio will help broadcasters
+invest in new content with greater confidence.
+
+5
+
+Published by TSO (The Stationery Office) and available from:
+Online
+www.tsoshop.co.uk
+Mail, Telephone, Fax & E-mail
+TSO
+PO Box 29, Norwich, NR3 1GN
+Telephone orders/General enquiries: 0870 600 5522
+Order through the Parliamentary Hotline Lo-Call 0845 7 023474
+Fax orders: 0870 600 5533
+E-mail: customer.services@tso.co.uk
+Textphone: 0870 240 3701
+The Parliamentary Bookshop
+12 Bridge Street, Parliament Square
+London SW1A 2JX
+Telephone orders/General enquiries: 020 7219 3890
+Fax orders: 020 7219 3866
+Email: bookshop@parliament.uk
+Internet: http://www.bookshop.parliament.uk
+TSO@Blackwell and other Accredited Agents
+Customers can also order publications from:
+TSO Ireland
+16 Arthur Street, Belfast BT1 4GD
+Tel 028 9023 8451 Fax 028 9023 5401
+
+

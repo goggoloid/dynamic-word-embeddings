@@ -1,0 +1,881 @@
+Department for Culture, Media and Sport
+
+Government response to the House
+of Lords Communications Select
+Committee Report, “Broadband for
+all – an alternative vision”
+
+Presented to Parliament by the Secretary of State for Culture,
+Media and Sport and Minister for Women and Equalities by Command of Her Majesty
+October 2012
+
+Cm 8457
+
+£ 6.25
+
+Department for Culture, Media and Sport
+
+Government response to the House
+of Lords Communications Select
+Committee Report, “Broadband for
+all – an alternative vision”
+
+Presented to Parliament by the Secretary of State for Culture,
+Media and Sport and Minister for Women and Equalities by Command of Her Majesty
+October 2012
+
+Cm 8457
+
+£ 6.25
+
+© Crown Copyright 2012
+You may re-use this information (excluding logos) free of charge in any format or
+medium, under the terms of the Open Government Licence. To view this licence,
+visit http://www.nationalarchives.gov.uk/doc/open-government-licence/ or e-mail:
+psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Any enquiries regarding this document should be sent to us at enquiries@culture.gov.uk
+This publication is available for download at www.official-documents.gov.uk
+This document is also available from our website at www.culture.gov.uk
+ISBN: 9780101845724
+Printed in the UK by The Stationery Office Limited
+on behalf of the Controller of Her Majesty’s Stationery Office
+ID P002520209 10/12 23878 19585
+Printed on paper containing 75% recycled fibre content minimum.
+2
+
+3
+
+Introduction
+The Government welcomes the House of Lords Select Committee’s 1st Report of
+Session 2012-13.
+The Government is grateful to the Committee for its examination of the key issues
+relating to the key broadband policies as set out in the ‘Britain’s Superfast Broadband
+Future’ based on written and oral evidence from stakeholders. We welcome the
+detailed consideration the Committee has given to these issues, and note its
+recommendations.
+The Government has carefully considered all the recommendations suggested by the
+Committee and is pleased to be able to present its response.
+
+4
+
+The Government’s Approach
+The Government welcomes this report by their Lordships and acknowledges the
+recommendations and themes presented. Before responding in detail to these, we
+thought it appropriate to summarise the Government’s current approach and why we
+believe this is right way forward.
+The Government recognises the economic growth potential of broadband and has
+made available £530m to stimulate private investment to take superfast broadband to
+90% of UK premises and basic broadband coverage to virtually everyone else at a
+speed of at least 2Mbps. It has also allocated a further £150m to support the
+development of super-connected cities which will have ultrafast broadband and high
+speed wireless internet access. This support, in addition to commercially-led
+deployment by the private sector, is aimed at delivering our key ambition of having the
+best superfast broadband network in Europe by 2015.
+The current Government approach is to support the extension of fibre deeper into the
+network, including the transmission network (backhaul/middle mile) where this is a
+bottleneck. The Government has sought to encourage infrastructure competition
+through providing funding to stimulate private investment in locations where the
+commercial investment case is weak and would be unlikely to happen at all without
+subsidy.
+The Government considered a range of different delivery options prior to embarking on
+its current approach, including taking into account the cost and need for delivering
+sustainable solutions that do not require continued government subsidy. It considered
+that the market was best placed to determine which solutions and network design
+could deliver affordable and sustainable services to consumers – with technology
+neutrality key.
+The Government’s approach is for procurement to take place at a local level, and
+through Broadband Delivery UK (BDUK), the Government has worked closely with
+local authorities across England to ensure all have local broadband plans that set out
+how they will meet the Government’s ambitious coverage targets. Similar plans have
+been developed by the Devolved Administrations in Scotland, Wales and Northern
+Ireland. This approach leverages local and European funding, and as a result over
+£1bn of public funds in total will be invested in delivering broadband to remote and
+rural areas, together with significant funding from the commercial sector.
+To facilitate the procurement process and to avoid local authorities having to repeat
+costly and time consuming procurements, the Government has procured the
+Broadband Delivery Framework, enabling local authorities to invite suppliers to bid
+under mini-competitions to deliver their local projects. BT and Fujitsu were confirmed
+as the chosen suppliers following a rigorous assessment process which ensured that
+the suppliers were capable of delivering affordable and sustainable services to
+consumers. The Broadband Delivery Framework provides for projects involving a gap
+funded investment model. All procurements will be complete by summer 2013, with
+deployment starting on the first projects from summer 2012.
+
+5
+
+The Government are supporting the programme of investment with a series of policy
+and regulatory interventions that will lower the cost of deployment for commercial
+providers and provide greater certainty to allow the market to invest. The Government
+recently announced that:
+•
+
+broadband street cabinets and other infrastructure (such as overhead
+infrastructure) can be installed without the need for prior approval from the
+local council (except in Sites of Special Scientific Interest);
+
+•
+
+broadband companies will face less cost and bureaucracy in laying cables
+in streets;
+
+•
+
+broadband cables and cabinets can be installed on or under private land
+without the bureaucratic burden of long-running negotiations; and
+
+•
+
+Government will broker a new deal for the installation of broadband with
+industry and highway authorities to ensure that traffic regulation does not
+hinder the roll out of superfast broadband
+
+These measures will tackle issues that are costing communications providers time and
+money, delaying the roll out of superfast broadband to the areas that need it most. We
+will be bringing forward these measures as soon as possible, following consultation
+where necessary.
+We believe that this approach of both supporting investment and implementing policy
+and regulatory interventions will enable the commercial market to deploy superfast
+broadband to as many households as is commercially viable, as well as providing
+support in areas where the commercial investment case is challenging. By enabling
+local authorities to take control of investments in their area, we maximise public and
+private investment whilst ensuring local needs are taken into consideration.
+
+6
+
+The Government’s Response to the
+Recommendations
+The Government welcomes the Committee’s detailed recommendations, and is
+pleased to be able to respond to them – either individually or grouped according to a
+broad theme. We believe that the approach we have taken is the most appropriate
+way to meet our goal of having the best superfast broadband network in Europe by
+2015, and ensure that 90% of households have access to superfast broadband with
+the remainder receiving at least 2Mbps. Our responses to the recommendations
+reflect this and demonstrate why we believe we are on the right path.
+Recommendation
+253. We recommend that the Government consider our vision for the UK’s
+broadband infrastructure as set out in this report. As a first step, we recommend
+that the Government undertake to produce detailed costings of our proposal,
+not least because our proposal removes the final mile—the most expensive per
+capita component of the network—from the costs requiring public subsidy.
+(Para 53)
+The Government thanks the Committee for the suggestion of a focus on digital hubs.
+This is something that was considered during the course of the detailed work
+undertaken by BDUK, and is something that is still being considered for certain
+projects, depending on the need and viability. Our plans will deliver fibre deeper into
+the network and it will be down to individual procurement processes undertaken by
+Local Authorities to determine how best to connect homes from that point onwards –
+for example whether through an existing copper connection in the case of fibre to the
+cabinet solutions, fibre to the premise solutions, or a fixed wireless solution. The
+procurement process will determine which is the most suitable, and as importantly,
+affordable, with sustainable service provision without the need for further on-going
+subsidy.
+Regarding the recommendation to undertake a detailed cost study of the proposal, the
+Government does not believe that it should deviate from the current course of action,
+so any costings of an alternative proposal would not be helpful at this point. It is also
+likely that their Lordship’s proposal would cost far in excess of the funds available to
+Government at this point – analysis by consultancy Analysys Mason1 following the
+publication of the report estimated that delivery of digital hubs as outlined in the report
+would cost more than is currently available, concluding that:
+“The major challenge faced by the House of Lords proposals is that they appear to
+require substantially more public funding than is currently available.”
+
+1
+
+http://www.analysysmason.com/About-Us/News/Press-releases1/UK-fibre-optic-hubs-PRJul2012/?bp=%252fNews%252f
+
+7
+
+“As the report notes, the amount of government funding allocated to broadband
+schemes totals £750m — less than our estimated cost for building hubs in the most
+rural 10 percent of the UK. If the hubs were expected to provide greater population
+coverage (perhaps as much as the final 33% of the UK population), then the shortfall
+would be even greater.”
+Recommendation
+254. We endorse the European Commission’s suggestion that open access to
+dark fibre at the cabinet-level should be introduced as a condition of BDUK’s
+umbrella state aid permission. (Para 59)
+The Government is content with the position on access to infrastructure set out in the
+Commission’s guidelines on State aid for broadband2 that the access requirements
+placed on suppliers in receipt of State aid should serve to promote effective and
+sustainable competition. The guidelines recognise that ‘open access’ to supplierinstalled dark fibre in the access network provides one route, but not the only route, to
+enabling passive access. Rather, the Commission recognises the need to balance the
+costs of competition with other access products (e.g. physical infrastructure access
+offers a mechanism whereby a supplier can invest in its own infrastructure, deploying
+and re-selling its dark fibre deployment). Key is that the stipulated access products
+offer a realistic chance of promoting effective and sustainable competition.
+255. Accordingly, not least, in order to expedite its own programme, we
+recommend that the Government incorporate open access to dark fibre
+voluntarily as a feature of its Framework agreement with suppliers. (Para 60)
+The Government has addressed this in the Broadband Delivery Framework contract
+that requires a supplier to offer either physical infrastructure access (which allows a
+competing infrastructure provider to install their own fibre connectivity and to offer
+wholesale access to it) or the provision of dark fibre (installation of fibre by the supplier
+and to wholesale its provision). Furthermore, the intended evaluation approach for
+each of the local authority procurements also requires that a positive weighting is
+applied to those suppliers offering both a passive infrastructure access product and a
+dark fibre product. There is therefore an incentive for suppliers to consider, on a
+voluntary basis, the provision of a dark fibre product.
+In addition to this, the network access conditions that apply to the winning supplier
+require that supplier to meet all reasonable requests for new forms of network access
+i.e. network access requests made during the contract term. Therefore, a supplier is
+required to meet a reasonable request that a communications provider might make for
+access to its installed dark fibre.
+Rather than expediting BDUK’s programme, mandating the provision of dark fibre is
+likely to impede progress. BDUK has sought to ensure the right balance is struck
+between competition and value for money. The Government does not therefore
+2
+
+http://ec.europa.eu/competition/state_aid/legislation/specific_rules.html#broadband
+
+8
+
+anticipate that the Commission will mandate dark fibre as a specified access product.
+Placing that additional requirement (in addition to a passive infrastructure access
+product) on suppliers would be likely to significantly increase the cost of delivery with
+no clearly identified additional competitive benefit.
+
+256. More broadly, we endorse and invite the Government’s view on the
+European Commission’s conclusion on the broadband investment environment
+that: “securing truly equivalent access by alternative operators to incumbent
+networks is probably the most important guarantee of sustainable competition,
+on existing and new networks.” (Para 61)
+The Government supports Vice President Kroes’ view that key regulated access and
+interconnection products must support equality of access for all companies. This is a
+key feature of BT’s 2005 Undertakings3 that functionally separated BT Openreach
+(BT’s infrastructure division) from BT’s retail divisions (such as BT Retail) and ensured
+that all companies can access certain aspects of BT’s network on the same terms that
+BT Retail can. Ofcom can also impose non-discrimination remedies on BT that require
+equivalence of access if BT has been found to hold Significant Market Power (SMP)
+following market review.
+The Government is content that the remedies that Ofcom imposes (such as those in
+the local loop unbundling market or the recent physical infrastructure access
+requirements), in both instances, are considered to be proportionate and targeted at
+ensuring the development of effective and sustainable competition.
+Recommendation
+257. Broadband policy should begin from the question: what should the UK
+communications infrastructure look like? (Para 75)
+The Government believes that the UK’s communications infrastructure should have
+good coverage across the UK, and offer consumers the choice of providers and price
+competition in all markets. We believe this has been achieved, both in the fixed line
+and mobile sectors. The plans to deliver superfast broadband to 90% of the UK and at
+least 2Mbps for the rest, alongside the 4G coverage commitments, combined with
+effective regulation will ensure that this continues.
+258. In addition, it should be a fundamental principle of broadband policy that
+whatever measures are undertaken to enhance or extend its availability, they
+strive to bring about equality of opportunity to access broadband across all
+communities in the UK. (Para 76)
+3
+
+Undertakings given to Ofcom by BT pursuant to the Enterprise Act 2002 [Consolidated
+version of the Undertakings (covering all variations up to and including variation number 22),
+dates 23 March 2010], at
+http://stakeholders.ofcom.org.uk/binaries/telecoms/policy/bt/consolidated.pdf
+
+9
+
+259. In this sense, Government policy on broadband should be driven, above all,
+by the social benefits it can unleash, and the need to arrest and ultimately
+reduce a damaging digital divide. (Para 77)
+The Government agrees with the Committee that social benefits should be one of the
+key drivers for our broadband policies, but would also emphasise the potential of
+broadband to support economic growth. That is why we have put into place a
+programme that will deliver superfast broadband of at least 24Mbps to at least 90% of
+households, with the remainder able to receive 2Mbps basic broadband – which is
+sufficient to allow consumers to utilise internet-based services such as the BBC
+iPlayer. As the Lords recognise, it is the final 10% that is particularly challenging, with
+very significantly higher costs per premise.
+Recommendation
+260. We recommend that future broadband policy should not be built around
+precise speed targets end-users can expect to receive in the short-term,
+however attractive these may be for sloganeers. (Para 110)
+Current policy is not built around precise speed targets. We have defined superfast
+broadband as a speed greater than 24 Mbps, in line with the definition adopted by
+Ofcom in a 2010 report and the BDUK Programme Delivery Model4. That speed
+represented the limit of what was deliverable over copper lines using ADSL2
+technology. Superfast broadband therefore represents a step change in terms of
+capability compared to what was generally available to consumers in 2010. As noted
+above, the minimum target speed of 2 Mbps for those we will not be able to reach with
+superfast broadband by 2015 is also based on the delivery of a basic capability rather
+than a focus on a specific speed.
+As the Government set out in the strategy document “Britain’s Superfast Broadband
+Future” in December 2010, we will be using a number of indicators to determine
+whether the UK meets our ambitions of having the best superfast broadband network
+in Europe by 2015. This does includes speed – both upload and download. We do
+believe this is an important factor – not because it is attractive for sloganeers, but
+because it has a definite impact on how consumers use the internet and is something
+that consumers identify with and can measure easily. We believe that it is such an
+important factor that in August 2012, the Secretary of State for Culture, Media and
+Sport set out ambitions for the UK to have the fastest network of the larger European
+countries by 2015. This is because history has shown us that speed is never enough
+and we should not be complacent.
+However, as the strategy document recognises, speed is not the only factor. Choice,
+coverage and price are also essential – it is important that consumers can access as
+good speeds as possible, through as many providers as possible, at a price that is
+affordable. The UK has one of the most competitive broadband markets in the world
+4
+
+http://www.culture.gov.uk/publications/8482.aspx
+
+10
+
+and we believe it is essential this continues. Ofcom are due to publish the first
+European scorecard by the end of the year.
+Recommendation
+261. In addition, broadband infrastructure policy should be driven by an
+avowedly long-term, but also flexible view of the infrastructure’s future. (Para
+111)
+262. As an overriding principle, we recommend that Government strategy and
+investment in broadband infrastructure should always be based on a minimum
+ten year horizon and possibly beyond. (Para 112)
+263. While we acknowledge the presently elusive nature of a ‘killer app,’ we
+believe there is a clear need for the Government to state in explicit terms a longterm vision for a pervasive, robust and resilient broadband infrastructure,
+central to national policy and infrastructure planning.
+(Para 113)
+264. We anticipate and recommend that policy should be ultimately directed
+towards universal, point-to-point FTTP as this is a technology not only able to
+accommodate current demand, but at current rates of growth, will be able to
+accommodate the UK’s bandwidth demands for many decades to come.
+(Para 114)
+265. In this sense, we recommend that the Government should set out an even
+bolder vision for broadband policy than is currently the case. (Para 115)
+We support the Committee’s view that policy and investment should focus on the
+longer term, and we believe that our current policies and investment programmes do
+this. However, technology moves fast and it is not for Government to determine the
+technology used to deliver greater speeds and reliability. The market is much more
+adept at ensuring access continues to be affordable whilst delivering the speeds and
+bandwidths we all want to see. Government’s role is to provide the right environment
+for investment to take place, and provide appropriate support in areas where the
+commercial case is challenging.
+The Government is committed to enabling and encouraging the private sector to
+deploy new network infrastructure as quickly and efficiently as possible. That is why a
+package of support measures was announced on 7 September aimed at removing or
+reducing barriers to deployment of network infrastructure by communications
+providers.
+Recommendation
+266. Given the impossibility, with current constraints on resources, of rolling out
+universal point-to-point FTTP, we recommend that Government policy should,
+
+11
+
+as an intermediate step, aim to bring national fibre-optical connectivity—which
+would include, as a minimum, fully open access fibre backhaul—within the
+reach of every community. This will provide the platform from which basic levels
+of service can be provided to all, and an improved service where there is
+sufficient demand. (Para 116)
+267. As a point of principle, we believe it is incumbent on the Government to
+ensure that policy and regulation in the interim guarantee that there is a clear
+path from any intermediate steps which may be taken to the roll-out of pointtopoint FTTP and that, crucially, these steps will not serve to hinder or hold back
+any future upgrade. (Para 117)
+It is not for Government to decide which technology is the most suitable, as it is likely
+that a mix of technologies will be needed in the UK, given the topography and
+commercial challenges faced in the more rural and remote areas of the UK.
+As the Committee recognises, delivering universal point to point Fibre to the Premise
+would be extremely costly – estimated at in excess of £25bn. We believe the
+investment programmes being delivered by the market in the more attractive areas of
+the country for investment will provide consumers with the access they desire, with a
+choice of providers at an affordable price. Ofcom, as the National Regulatory
+Authority, has a duty to ensure effective competition in the market and we believe they
+are meeting this obligation fully. In those areas where subsidy is needed, we expect
+those networks built using public funds to provide wholesale access to other operators
+in full accordance with European State Aid rules.
+Recommendation
+268. It should be a fundamental principle of broadband policy that measures be
+undertaken, where possible, to reinforce the robustness and resilience of the
+network as a whole. (Para 124)
+The Government supports the Committee’s view and believes that its policies strike
+the right balance. The telecommunications sector is very resilient and is characterised
+by excellent Government and industry cooperation via the Electronic Communications
+- Resilience and Response Group (EC-RRG), the industry group for which the
+Department for Business, Innovation and Skills (BIS) provides the secretariat function.
+The group works to share best practice and to improve existing sector resilience
+further. The EC-RRG is acknowledged as an excellent example of cooperative
+working and leads on maintaining resilience within the telecoms sector which is
+considered to be one of the most robust sectors of the Critical National Infrastructure.
+EC-RRG has representatives from all of the major telecoms providers as well as the
+Regulator.
+The EC-RRG manages the Telecoms Emergency Plan which sets out management
+processes for handling emergencies, priority customers and priority services (and is
+regularly exercised). EC-RRG is made up of Category 2 responders (under the Civil
+Contingencies Act 2004) as well as others who participate voluntarily. Each individual
+operator has their own plans for how to manage an emergency affecting their systems,
+
+12
+
+as well as plans to restore service to their customers, and will action these when
+necessary.
+Specific requirements under the European Electronic Communications Framework
+Directive, designed to enhance the security and resilience of communications
+networks and services and minimise disruption to them, have been in place since May
+2011. Measures include increased requirements on providers to ensure the security
+and resilience of their networks and services. The requirements are wide ranging and
+aim to develop a high level of security and resilience in the Communications sector, as
+well as increased transparency on measures taken to achieve this. Requirements
+have also been placed on companies to report any significant incidents to the
+Regulator (Ofcom), and undergo a security audit in the event of any clear evidence
+that companies are not compliant with the Directive.
+The Civil Contingencies Act 2004 provides the backdrop for work on enhancing
+resilience.
+Currently certain communications providers are required to share
+information on resilience (as part of their role as Category 2 responders), which they
+do through the EC-RRG – though this group actually goes wider and includes
+volunteers from the wider communications service provider community who are not
+legally required to share information.
+The Digital Economy Act 2010 addresses key issues that needed to be progressed to
+make the UK a world leader in the supply and use of digital networks and technologies
+and acknowledged the importance of existing work on resilience and security. The Act
+sets out proposals that allow Ofcom to assess the delivery of communications services
+in the face of problems that are realistically likely to be faced and makes the promotion
+of investment in communications infrastructure one of Ofcom’s principal duties. In
+addition, Ofcom has an obligation to write every three years to the Secretary of State
+giving a full assessment of the UK’s communications infrastructure, including its
+resilience. The first of these reports was produced in October 2011.
+Recommendation
+269. We recommend the Government ensure freedom and economy of passage
+for communication of data across the UK. (Para 125)
+The Government is committed to making broadband access as widely available as
+possible and we have reiterated our commitments in that area already in this
+response. In addition the Government has worked with industry to develop an Open
+Internet Code of Practice which commits signatory ISPs to full and open internet
+access products and confirms that traffic management practices will not be used to
+target and degrade the services of a competitor.
+Recommendation
+270. We recommend that Ofcom, in addition to its duties on competition and
+investment, be given an additional duty to monitor and foster the efficient
+utilisation of existing capacity (including, for example, use of the
+communications infrastructure owned by other infrastructure providers) to
+
+13
+
+provide a robust and resilient national network that promotes affordable open
+access to wholesale and retail connectivity across the UK. (Para 126)
+The Government believes that Ofcom’s existing duties and powers are sufficient to
+ensure that there are competitive retail and wholesale broadband access markets
+operating in the UK. Ofcom conducts periodic market reviews and implements
+remedies as and when they are required to promote competition and investment, a
+notable recent example being the decision to open up BT’s network of ducts and poles
+to competitors.
+The intention of this remedy is to deliver greater infrastructure competition and
+competitors are now able to deploy their own equipment using BT’s existing network,
+at a regulated price. These products are still in their relative infancy but the
+expectation is that consumers will be able to benefit from competitors able to control
+their costs by deploying competing networks using BT’s ducts and poles and pass this
+saving to consumers, rather than needing to invest the significant sums needed to
+build brand new networks, which incur large civil engineering costs.
+Ofcom also publishes an infrastructure report providing extensive information on the
+availability of communications networks in the UK. The first report was published in
+2011 with the second report expected before the end of the year.
+Recommendation
+271. We recommend that the Government’s targets should refer to minimum and
+median levels of service, and that Ofcom adapts its scorecard accordingly. (Para
+132)
+Whilst the Government recognises that headline speed is not always an accurate
+indicator for the speeds received, due to other issues such as contention, interference
+and home wiring issues, we believe headline speed offers consumers an indication of
+the speed that will typically be received. It is also not always possible to assess
+minimum or median speeds without expensive monitoring equipment in every home.
+We believe it is also important to provide consumers with as accurate information as
+possible at the point of sale so they can make an informed choice about whether or
+not to subscribe to a service. Ofcom’s broadband code of practice regarding speeds
+ensures this, and enables consumers to differentiate on service provision.
+Recommendation
+272. In order to ensure the digital divide is not widened, we recommend that the
+Government commit to reducing the digital divide between the minimal service
+levels guaranteed to all and the median service levels enjoyed by the majority.
+(Para 134)
+The Government is committed to reducing the digital divide, which is why we have put
+in place a detailed plan of action that will deliver superfast broadband to 90% of
+households, and at least 2Mbps to the rest.
+
+14
+
+Additionally, the Rural Community Broadband Fund is aimed at supporting superfast
+broadband projects in the most rural and remote areas of England, in the final 10%
+that will not be reached by the BDUK programme.
+Recommendation
+273. It is our view that a Universal Service Obligation (USO) is not an appropriate
+way to bring about universal access to minimum levels of service, not least
+because in practice, imposing legal obligations on ISPs could easily and quickly
+lead to drawn out proceedings in the courts. (Para 136)
+Recommendation
+274. We do, therefore, endorse the approach adopted by the Government:
+pledging a Universal Service Commitment, to which it will be politically
+accountable, and stating explicitly a clear political aspiration to provide
+universal access to a minimum level of broadband provision. This, in our view,
+is at this stage a more appropriate approach than introducing a legally binding
+USO. (Para 137)
+We are pleased that the Committee recognises that a broadband USO would not
+deliver universal coverage in a timely or proportionate fashion, and that the
+Government’s proposed approach to make available at least 2Mbps to virtually every
+household is appropriate.
+Recommendation
+275. We recommend that the Government, Ofcom and the industry begin to
+consider the desirability of the transfer of terrestrial broadcast content from
+spectrum to the internet and the consequent switching off of broadcast
+transmission over spectrum, and in particular what the consequences of this
+might be and how we ought to begin to prepare. (Para 141)
+276. While we do not support the introduction of a USO at present, we do believe
+that broadcast media will increasingly come to be delivered via the internet. As
+and when that happens, and particularly in circumstances where this applies to
+PSB channels, the argument for recommending a USO becomes stronger. The
+Government should begin now to give this active consideration. (Para 143)
+The Government believes that it would be premature to consider such a move at this
+time, as it will be some time before an appropriate level of broadband coverage and
+access matches that available for Digital Terrestrial Television, as the Committee has
+identified. The Government recognises that there is an increasing number of
+television services delivered over the internet, but believes consumers should have the
+choice to decide how best to view and consume content.
+
+15
+
+Recommendation
+277. We bring to the Government’s attention the fact that we have heard a
+number of calls during this inquiry, with which we agree, for uptake and
+effective use of the internet to become a higher priority. (Para 150)
+The Government agrees with the Committee that take up and effective use of the
+internet is vital. As the Committee will be aware, Martha Lane Fox, as the
+Government’s Digital Champion has been instrumental in driving forward take up,
+through Race Online 2012. These campaigns have led to 2m more people accessing
+the internet for the first time over the last few years. Go-ON:UK, the successor to Race
+Online, is currently planning how to build on this success and is expected to make a
+formal announcement of its strategy in early November.
+Recommendation
+278. We urge the Government to provide a more coherent mechanism for the
+provision of enhanced broadband infrastructure in the final 10% than currently
+is the case with the Rural Community Broadband Fund. In particular, a new
+mechanism for distributing funds must meet the criticism that its predecessor
+was flawed in assuming all communities have the capital required, up front, to
+invest in their own access network. (Para 160)
+We note the Committee’s comments on the Rural Community Broadband Fund, jointly
+financed by BDUK and Defra and operated by Defra through the Rural Development
+Programme for England. The Fund is specifically designed to extend superfast
+broadband into the final 10% or so hard to reach rural communities that will otherwise
+only receive standard broadband under the BDUK rural broadband programme (to
+ensure that they are not disadvantaged). It is therefore only available to support
+technologies that deliver superfast speeds in these 10% areas, to avoid duplication of
+public funding.
+The Committee raised particular concern over the ability of communities to pay for
+project costs upfront. Under the Fund, applicants will need to contribute 50% of funds
+from private sources towards the overall costs and show that they have cash available
+to meet any ongoing costs. It is an EU requirement that approved grant funds are
+claimed back after the expenditure has been incurred. Grant can be claimed in stages
+as costs are incurred.
+We recognise that the requirement for communities to raise 50% of the project costs
+themselves through private investment will be challenging for some applicants.
+However, it is a competitive fund and we want to ensure that the available public funds
+can help as many communities as possible. During consideration of expressions of
+interest under the first round, we considered whether the ability to raise private finance
+was causing applicants any difficulties. However, there was no evidence that
+applicants were finding this to be a barrier and there has been considerable interest in
+the Fund so far within the existing criteria, with over 80 Expression of Interest
+applications. In practice, a mix of sources are being identified in applications, from the
+
+16
+
+raising of community shares, charitable funds and contributions from potential
+procured providers. Recognising the difficulties in raising private finance, the
+Government has provided a fact sheet on ‘Raising Private Finance’ which is available
+to all applicants under the Fund.
+The Government considers the mechanisms under the existing Rural Community
+Broadband Fund to be workable.
+Recommendation
+279. In their deliberations over the potential reform of the Electronic
+Communications Code, we encourage the Law Commission to consider the
+impact of the Code on the roll-out and availability of broadband infrastructure
+throughout the UK. (Para 167)
+One of the reasons the Law Commission were invited to undertake an independent
+review of the Code was because of the importance of electronic communications to
+the UK’s economy and the social benefits of widening access to modern
+communications technology. Their current consultation which closes at the end of
+October, references this.
+The Law Commission will be making their recommendations to Government in
+February 2013, and the Government intends to bring forward the reform of the Code to
+produce a wayleave regime which is more transparent, timely and cost effective for
+operators and landowners alike, and will better support broadband roll-out.
+Recommendation
+280. We urge the Government to consider reform of street works permissions
+and the current planning system, given their wider impact on the pace and sheer
+viability of the roll-out of broadband infrastructure throughout the UK. (Para 168)
+The Government has been informed that some communications providers have
+concerns about potential delay and cost from the planning system and from street
+work permit schemes.
+As a result, we recently announced a package of measures which included plans to
+streamline the planning process for broadband, including allowing broadband street
+cabinets and other infrastructure (such as overhead infrastructure) to be installed
+without the need for prior approval from the local council (except in Sites of Special
+Scientific Interest).
+We will also work with industry and highway authorities to ensure that traffic regulation
+does not hinder the roll out of superfast broadband, insist that any new street works
+permit schemes approved between now and 2015 are focussed on the most traffic
+sensitive streets, and we will review permit schemes to streamline processes and
+
+17
+
+shorten the timescales for the approval of works. Any measures will only take effect in
+England, as this is a devolved issue.
+Recommendation
+281. We recommend that the Government require that all new building
+developments be ducted for fibre, with appropriate provision for an internet
+connection, and that building regulations for this be developed perhaps
+analogous to those which already require adequate provision, for example, for
+the delivery of mains electricity and sewage connections. (Para 170)
+The Government already has in place ducting guidelines for developers to consider
+when building new developments. To supplement this, in December 2010, the
+Government published a Publicly Available Specification (PAS) for Next Generation
+Access in New Build Homes, which acts as best practice guidelines for developers,
+and provides developers with the information they need to future proof their homes.
+The Specification is one stage before a full British Standard, and produced in
+association with the Building Research Establishment and the British Standards
+Institution, we believe this is a more appropriate route to ensuring all new build homes
+are equipped to make the most of superfast broadband, rather than requiring
+developers to meet a certain level of connectivity as part of building regulations.
+Recommendation
+282. The refusal to provide financial support for a project, like that in the
+Northern Fells, on the grounds that its proposal to use a technology (in this case
+white space spectrum) which would not meet the Government’s speed targets,
+is a further illustration of the way in which such targets are actually counterproductive. We urge the Government to reconsider using speed targets to define
+the goals of their broadband policy. This would allow them to be more flexible
+with regard to the technologies used to provide enhanced connectivity,
+particularly to outlying communities. Loosening the reins a little could very
+quickly have the effect of bringing enhanced broadband capacity to the final
+10%. (Para 177)
+Any such project using public funding will be subject to constraints set out in the
+Commission’s State aid guidelines for broadband that require solutions to provide a
+significant step change in capability. The UK’s State aid umbrella scheme will provide
+flexibility to subsidise technologies other than FTTP and FTTC (such as fixed wireless)
+in recognition of their role as an interim solution when the economics do not yet
+support FTTP. These would need to first meet a set of minimum requirements
+regarding current capability (including speed) and upgrade path.
+Recommendation
+283. The alternative strategy we have put forward would avert the situation
+which has arisen under the current policy whereby communities are left
+
+18
+
+stranded with a minimal service because a viable enhancement falls below the—
+relatively arbitrary—mark set for public funding. We invite the Government to
+respond to our proposal that bringing open access fibre-optic hubs within the
+reach of every community would liberate communities and enterprises to
+evaluate the cost—benefit calculation themselves of the various different
+technological solutions available in the access network. (Para 178)
+The Government’s target is to successfully ensure superfast broadband is available to
+90% of UK premises and basic broadband coverage to virtually everyone else at a
+speed of at least 2Mbps. Communities will continue to have the option of developing
+their own superfast connections if they so wish, and the deployment of superfast
+broadband to 90% of the country will bring all communities nearer to a fibre connection
+and reduce the cost to operators to serve them.
+Recommendation
+284. It should be a fundamental ‘design principle’ of the Mobile Infrastructure
+Project that where mobile coverage is being widened for the purpose of
+eliminating voice not-spots, coverage for data is widened and enhanced at the
+same time. (Para 182)
+The Mobile Infrastructure Project is intended to improve mobile phone coverage, whilst
+ensuring technical solutions are compatible with future developments such as 4G.
+Recommendation
+285. The Government should consider the potential for serviced sites
+constructed as part of the MIP to be used as open access fibre-optic hubs more
+generally, from which independent third parties could extend out their own
+alternative, local access networks. (Para 186)
+The locations of MIP serviced sites, as well as the backhaul solutions for individual
+sites, will be decided on a site by site basis in concert with the MIP Supplier and the
+MNOs, on the basis of best value for money and best meeting the MIP requirements.
+This could mean sites with either microwave or fibre-optic connections. In order to
+maximise the benefits of the MIP, the intention is to allow the sites to be available for
+additional uses, provided that those additional uses do not interfere with the main aim
+of improving mobile coverage.
+Recommendation
+286. As suggested in Chapter 3, the danger that results from the lack of
+competitive pressure in the construction of the UK’s broadband infrastructure
+lies in the fact that the Government can easily find itself in thrall to the
+commercial interests of private enterprise, and therefore unable to direct
+broadband infrastructure in the wider interests of the UK. (Para 194)
+287. We urge the Government, therefore, to recognise as a general principle that
+it will be vital to monitor the dominant, national providers vigilantly and to
+
+19
+
+deploy appropriate incentives to ensure they, and the market in which they
+operate, behave in the public interest as this will not necessarily follow
+automatically from competitive pressures alone. (Para 195)
+The UK Government has assigned a set of key responsibilities and duties to the
+national regulator and competition authority for communications matters, Ofcom, under
+the Communications Act.
+Ofcom has a range of formal powers to seek information from industry participants to
+allow it to take measured and proportionate action where it considers it appropriate to
+meeting its objectives. We consider that the responsibilities and associated powers
+that we assign to the independent regulator are likely to deliver the best outcomes for
+consumers and citizens in the UK.
+The Government believes that this current regulatory regime is appropriate to ensure
+competition in the broadband market. The UK has one of the most competitive
+markets in Europe, with consumers able to experience excellent choice, service and
+price competition. This has been achieved with appropriate and proportionate
+regulation, established by carrying out market reviews. The interventions made by
+Ofcom have led to a number of innovations which have led to more investment in
+broadband, better choice and price competition for consumers. This has been most
+evident in the local loop unbundling (LLU) market, but also more recently in the
+Physical Infrastructure Access (PIA) requirement, which aims to reduce the barriers to
+deployment by enabling access to BT Openreach’s network of ducts and poles.
+It is a matter for Ofcom to determine whether the right regulatory framework is in place
+as we move towards greater superfast broadband, to ensure competition for
+consumers and businesses. BT’s wholesale Generic Ethernet Access product is
+slowly being taken up by other providers such as Sky and Talk Talk and it will be for
+Ofcom to determine if this should be subject to price controls, as is currently the case
+for wholesale access for current generation broadband.
+Recommendation
+288. In addition, we note the argument of Chapter 3, that despite the presently
+non-competitive nature of much infrastructure provision in the UK, open access
+to existing connectivity can enable competition to play a role in extending the
+reach, connectivity and diversity, and hence also the resilience and
+performance, of these networks. (Para 196)
+The European Commission’s state aid broadband guidelines set out a framework for
+assessing interventions where there are proposals to correct identified failures (and
+related common interest objectives) in the provision of superfast broadband (or Next
+Generation Access (NGA) as termed by the Commission).
+The Government believes it is important to ensure that where the economic
+assessment identifies failures in specific markets then the ‘remedies’ adopted only
+seek to address those identified markets alone. For example, where a market failure
+
+20
+
+has been identified in the provision of superfast broadband then the central role of
+State aid is to ensure that infrastructure is deployed and that in doing so the wholesale
+access conditions prescribed deliver genuine competition.
+In particular, in considering full ‘open access’ conditions, it is key that the requirements
+imposed (a) have the primary objective of delivering the identified failure e.g. NGA
+infrastructure; and (b) balance the costs of access against value for money in the
+deployment (i.e. ensure that effective and sustainable access measures are specified
+in the contract and also provide a clear and ‘open’ route to alternative network access
+products should the market need them).
+We consider it crucial to ensure consistency and coherence across State interventions
+(State aid and ex ante regulation) and taking that approach presents the greatest
+opportunity for effective and sustainable competition to develop. We think that this is
+the right approach rather than diverting commercial effort into exploiting arbitrage
+opportunities introduced by poorly designed and conflicting interventions.
+Recommendation
+289. We recommend that the Government’s approach be explicit in its insistence
+that the technologies and infrastructures in which companies using public funds
+decide to invest be ones which offer a clear ‘upgrade path’ to point-to-point
+FTTP. (Para 200)
+The BDUK sponsored rural rollout will result in optical fibre based solutions being
+delivered deep into rural areas, many of which will be FTTP from day 1. It is expected
+that facilities (breakout boxes) will be also be provided so the fibre paths can be
+extended further as and when communities demand the additional throughput and can
+assist in the costs of the final drop.
+Recommendation
+290. Where infrastructure providers using public money decide to invest in
+Passive Optical Networks, we recommend that the awarding of public money
+should be contingent on the installation of the splitter at the level of the local
+exchange rather than the cabinet, as this would enable passive unbundling, and
+thereby real competition between ISPs. (Para 202)
+The Government does not believe this suggestion would be feasible. With breakout
+boxes and open access conditions available it would seem overly restrictive and
+limiting to specify an exchange building as the only location for a splitter. As the
+migration to FTTP begins, the reliance on the local exchange will be reduced.
+Recommendation
+291. We recommend that Ofcom draw on one of the mechanisms at its disposal
+to encourage, if not require, the universal adoption of standards like Active Line
+
+21
+
+Access, if not ALA itself, which are open, and industry-led, and contain a
+technical specification for the physical network itself, the wholesale products it
+should provide, and stipulations regarding the operation, administration and
+maintenance (OAM) systems interface between infrastructure providers and
+ISPs. The universal adoption of such standards would do much to level the
+playing field between alternative infrastructure providers and would help to
+stimulate competition at the access network level. (Para 219)
+Recommendation
+292. We understand Ofcom’s cautious stance with regard to the removal of
+restrictions on Physical Infrastructure Access. However, we urge Ofcom to give
+the benefits of doing so full consideration. (Para 232)
+Recommendation
+293. In our view, the benefits of opening up the restrictions on PIA are likely to
+be significant, particularly were policy to be re-oriented towards the
+establishment of open access fibre-optic hubs, as we advocate. Removing the
+restrictions on PIA may, of course, have knock-on effects for the effectiveness
+and coherence of other aspects of the overall regulatory edifice. We,
+therefore, recommend that Ofcom evaluates alternative approaches to the
+regulation of the broadband market as a whole, in line with EU guidelines. (Para
+233)
+Recommendation
+294. In light of the potential benefits, we recommend Ofcom actively considers
+the possible implications of putting its Revised EU Framework Directive Article
+12 powers to use, by undertaking an Impact Assessment of doing so, including
+an open public consultation. Of course, some of Ofcom’s existing remedies in
+the broadband markets may be rendered ineffective or incoherent by
+implementing these powers. In consulting on their use, therefore, Ofcom should
+make positive proposals for how these issues would be overcome. (Para 236)
+These are recommendations that are for Ofcom respond to, should they believe it to
+be necessary. It would be inappropriate for Government to comment.
+Recommendation
+Ofcom should consider employing its Article 12 powers to oblige infrastructure
+owners to provide open access to dark fibre at the level of the cabinet, and
+active and passive access, together with rights to install and co-locate active
+equipment on relevant links at the level of the exchanges and other nodes. (Para
+243)
+This is a recommendation for Ofcom to respond to, should they believe it to be
+necessary. It would be inappropriate for Government to comment.
+
+22
+
+Recommendation
+296. We urge the industry to work to ensure there is an organisation with the
+capacity to act as an intermediary between an array of separate network
+providers and larger-scale ISPs. We note that the existence and effectiveness of
+such an organisation would be vital to the success of an open access fibreoptic
+hub model. (Para 248)
+The Government notes the Committee’s recommendation for industry, and is aware
+that this is a model that some in the industry have been looking to pursue. We look
+forward to developments in this area.
+Recommendation
+297. The Government should consider, not least in light of the EU Commission’s
+current consultation and the issues this raises concerning open access to dark
+fibre as a condition of State Aid, what the implications might be for broadband
+policy of a new ‘house with a tail’ model emerging in which the property owner
+becomes responsible for the construction and maintenance of their own final
+drop. (Para 250)
+Whilst we recognise that this model has had some success in other European
+countries, most notably Sweden and the Netherlands in more urban areas, the
+Government does not believe that this model would be appropriate at this time,
+particularly given the complexities in accessing appropriate levels of finance in the
+housing market. In the more rural and remote areas of the UK, it is likely that the cost
+would be prohibitive for most householders. There would also need to be some work
+on interoperability and interconnections to ensure there would be sufficient number of
+service providers that would be willing to offer services over such a network built in this
+way.
+Recommendation
+298. We recommend that consideration should be given over time by the
+Government, Ofcom and the industry as to when and under what conditions
+fibre switchover would be appropriate and what implications it would have.
+(Para 252)
+The Government does not believe that a move towards a fibre switchover at this point
+would be useful. The superfast broadband market is still developing and is likely to
+consist of a mix of technologies providing services depending on topography in the
+short-medium term. It is unlikely that coverage of a fibre only network will have
+reached sufficient coverage across the UK in the near future to allow such a
+switchover. At such time that this may be a reality, it will be important for Government,
+industry and the regulator to work together to consider the implications of such a
+move, as the Committee has suggested.
+
+Published by TSO (The Stationery Office) and available from:
+Online
+www.tsoshop.co.uk
+Mail, Telephone, Fax & E-mail
+TSO
+PO Box 29, Norwich NR3 1GN
+Telephone orders/General enquiries: 0870 600 5522
+Order through the Parliamentary Hotline Lo-Call: 0845 7 023474
+Fax orders: 0870 600 5533
+Email: customer.services@tso.co.uk
+Textphone: 0870 240 3701
+The Houses of Parliament Shop
+12 Bridge Street, Parliament Square
+London SW1A 2JX
+Telephone orders: 020 7219 3890/General enquiries: 020 7219 3890
+Fax orders: 020 7219 3866
+Email: shop@parliament.uk
+Internet: http://www.shop.parliament.uk
+TSO@Blackwell and other accredited agents
+
+

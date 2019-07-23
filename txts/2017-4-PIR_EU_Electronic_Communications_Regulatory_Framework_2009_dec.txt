@@ -1,0 +1,755 @@
+Post Implementation Review of the EU
+Electronic Communications Regulatory
+Framework 2009
+Presented to Parliament
+by the Secretary of State for Culture, Media and Sport
+by Command of Her Majesty
+April 2017
+
+Cm 9328
+
+© Crown copyright 2017
+This publication is licensed under the terms of the Open Government Licence v3.0
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the
+Information Policy Team, The National Archives, Kew, London TW9 4DU, or email:
+psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information you will need to obtain
+permission from the copyright holders concerned.
+This publication is available at www.gov.uk/government/publications
+Any enquiries regarding this publication should be sent to us at the Digital Economy
+Unit, Department for Culture Media and Sport, 4th Floor, 100 Parliament Street,
+London SW1A 2BQ
+Print ISBN 9781474143974
+Web ISBN 9781474143981
+
+A POST IMPLEMENTATION REVIEW (PIR) OF THE UK’S DOMESTIC
+IMPLEMENTATION OF THE 2009 REVISIONS TO THE EU ELECTRONIC
+COMMUNICATIONS FRAMEWORK
+INTRODUCTION:
+This document provides a high level overview of the Post Implementation Review (PIR)
+of the UK’s implementation of revisions to the EU Electronic Communications Framework
+in May 2011. The revisions, agreed under the European co-decision process in 2009,
+were transposed into UK legislation using four negative resolution statutory instruments:
+●
+●
+●
+●
+
+1
+
+The Privacy and Electronic Communications (EC Directive) (Amendment) 2011 ;
+2
+The Electronic Communications (Universal Services) Amendment (Order 2011 );
+3
+The Electronic Communications and Wireless Telegraphy Regulations 2011 ; and,
+The Communications Act 2003 (Maximum Penalty for Contravention of Information
+4
+Requirements) Order 2011 .
+
+A large number of changes which did not require statutory intervention, or which were
+left to the discretion of the independent national regulatory authority (NRA), were
+implemented by Ofcom by making changes to their General Conditions of Entitlement
+(GCEs), a regulatory, open licence regime, that all communication providers in the UK
+must abide by under the General Authorisation provisions.
+This Command Paper, the PIR and the associated supporting “Evaluation Summary”
+evidence the Government’s continued commitment to better regulation, which the UK
+government had placed at the core of of the next round of renegotiation of the
+Framework. This PIR examines the extent to which the UK Government’s
+implementation has impacted upon business and consumers; the extent to which
+changes are achieving their original objectives; and the extent to which the effects
+anticipated in the original impact assessments (IAs) materialised and whether or not
+there were any unintended consequences.
+It is important to note at this point that this PIR does not, of itself, aim to propose the
+repeal of, or amendment to, any existing legislation. Nor is it the intention to propose the
+introduction of any domestic legislation as a direct consequence of this PIR. However, its
+production has informed the UK’s policy position towards developing a future electronic
+communications regulatory Framework that remains fit for purpose. The Commission
+published proposals for that future Framework (to be known as the Electronic
+Communications Code) on 14th September 2016 and DCMS has submitted the
+necessary Explanatory Memoranda to Parliament.
+On 23 June, the EU referendum took place and the people of the United Kingdom voted
+to leave the European Union. Until exit negotiations are concluded, the UK remains a full
+​The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011
+​The Electronic Communications (Universal Service) (Amendment) Order 2011
+3
+​The Electronic Communications and Wireless Telegraphy Regulations 2011
+4
+​The Communications Act 2003 (Maximum Penalty for Contravention of Information Requirements)
+Order 2011
+1
+2
+
+member of the European Union and all the rights and obligations of EU membership
+remain in force. During this period, the Government will continue to negotiate, implement
+and apply EU legislation. The outcome of these negotiations will determine what
+arrangements apply in relation to EU legislation in future once the UK has left the EU.
+
+BACKGROUND TO THE FRAMEWORK:
+The EU adopted the original Electronic Communications Regulatory Framework in 2002
+and amended it, through negotiation of two amending directives, in 20095. It currently
+consists of the following EU directives and regulations:
+●
+
+●
+●
+●
+●
+●
+
+the Framework Directive (2002/21/EC) - ​(Directive 2002/21/EC on a common
+regulatory framework for electronic communication networks and services);
+the Access Directive (2002/19/EC) - ​(Directive 2002/19/EC on access, to and
+interconnection of, electronic communication networks and associated facilities)​;
+the Authorisation Directive (2002/20/EC) - ​(Directive 2002/20/EC on the authorisation
+of electronic communication networks and services)​;
+the Universal Service Directive (2002/22/EC) - (​Directive 2002/22/EC on universal
+service and users’ rights relating to electronic communications networks and
+services)​;
+the E-Privacy Directive (2002/58/EC) - ​(Directive 2002/58/EC concerning the
+processing of personal data and the protection of privacy in the electronic
+communications sector)​; and,
+the BEREC Regulation - ​(Regulation (EC) No 1211/2009 establishing the Body of
+European Regulators for Electronic Communications (BEREC) and the Office).
+
+The Framework currently regulates all transmission networks and services for electronic
+communications, including fixed and mobile telecommunications, email, access to the
+internet and some content related broadcasting.
+The overarching aim of the Framework remains to harmonise regulation of electronic
+communications services across all EU Member States and specifically to:
+●
+●
+●
+
+strengthen competition in the electronic communications sector;
+stimulate investment; and
+foster freedom of choice for consumers, provide additional sector-specific consumer
+protection and enable them to benefit from innovative services, quality and lower
+prices.
+
+To ensure the Framework continues to deliver on these objectives, and keeps up with
+and reflects the pace of technological development within the sector, and takes account
+of changing market dynamics, the directives which have constituted the “specific​”
+directives of the Framework contain an Article with inbuilt provision for regular review.
+Sector-specific legislation in the UK is, for the most part, overseen by the NRA, Ofcom,
+consistent with Article 3 of the Framework Directive (200221/EC).
+5
+
+The Commission amended the original Framework in 2009 with two amending directives, the better
+Regulation amending directive (2009/136/EC) and the Citizens’ Rights amending directive
+(2009/140/EC)
+http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2009:337:FULL&from=EN
+
+Ofcom draws its powers from and operates under a number of Acts of Parliament and
+other regulatory interventions. These include the Communications Act 2003, the
+Wireless Telegraphy Act 2006, the Broadcasting Acts 1990 and 1996, the Digital
+Economy Act 2010 and the Postal Services Act 2011 - though not all of these impact
+directly on the electronic communications sector. Ofcom is the regulator for the UK
+communications industries, with responsibilities across television, radio, on demand,
+postal, telecommunications and wireless communications services.
+In the UK everyone is ‘generally authorised’ to operate as a telecommunications
+provider subject to adherence to Ofcom’s GCEs; these conditions apply to all persons
+providing electronic communications networks and services.
+
+OBJECTIVES OF THE 2009 REVISIONS TO THE FRAMEWORK:
+In November 2009, following a two-year review and renegotiation process, a revised
+Framework was agreed upon in the European Parliament and Council. ​Two amending
+directives, the “Better Regulation” Directive (Directive 2009/140/EC) and the “Citizens’
+Rights” Directive (Directive 2009/136/EC) were agreed in co-decision reforming the
+original telecommunications regulatory package, ensuring it remained fit for purpose and
+delivering on its original intention of providing for more competition, better regulation,
+strengthening of the internal market and consumer protection.
+The specific objectives for the 2009 revisions were established by the Commission as
+part of its in-built process for regular review of the Framework. They applied at a
+cross-European level, and were addressed in the European Commission’s IA. These
+objectives were to:
+● foster investment and growth in the e-communications market – examples from the
+main 2009 changes which illustrate pursuit of this objective include revisions to Art 12
+Framework directive (FWD) seeking to simplify access in infrastructure sharing.
+● promote more efficient and flexible spectrum management - changes to Art 9 (FWD)
+illustrate the intention to streamline and coordinate spectrum management procedures.
+● increase the consistency of regulatory actions, in line with the wider objective of
+creating a single e-communications market in Europe - examples which illustrate this
+include changes to Art 16 (FWD), Market Analysis Procedures and Art 20 (FWD)
+Dispute Resolution.
+● reduce red-tape and administrative costs - changes to Art 10 Authorisation directive
+(AuthD) address compliance with general authorisations and rights of use, and the
+introduction of “dissuasive sanctions” under Arts 10 and 11 (AuthD) relate.
+● reinforce user rights and consumer protection - changes to the USD directive
+including changes to Art 20 (contract information); Art 22 (quality of service information);
+Art 23a (provisions for disabled end-users) and Art 30 (switching provider) all contribute
+to delivery here.
+● improve network security with, amongst other changes, the introduction of Art 13a &
+b, Access directive (AccD)
+
+THE ELECTRONIC COMMUNICATIONS SECTOR IN THE UK:
+The UK has a thriving and competitive telecoms market - arguably, the most competitive
+electronic communications market in Europe. The current communications regulatory
+framework has, in general, worked well by offering communications providers a good
+degree of regulatory certainty across the EU while allowing the flexibility for Member
+States to adopt their own solutions. For instance, by encouraging competition in their
+national markets through an appropriate balance between end-to-end infrastructure and
+service-based competition, as unique national circumstances and Member States’ digital
+strategies dictate.
+The UK is one of the most developed digital economies in the world. It is boosted by
+around £145bn a year from digital technology, with the average British person spending
+around £1,500 online for goods each year. The digital sector supported 1.3 million jobs
+in the UK economy in 2014, around 4% of the total workforce. The growth of a fully
+digital economy is inextricably linked to productivity and growth. Just a 10% increase in
+the UK’s digital density - the extent to which digital has penetrated economic activity could add £40bn to GDP by 2020.
+
+IMPLEMENTING MEASURES (2011):
+The European Commission gave Member States a deadline of 26th May 2011 to
+implement the 2009 revisions into national legislation. The UK was one of only five
+Member States, and the only large Member State, to implement in full and on time.
+These changes were primarily delivered by laying three statutory instruments (SIs) in the
+UK, amending provisions transposed into national law from the original five directives
+that comprise the Framework. Implementing measures consisted of:
+●
+●
+●
+
+Privacy and Electronic Communications (EC Directive) (Amendment) 2011;
+The Electronic Communications (Universal Services) Amendment (Order 2011); and
+The Electronic Communications and Wireless Telegraphy Regulations 2011.
+
+These SIs all contained the statutory requirement for five-yearly reviews that is being
+addressed through this PIR.
+A further SI, the Communications Act 2003 (Maximum Penalty for Contravention of
+Information Requirements) Order 2011, subsequently brought in penalties associated
+with failing to respond in an accurate or timely manner, or providing false or misleading
+information, in response to an information request from Ofcom issued in the course of
+their regulatory duties associated with spectrum management. This SI introduced
+consistency to Ofcom’s powers across the whole of the information gathering regime.
+
+SCOPE OF THE PIR:
+In reviewing UK implementation of revisions made to the Framework in 2011, we have
+been mindful of Better Regulation Executive (BRE) guidance on proportionality for the
+review, including advice on any contentious and novel changes which may have given,
+or continue to give, cause for concern.
+
+We have concentrated on the key changes that impacted in the UK. For example, new
+Articles 13 a & b introduced into the Access directive (AccD), 2002/19/EC, requiring
+functional separation of network management and retail operations in previously
+monopoly-owned providers, or the voluntary separation of such organisations with
+significant market power (SMP), although significant, were not relevant to the UK market
+where such arrangements were already in place.
+There was very little scope for discretion in meeting the general targets set out in the
+changes last time round, although Member States were allowed some flexibility in
+introducing the necessary changes within the context of their own national regulatory
+regimes. Some of the smaller scale measures (e.g. speeding the process of porting
+mobile numbers and switching service providers) were implemented by making changes
+to Ofcom’s GCEs. This PIR does not consider the implementation of the revisions that
+either did not require statutory intervention, or that did not directly apply or make a
+difference in the UK.
+
+APPROACH TO RESEARCH AND ANALYSIS:
+We have consulted key stakeholders (across industry, consumers, regulators and other
+European Member States) with individual and group-tailored questionnaires, focusing on
+the estimates included in the original series of impact assessments, and on the costs
+and benefits of introducing and complying with new or altered regulation. The PIR review
+and the associated evidence summary report have been a significant focus of
+stakeholder engagement.
+Industry has been asked to identify costs associated with complying with new regulation,
+specifically new reporting requirements, security audits and reporting security breaches,
+and the technological implementation of provisions related to consent for cookies.
+Working with our own internal Economics and Analysis Unit (EAU), our questionnaires
+set the costs and benefits of the 2009 changes against the objectives for the Framework
+changes. Generally, feedback has reflected “that the approach taken to the
+implementation of the Framework Review in 2011 by government and Ofcom supported
+these ambitions. We also recognise that in many areas the government’s
+implementation was light touch, and was broadly successful in minimising any
+unnecessary impacts on business” (from a communications provider).
+We have not been able to obtain a lot of quantifiable data from industry - much of the
+data is commercially sensitive and the sector is a particularly competitive one, with many
+multinational operators. However, we have interpreted the fact that industry has not
+provided evidence of substantial costs to mean that industry has not been unnecessarily
+or substantially burdened by implementation measures.
+It should be noted also that our request for information coincided with the Ofcom review
+of the Digital Communications Market (DCR), a review that addresses the general
+direction of the regulatory landscape for the next ten years or so. This is only the second
+time it has been undertaken since Ofcom was established in 2003.
+Consequently, we have also drawn on responses to that review and other published
+data, including regular market reviews by Ofcom; data published by the European
+
+Commission, (particularly their independent report on the implementation of the cookies
+provision, Art 5.3a, ePrivacy directive, 2002/58/EC), and extrapolated material from the
+UK responses to the Commission’s 2015 consultation for the next round of review.
+
+CONCLUSIONS AND NEXT STEPS, INCLUDING THE 2015 REVIEW:
+For the most part, the Government’s 2011 implementation in of 2009 revisions was
+received as light touch, and without disproportionate burden on industry. Two key areas
+consistently emerged in the feedback we received, although in the majority of cases
+these assertions were not supported with significant quantifiable evidence.
+In 2011, a revised Art 16 (6) FWD introduced changes to the frequency of market
+reviews (of designated markets), requiring review on a three-yearly cycle. Industry and
+the regulator made the case that this change increased the administrative burden on
+them both, required reviews to be conducted before the full implications of the last
+review could be measured, and generally jeopardised regulatory certainty. The
+government has noted this feedback as it prepares its position for a future revised
+Framework.
+There was also a general consensus that the cookies provision (introduced under Art 5.3
+of the ePrivacy directive, 2002/58/EC), which was intended to secure prior, informed
+consent to the storing and removing of data from a user’s terminal, has proved
+disproportionate, ineffective, spoiled the user’s experience of navigating the internet and
+not succeeded in delivering against its objective.
+A review of the ePrivacy directive is being considered as a separate strand of the
+Commission’s Digital Single Market (DSM), to ensure its consistency with the new
+General Data Protection Regulation. The PIR evidence we have received has been
+passed to the policy teams in this area.
+It is important to note that no UK legislation will be introduced, amended or
+repealed as a direct consequence of this PIR​. Government continues to consider its
+priorities for a revised Framework for the future.
+
+Title:​ ​Implementing 2009 revisions to the
+EU Electronic Communications
+Framework
+PIR No: ​Click here to enter text.
+Original IA/RPC No: ​Click here to enter text.
+Lead department or agency: DCMS
+Other departments or agencies: ​N/A
+
+Post Implementation
+Review
+Date: ​November 2016
+Type of regulation: Choose an
+item.
+Type of review: ​Choose an item.
+Date measure came into force:
+26​th​ May 2011
+Recommendation: ​Renew
+
+Contact for enquiries: John Sexton, DCMS
+john.sexton@culture.gov.uk or 0207 211 6540
+
+RPC Opinion: ​Green
+
+1. What were the policy objectives of the measure?
+This Post Implementation Review (PIR) assesses the implementation of 2009
+changes to the EU Electronic Communications Framework (effective from 26​th​ May
+2011).
+The European Electronic Communications Framework regulates all transmission
+networks and services for electronic communications, including fixed and mobile
+telecommunications, email, access to the internet and content related broadcasting.
+The Framework, comprising the current component directives, was originally agreed in
+2002 and revised in an EU co-decision agreement in May 2009. Two amending
+directives, the “Better Regulation” Directive (Directive 2009/140/EC) and the “Citizens’
+[2]​
+Rights” Directive (Directive 2009/136/EC)​ were agreed in co-decision reforming the
+original telecommunications regulatory package, ensuring it remained fit for purpose
+and delivered on its original intention of providing for more competition, better
+regulation, strengthening of the internal market and consumer protection.
+The main objectives of the regulatory framework, as defined by the European
+Commission are: to create an open and competitive single market for electronic
+communications services and networks in Europe, and thereby; to encourage
+
+innovation in communications networks and services, by both new entrants and
+existing operators, for the benefit of European businesses and citizens.
+The specific objectives for the 2009 revisions were established by the Commission as
+part of its in-built process for regular review of the Framework. Applying across the
+Digital SIngle Market and fully articulated in the European Commission’s impact
+[3] ​
+assessment (IA)​ these objectives were to:
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+​foster investment and growth in the e-communications market – examples from
+the main 2009 changes which illustrate pursuit of this objective include revisions
+to Art 12 Framework directive (FWD) sought to simplify access in infrastructure
+sharing.
+promote more efficient and flexible spectrum management - changes to Art 9
+(FWD) illustrate the intention to streamline and coordinate spectrum
+management procedures.
+increase the consistency of regulatory actions, in line with the wider objective of
+creating a single e-communications market in Europe - examples which illustrate
+this objective include changes to Art 16 (FWD), Market Analysis Procedures and
+Art 20 (FWD) Dispute Resolution .
+reduce red-tape and administrative costs - changes to Art 10 Authorisation
+directive (AuthD), compliance with general authorisations and rights of use and
+the introduction of “dissuasive sanctions” under Arts 10 and 11 (AuthD), relate.
+reinforce user rights and consumer protection - changes to the USD directive
+including, changes to Art 20 contract information, Art 22 quality of service
+information, Art 30 switching provider and provisions for disabled end-users, see
+Art 23a Universal Services directive (USD) illustrate. I
+improve network security - changes to Art 13a & b Access directive (AccD),
+amongst others refer here,
+
+2. What evidence has informed the PIR?
+For the PIR we have consulted key stakeholders (across industry, consumers,
+regulators and other European Member States) with individual and group-tailored
+questionnaires, focusing primarily on the trying to explore estimates that were included
+in the original series of impact assessments. Consequently, we have not, for example,
+undertaken a large scale consumer research project (eg, a substantial public
+consultation), merely to confirm data already available elsewhere. For example,
+Ofcom’s annual publication on consumer attitudes addresses the benefits that
+consumers rate, some of which are introduced as a consequence of Framework
+revisions last time round (eg; faster switching) - many of which can be delivered by
+industrial in cost neutral ways.
+Our stakeholder questionnaires, which issued to several categories of key stakeholders,
+explored in a targeted way the principle aspects of implementation from each key
+stakeholder’s perspective. Our targeted research bore a direct correlation with the key
+changes introduced last time round and on which we had previously undertaken impact
+assessments. Questions were asked on identified key changes and the associated
+costs and benefits of introducing and complying with new or altered regulation.
+In addition to the questionnaires, we arranged stakeholder workshops, the first of which
+focussed on gathering information to populate our PIR (as part of the process of
+informing our objectives and priorities for the next round of the Framework review).
+
+The Framework team has undertaken 1-2-1 meetings with key stakeholders, where we
+have been able to discuss in a more private environment, past impacts, current
+concerns and future priorities. Such engagement remains a key plank of our
+stakeholder communications plan.
+In collating information to assess UK implementation of revisions to the Framework we
+have attempted to evaluate outcomes and lessons learned at four levels:
+i) the effectiveness of the implementation process last time round;
+ii) delivery of the business and consumer benefits anticipated by the Citizens’
+Rights and Better Regulation amending Directives;
+iii) the contribution changes have made to economic growth in the UK; and
+iv) the contribution changes have made in delivering the Digital Single Market
+(DSM).
+We have looked to achieve this four tiered evaluation by targeting a PIR consultation
+on those 100 identified key high interest/high influence contacts, who contributed
+consultation responses for the last review or have identified themselves as active
+participants in our plans for this review.
+We have asked industry what work up costs they experienced associated with
+complying with new regulation, most notably new reporting requirements and the
+technological implementation of provisions related to consent for cookies, security
+audits and reporting security breaches.
+To enable the easy exchange of information we created and publicised a dedicated
+e-mail address EUFrameworkConsultation@culture.gov.uk for PIR contributions. We
+asked stakeholders to share their responses to the Commission’s “fitness for
+purpose” consultation and Ofcom’s DCR consultation via this dedicated address.
+
+3. To what extent have the policy objectives been achieved?
+In assessing whether the regulation has achieved its policy objectives, it is important
+that 2011 implementation is assessed against the objectives for the review at that
+time, including the prevailing circumstances then (the context in which the objectives
+were set), in terms of the technology available, the dynamics of the marketplace and
+the overall prevailing economic climate, rather than against challenges that have
+emerged since.
+An example of the feedback we received to our PIR questionnaire included a
+communication provider’s comments that “that the approach taken to the
+implementation of the Framework Review in 2011 by government and Ofcom
+supported these ambitions. We also recognise that in many areas the government’s
+implementation was light touch, and was broadly successful in minimising any
+unnecessary impacts on business”
+Elsewhere, the impact of some of the more substantial and longer term changes (eg;
+the shortening of the cycle for regulatory market reviews, changes to spectrum
+authorisations and measures to promote investment, competition and consumer
+choice), are sometimes only measurable and can be evaluated over a longer term
+review of the market place.
+
+In indicating that it wishes to prioritise investment and competition for the next round of
+revisions, the European Commission has indicated that the general consensus, borne
+out in European-level discussions is that headline objectives have been, for the most
+part, met. For example, end-to-end infrastructure competition is desirable, and is
+already happening, partly as a consequence of revisions introduced to the access
+provisions in 2009 . It is right, though, to consider whether Member States and
+regulators can do more to incentivise it further.
+To help gauge the impact of the 2011 revisions it might be helpful to examine the
+overall state of the communication sector, specifically, and the digital economy,
+generally, in the UK. Many respondents to our PIR evaluation exercise, at least in part,
+attribute the positive developments in the market to the framework and the
+Government’s light touch implementation of its requirements in the UK. The UK
+government, industry regulator and industry all report that, generally, they feel that the
+UK’s 2011 implementation of Framework revisions has achieved its objectives.
+The digital sector supported 1.3 million jobs in the UK economy in 2014, around 4% of
+the total workforce. However, when we talk about the digital economy nowadays,
+we’re not just referring to the tech sector. Digital technologies are pervasive in all
+sectors of the UK economy and the digitisation of sectors is having a transformative
+effect on growth and productivity.
+The UK is one of the most developed digital economies in the world - it is boosted by
+around £145bn a year from digital technology, with the average British person
+spending around £1,500 online for goods each year.
+The growth of a fully digital economy is inextricably linked to productivity and growth.
+Just a 10% increase in the UK’s digital density - the extent to which digital has
+penetrated economic activity - could add £40bn to GDP by 2020 .
+That said, as the UK government set out in its non-paper detailing its priorities for this
+review (UK Non​ Paper: Review of the Electronic Communications Regulatory
+Framework​[4]​, published on 1st October​ ​2015 and shared with the Commission and all
+other Member States) there are ambitions and targets which remain and have not yet
+been fully achieved, including in terms of encouraging non-State investment in the
+sector. Our paper quotes the Boston Consulting Group research paper “Five Priorities
+for Achieving Europe’s Digital Single Market”​[5]​ and an estimated, although disputed
+Euro 200bn shortfall in investment in infrastructure across Europe.
+On spectrum management, the Commission has recently indicated dissatisfaction with
+the roll out of 4G across Europe[6] and made spectrum “harmonisation” a priority for
+the next round of review, although Ofcom announced the Government had raised
+£2.34bn from its auction of 4G mobile spectrum in February 2013 and the UK
+government continues with its plans to free the 700MHz Band (695MHz-790MHz)
+which is currently used by DTT (Digital Terrestrial Television) so that we can allocate it
+for mobile broadband.
+This work is based on a decision at the World Radiocommunications Conference to
+harmonise the band for mobile in Europe (everywhere else in the world has already
+done it). We support this harmonisation and are getting on with the programme as
+quickly as we can even though it has not been officially mandated yet.
+
+The revisions last time round also adjusted the requirement for NRAs to undertake
+market reviews of designated markets every five years and shortened the review cycle
+to every three years. This was to help promote consistency of practice and regulatory
+certainty. However, the reality of regulatory obligations being reconsidered every
+three years creates a degree of uncertainty in itself which could impact on industry
+stakeholders’ investment plans. The intensive schedule (on which operators have to
+respond to large-scale information requests to inform the NRA’s market analysis) is
+also extremely burdensome, imposing a significant regulatory overhead on both
+industry and regulators. The current three year requirement for relevant markets is
+particularly onerous in relation to markets that are characterised by stability and
+maturity (such as termination markets).
+UK consumers enjoy the benefits of a highly competitive telecoms market, some of
+which can be attributed to Ofcom’s rigorous attention to the consumer orientated
+conditions in their General Conditions of Entitlement (GCE)[7], the rules by which all
+communications providers in the UK must operate (covering contracts, transparency of
+information, customer service, switching, billing, accessibility and access to the
+emergency services, and much more).
+In relation to consumer provisions we should also note that the majority of PIR
+respondents came from industry (despite consultation with consumer representative
+groups) and consequently we have limited feedback, for example, on the benefits of
+new disability provisions as a consequence of the revisions to Article 7 and the new
+Article 23a. None of the consumer groups, nor specific disability representative
+groups, responded to our PIR consultation. However, the Emergency- SMS service
+was launched in 2012 for disabled end-users to access the emergency services.
+180,860 phone numbers were now registered to the scheme, with around 200 new
+registrations per day at the start of 2016.
+96% of people who started to register completed the process, i.e. texted ‘yes’ to
+accept the terms and conditions. In March 2016, there had been 481 contacts via
+eSMS, which equated to roughly 12 eSMS conversations (i.e. series of messages) per
+day. Some of these involve more than one call, meaning that there are around 7
+unique users of the service per day. Around a third of eSMS conversations result in
+the despatch of an emergency vehicle.
+Finally, there was very limited national discretion in implementation of the revisions to
+the Framework in 2011. Several factors contributed to this; not least the Commission
+ambition for a Digital Single Market and the objective of ensuring consistency of
+regulatory intervention across all 28 Member States. Where the detail of
+implementation was left to national competence there was often very limited scope
+given domestic circumstances to provide for substantially differing options on
+implementation to achieve the pre-set EU objectives. For example, where new Articles
+13a & b of the Framework directive required notification of a security breach the UK
+government had a choice on which authority that notification should go to (Ofcom, the
+Information Commissioner’s Office, ICO or the Government itself). In the UK we
+choose Ofcom as the notification authority.
+However, Ofcom’s role is an essentially reactive one. Providers are required to report
+security breaches, and Ofcom has the power to audit providers (at the provider’s
+expense). It also has powers of enforcement which can include the imposition of a fine
+not exceeding £2 million. These arrangements have been subject to separate review
+in the UK in 2016.
+
+Similarly with the cookies Article (Article 5.3 of the e-Privacy directive), the
+Government worked with ICO to agree an industry wide approach to securing a “prior,
+informed consent” process for the placing, storing and retrieval of information on a
+user’s terminal, while causing the least disruption to the user’s experience and
+minimising work up and implementation costs and burdens on industry.
+No regulation or legislation will be introduced, amended or repealed as a direct
+consequence of this PIR. As a matter of best practice some of the government’s
+implementation of the 2009 revisions is subject to periodic review. For example,
+DCMS are re-assessing whether the light-touch implementation of Articles 13A and B
+(Articles) of the Framework Directive (Security and Resilience of Networks) remains fit
+for purpose.
+For the remainder of the regulatory Framework, we have used this PIR assessment to
+inform our negotiating position on the Commission’s proposals for recasting this
+existing Framework as a new Code, which it hopes will be negotiated by the end of
+2017.
+The Framework (future Code) – and electronic communications regulation with it – will
+not cease to exist but instead will be renewed in due course. This will not just be an
+immediate "rollover" renewal (or straight extension) of the existing provisions. The
+existing regulation will be revised in key parts to maintain its fitness for purpose (with
+the inclusion, amongst other changes, of amended consumer rights and protections
+for, eg; cross border operations and innovative, substitute "Over the Top (OTT)"
+technologies). Proposals published on 14th September 2016 also include changes to
+spectrum management, incentivising investment in infrastructure and proposals to
+re-establish BEREC, the Body of European Regulators for Electronic
+Communications, as a Commission agency.
+
+Sign-off For Post Implementation Review: Chief economist/Head of Analysis and
+Minister
+I have read the PIR and I am satisfied that it represents a fair and proportionate
+assessment of the impact of the measure.
+Signed:
+
+Date:
+
+Further Information Sheet
+
+Please provide additional evidence in subsequent sheets, as required.
+4. What were the original assumptions?
+Given the vast range of circumstances and factors that the revised Framework had the
+potential to impact upon, the variables within costs and benefits where they could be
+roughly estimated, and the range of impacts that could not be definitively or even
+loosely estimated (simpler spectrum leases over extended, often unlimited periods for
+example) the original overarching IAs did not attempt to give a consolidated estimate
+of costs and benefits of implementation.
+The original IA described the potential costs as ​“There will be a cost to business from
+being required to take appropriate measures to manage risk to the security of networks
+and services; taking steps to guarantee the integrity, and help ensure continuity, of
+supply of service. There will also be costs if Ofcom requires them to provide information,
+submit to a security audit or issues binding instructions.
+There will be a cost of notifying Ofcom of breaches of security or loss of integrity. There
+will be a cost to Ofcom of notifying ENISA, other regulators and the public of breaches
+of security or of loss of integrity. There will be a cost associated with producing an
+annual report on breaches for the Commission and ENISA. There will also be a cost to
+Ofcom of using their powers to investigate cases of noncompliance.
+There will be a cost to businesses involved in dispute cases if Ofcom choose to use
+their discretionary power to recover their costs. There will be a new cost to Ofcom to
+collect data on the number, subject and duration of appeals and report this to BEREC
+and the Commission on request and to notify the Commission and BEREC of its
+proposed ex ante regulation.
+There will be an increased cost to Ofcom from the requirement to review markets every
+three years.
+“Requirement for Ofcom to conduct market reviews every 3 years instead of 4-5 years
+may increase burden on Ofcom by 187k-£1.3m per year and industry by
+£1.6m-£10.6m per year. Requirement for industry to notify ICO of data breaches could
+cost £240k-£2m per year. Other costs are mostly associated with enhanced
+information gathering powers for both Ofcom and ICO, with industry needing to spend
+£380k-£750k responding to information requests, particularly on location of
+infrastructure.
+Ofcom may face some implementation costs to introduce spectrum leasing. There may
+be a cost to Ofcom if the requirement to regularly review the restrictions imposed on
+allocations, licenses and general authorisations leads to them having to carry out more
+reviews.
+The ‘competent national authority’ will face a cost if it is required to provide an inventory
+of infrastructure in the UK, this could potentially pose a large increase in administrative
+burdens.
+The increase in the number of undertakings with access to Ofcom’s dispute resolution
+system has the potential to increase the number of disputes they have to deal with,
+which could increase the cost to Ofcom”.
+
+In addition to these mostly non-monetised costs it assessed the non-monetised benefits
+of proposed revisions as​:
+​“The harmonised Framework will increase the benefits that the single market brings,
+including an increase in competition and price transparency throughout the MSs. This
+provides benefits to consumers through lower prices and a wider choice of services
+available. The harmonised Framework should also provide businesses operating in the
+market with greater certainty and consistency when they are operating within the MSs.
+Harmonisation of the application of the regulatory Framework within MS should
+encourage competition as part of the single market because network and service
+providers will face similar conditions in each MS which should produce a level playing
+field. There should also be a benefit to business, especially businesses that operate
+in more than one MS, because they will operate under the same regulatory
+framework in each MS which should simplify any changes they need to make to
+comply with the provisions of the Framework, as they should be similar in each
+State.’
+
+​5. Were there any unintended consequences?
+
+The e-Privacy directive is being considered outside of the scope of the next round of
+Framework review, following on from agreement on the EU’s General Data Protection
+Regulation (GDPR) in 2015. The Commission published its proposals for the review of
+the e-Privacy directive on 10 January 2017.
+Perhaps the most notable change in the last round of revisions to the Framework was
+implementation of the so-called “cookies article” (Art 5.3 of the e-Privacy directive),
+because of its novelty and the consumer impact. This regulation was intended to seek
+prior, informed consent for the storing of data on a user’s terminal (cookies). Industry
+warned of the vast costs associated with the introduction of this requirement - a reality
+not borne out in our PIR data gathering. PIR returns allude to lower development and
+implementation costs but the biggest unanticipated impact has been the consumer
+reaction which ranges from apathy to frustration, but nowhere near the positive
+reassurance that introduction of the requirement was expected to deliver.
+A second unintended consequence of changes in 2011 arose as a result of the
+shortening of the market review cycle. As signposted to elsewhere, the Framework
+currently requires market reviews to be conducted every three years, which often does
+not provide enough time for NRAs to assess the impact of previous changes in
+regulatory policy (and therefore to assess potential areas for deregulation).
+The NRA might not be able to take account of specific anticipated changes in market
+characteristics beyond the three-year horizon currently provided for regulatory
+interventions before a further follow up review is required (eg; it might be unable to
+design remedies that provide for more appropriate migration signals to alternative
+services or technologies beyond three years before it is required to review the
+success, or otherwise, of the previous regulatory intervention).
+Regulatory obligations being reconsidered every three years also creates a degree of
+uncertainty which could impact on industry stakeholders’ investment plans. Finally,
+this intensive schedule (on which operators have to respond to large-scale
+information requests to inform the NRA’s market analysis) is also extremely
+
+burdensome, imposing a significant regulatory overhead on both industry and
+regulators. The current three year requirement for relevant markets is particularly
+onerous in relation to markets that are characterised by stability and maturity (such as
+termination markets)”.
+Many in industry also make the case for less frequent market reviews stating, “the
+existing requirements for market reviews to be undertaken every three years creates
+a significant administrative burden and can lead to less regulatory certainty”.
+
+6. Has the evidence identified any opportunities for reducing the burden
+on business?
+So, for the most part, implementation of the last round of Framework revisions has
+achieved its objectives. However, during the course of the last negotiations, the
+Commission was swayed by the case made for shorter term reviews, including that a
+quicker cycle of market review would help react to fast-changing market circumstances
+across the four designated retail and wholesale markets. Specifically, the Commission
+supported arguments that more frequent review cycles presented the potential for
+faster removal of remedies, as competition increased to deliver the desired market
+outcomes, and in doing so contributed to regulatory certainty.
+Evidence in the UK, however, as well as some anecdotal accounts from industry, and
+the NRA’s response to engagement in the next round of revisions suggests that the
+current requirement that NRAs carry out market reviews every three years has in some
+cases made it difficult to assess the impact of regulation (and thus the scope for
+deregulation), undermined regulatory stability and acted as a consequent disincentive
+to investment, and created a significant administrative burden for industry and NRAs.
+The UK, with support from the vast majority of Member States, has successfully
+lobbied for the reversal of this change and the restoration of the five-yearly timetable
+for undertaking market reviews.
+
+7. For EU measures, how does the UK’s implementation compare with
+that in other EU Member States in terms of costs to business?
+We have consulted all 27 other Member States (OMS) on their implementation of
+2009 Framework revisions (the revisions contained some scope for discretion in
+national implementation strategies) to gauge whether there was any suggestion of
+the UK having gold-plated any of the requirements, or whether we could have done
+anything differently.
+We are confident, as we were on completion of implementation in 2011, and as has
+been confirmed by annual Commission Implementation visits since then, and our PIR
+consultations, that we have not gold-plated, that our approach is considered “light
+touch” and appropriate, and that our implementation has delivered on the objectives
+behind the revisions.
+We received eight responses from OMS, mostly describing the domestic legislative
+vehicles and Acts used to implement revisions in those other Member States. None
+of the other OMS have undertaken an evaluation, either post implementation last
+time round, or prior to the next round of negotiations. There is a consolidation of the
+
+Member State feedback we received in the additional evaluation summary which
+accompanies publication of this Command Paper and PIR.
+For the most part other MSs agree with the UK that is that the Framework is not
+intrinsically flawed, but does need updating to reflect changing market
+circumstances, including a range of new and innovative consumer OTT services.
+The most comprehensive MS responses came from Sweden and Belgium (both
+co-signatories to the UK’s like-minded letter to the Commission​[8]​).
+
+[1]​
+[2]​
+
+[3]​
+
+​http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0037:0069:EN:PDF​ - The
+Better Regulation amending directive
+​http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:en:PDF​ - The
+Citizens’ Rights amending directive
+​http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52007SC1473​ - SEC(2007) 1473 –
+Commission Staff Working Document – Summary of Impact Assessment
+
+[4]​
+
+UK Non​ Paper : Review of the Electronic Communications Regulatory Framework
+https://www.gov.uk/government/publications/uk-non-paper-review-of-the-electronic-communications-r
+egulatory-framework
+[5]​
+Boston Consulting Group research paper “Five Priorities for Achieving Europe’s Digital Single
+Market
+https://etno.eu/datas/publications/studies/FINAL_BCG-Five-Priorities-Europes-Digital-Single-Market-O
+ct-2015.pdf
+[6] Amsterdam high level event, 20​th​ April 2016
+[7] Ofcom’s General Conditions of Entitlement (GCEs), as at May 2015:
+http://stakeholders.ofcom.org.uk/binaries/telecoms/ga/CONSOLIDATED_VERSION_OF_GENERAL_
+CONDITIONS_AS_AT_28_MAY_2015.pdf
+
+[8]​
+
+​https://www.gov.uk/government/publications/electronic-communications-framework-review-update
+
+

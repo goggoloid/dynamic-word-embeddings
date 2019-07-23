@@ -1,0 +1,3502 @@
+The
+modernisation
+review of
+public libraries:
+
+A policy
+statement
+
+DEPARTMENT FOR CULTURE, MEDIA AND SPORT
+
+The modernisation review
+of public libraries:
+A policy statement
+
+Presented to Parliament by
+the Secretary of State for Culture, Media and Sport
+by Command of Her Majesty
+March 2010
+
+Cm 7821
+
+£14.35
+
+DCMS’s aim is to improve the quality of life for all
+through cultural and sporting activities, support the
+pursuit of excellence, and champion the tourism,
+creative and leisure industries.
+
+© Crown Copyright 2010
+The text in this document (excluding the Royal Arms and other departmental
+or agency logos) may be reproduced free of charge in any format or medium
+providing it is reproduced accurately and not used in a misleading context.
+The material must be acknowledged as Crown copyright and the title of
+the document specified.
+Where we have identified any third party copyright material you will need to
+obtain permission from the copyright holders concerned.
+For any other use of this material please contact the Office of Public Sector
+Information, Information Policy Team, Kew, Richmond, Surrey TW9 4DU
+or email: licensing@opsi.gsi.gov.uk.
+ISBN: 9780101782128
+Printed in the UK by The Stationery Office Limited
+on behalf of the Controller of Her Majesty’s Stationery Office
+ID 2351792
+
+03/10
+
+Printed on paper containing 75% recycled fibre content minimum.
+March 2010/pp1189
+
+1
+
+The modernisation review of public libraries: A policy statement
+
+Contents
+Introduction: “A vision for Public Libraries”
+by Margaret Hodge, Minister for Culture
+
+2
+
+Summary of Proposals
+
+5
+
+Chapter 1 – Aim: to drive the quality of all library services up to
+the level of the best
+
+13
+
+Chapter 2 – Aim: to reverse the current trend of decline in library
+usage and grow the numbers using the library service
+
+30
+
+Chapter 3 – Aim: that the library service is able to respond to
+limited public resource and economic pressures
+
+29
+
+Chapter 4 – Aim: to ensure that all libraries respond to a 24/7 culture
+and to changing expectations of people who want immediate
+access to information
+
+35
+
+Chapter 5 – Aim: that all libraries grasp the opportunities
+presented by digitisation
+
+38
+
+Chapter 6 – Aim: to demonstrate to citizens, commentators and
+politicians that libraries are still relevant and vital
+
+45
+
+Appendix A: Model of Impact
+
+52
+
+Appendix B: Examples of Partnership between Public Libraries,
+other Local Authority Services & External partners
+
+54
+
+Appendix C: A Modernised Public Library Workforce
+
+58
+
+2
+
+The modernisation review of public libraries: A policy statement
+
+Introduction: “A vision for Public Libraries”
+by Margaret Hodge, Minister for Culture
+I launched the Public Library Consultation in December and throughout the past few
+months, and indeed before, I have been struck by the passion and sincerity of those who
+have contributed. The dedication and inventiveness of many leaders of the library
+service is impressive, and the zeal of local users is second to none, a testament to the
+value bestowed on public libraries. I, too, am convinced of the great significance and
+impact of the work of the public library service; the vigour and willingness of its staff,
+the overwhelming public support for its place in community life and the genuinely life
+transforming potential of its impact.
+Public libraries are a democratic entitlement for every individual, for every community
+and for the whole nation. To echo the American Library Association I believe the public
+library service is a unique institution, that “guards against the tyrannies of ignorance
+and conformity, and its existence indicates the extent to which a democratic society
+values knowledge, truth, justice, books, and culture1”. For many people, libraries are a
+haven of hope, a gateway to knowledge and learning, and an opportunity to access
+information and to participate as a citizen. With more branches than McDonalds or
+Boots, and more visits to libraries than shoppers in London’s West End, the public
+library network is a triumph of infrastructure and branding2. Our libraries are the
+keepers of a national book collection which reflects our shared learning and chronicles
+our intellectual and cultural environment.
+We have seen some significant investment in public libraries over the last 10 years:
+£120m National Lottery Funds were invested in the People’s Network, delivered by the
+Museums, Libraries & Archives Council (MLA), to provide broadband internet access and
+staff IT training in every library in the UK3; the Big Lottery Fund awarded £80m
+investment across 58 local authorities to invigorate libraries as centres of wider
+community activity and engage local people in plans to build or refurbish libraries. The
+MLA have secured investment into a range of initiatives such as Boys into Books, Book
+Ahead and the Festival of Learning. Partnership programmes between libraries and third
+sector partners like The Reading Agency (TRA), the National Literacy Trust and Booktrust
+have been instrumental in growing readership especially among young people. The
+number of library led reading groups nearly trebled to 10,000 between 2004 and 2008,
+and 100,000 people now belong to a group.4
+
+1
+
+http://www.ala.org/ala/alonline/resources/slctdarticles/12wayslibraries.cfm
+In 2007/08 there were 280 million visits to England’s libraries – 80 million more than shop each year in
+London’s West End. 200 million visitors visit London’s west End (the largest concentration of shops in west
+Europe with four miles of streets across Bond Street, Oxford Street and Regent Street) Source: New West
+End Company (www.newwestend.com)
+3
+http://research.mla.gov.uk/evidence/documents/Peoples_network_evaluation_summary.pdf
+4
+Reading Groups in Libraries Mapping Survey Findings- England and Wales, The Reading Agency, 2008
+2
+
+The modernisation review of public libraries: A policy statement
+
+But, as every good librarian knows, public libraries are not about sitting back and passively
+waiting for people to borrow your books – they are about active engagement with the
+community, making links to other public services, and responding to the policy imperatives
+of the day. Where that happens there is evidence of their transformative impact.
+I want all national and local government departments to recognise the key role that
+public libraries can and do play in our priority policies – for instance, in helping people
+get online, improving literacy, providing services for families, helping people look for
+jobs, building community cohesion and libraries’ flexible role in signposting all sorts of
+public initiatives and services. Research commissioned by DCMS and the Evidence
+Reference group for this review suggests that public libraries can support parenting, the
+development of speech and early communication skills in children, and of course, the
+enjoyment of reading and child literacy5.
+I believe that the vision for public libraries set out in Framework for the Future6 still holds
+true today and their role continues to be to provide books, learning, information and
+entertainment to customers, to provide a centre for communities and to provide an
+education resource7.
+However, the context in which libraries operate is changing starkly and at speed. In our
+December consultation document we set out five challenges for Public Libraries8:
+• How can we reverse the current trend of decline in library usage and grow the
+numbers using the library service?
+• How can the library service respond to limited public resource and economic
+pressures?
+• How can all libraries respond to a 24/7 culture and to changing expectations of people
+who want immediate access to information?
+• How can all libraries grasp the opportunities presented by digitisation?
+• How can the library service demonstrate to citizens, commentators and politicians
+that they are still relevant and vital?
+We received 154 consultation responses, 68 of which were from local government or
+library authorities, 43 were from companies or organisations (including 9 from library
+campaign groups) and 43 were from individuals. An additional 15 people commented on
+the RightToReply website and 28 essays were included in the consultation document,
+approximately 80 people attended reference groups, round tables or Project Board
+meetings. DCMS ministers and officials have discussed our vision at over 30 meetings
+with stakeholders and spoken at a number of high profile events.
+This consultation exercise has endorsed those five challenges, with a number of
+submissions responding to the challenges rather than individual questions.
+It is also clear that there is a collective acceptance of a sixth challenge: the variety in
+the quality of the library service across the country. Replicating themes from Framework
+for the Future, there continues to be recognition that, although there are many examples
+of innovative, world class services, there are parts of the service which are not
+
+5
+
+Capturing the Impact of Libraries (http://www.culture.gov.uk/reference_library/publications/5914.aspx)
+Framework for the Future, DCMS, 2003 (http://www.culture.gov.uk/what_we_do/libraries/3410.aspx)
+7
+This was the role set out in the consultation document and was supported by respondents to the
+consultation. Empower, Inform, Enrich, DCMS, December 2009.
+http://www.culture.gov.uk/reference_library/consultations/6488.aspx
+8
+We have re-ordered the challenges in this document to suit the narrative and prevent unnecessary duplication
+6
+
+3
+
+4
+
+The modernisation review of public libraries: A policy statement
+
+performing effectively and best practice is not easily shared across the 151 library
+authorities, 3,500 libraries or the 21,000 people who work in the service.
+This document aims to build on Framework for the Future, by communicating and
+maximising the work of public libraries, and supporting the service to respond to those
+six challenges with confidence. I want to set a collective challenge for all libraries to
+become as innovative and imaginative as the best so that the service remains cherished
+and valued by all and continues to be a lynchpin in local communities in the 21st
+century.
+I am grateful to the many individuals and organisations who have responded to
+questions, attended meetings and events, and provided views, perspectives and
+information to this process. I would particularly like to thank staff at the MLA, the
+Review’s Project Board and Reference Groups and the Advisory Council on Libraries who
+have given generously of their ideas and experience.
+
+The modernisation review of public libraries: A policy statement
+
+Summary of Proposals
+Chapter 1 – Aim: to drive the quality of all library services up to the level of
+the best
+1: A Library Offer to the Public: The Government recommends a Library Offer to the
+public for all public libraries in England. The Library Offer will be made up of a ‘core
+offer’ of services which all library services should deliver and a ‘local offer’ of services,
+shaped and delivered at local level.
+A core offer for all libraries: Government recommends that the core offer for all libraries
+should include the following provisions to be made available across all library authorities:
+• Library membership from birth: Details of local schemes to ensure that library
+membership is available from the earliest point in a child’s life (The Government
+expects that from April 2011 all local authorities ensure that library membership is an
+entitlement to children from birth. More detail in proposal 8)
+• An opportunity to have your say and get involved in shaping the service (local
+details to be set out)
+• Free access to a range and quality of book stock to browse and borrow and
+online resources and information that meet local needs (including e-books as the
+market grows)
+• Access to the national book collection – any book from anywhere: Order any book
+through your library (even out of print books)
+• Free Internet access for all: Computers and access to online information and
+communication. (The Government will change legislation to prevent library authorities
+charging for internet access from April 2011. Further details set out in proposal 27)
+• Help to get online: Support for people using the internet for the first time or
+searching for information
+• Links to other public services and opportunities: Connections to health, education
+and learning or employment opportunities (local details to be set out)
+• A Community of Readers: Connecting people to other readers through reading
+groups, activities and recommendations
+• Flexible opening hours to suit the needs of the local people (local details to be set out)
+• Commitment to customer service and expert, helpful staff
+• A safe local space which is accessible and convenient for the community
+• 24 hour access: Through your library’s online catalogue, online reference and other
+services. Website details to be set out
+• Services which reach out and attract local people (local details to be set out
+including ‘at home’ services to housebound people)
+• An opportunity to be a member of all libraries in England: Easy to join, accessible
+services as announced by the Society of Chief Librarians (SCL)9
+
+9
+
+http://www.goscl.com
+
+5
+
+6
+
+The modernisation review of public libraries: A policy statement
+
+The Government believes that these services represent the core offer which should be
+provided across all library authorities in England. Most library authorities are already
+providing this core service in full but Government recommends that all libraries provide
+a universal core offer.
+A local offer for libraries: As part of the local element of the Library Offer to the
+public, library authorities can shape their offer around local need but might consider
+including:
+• Commitments on book stock variety, investment and procurement
+• Opportunities and activities for young people as part of the local provision of
+positive activities
+• Provisions for learning such as improving reading and writing skills, and partnerships
+with local schools, early years settings and children’s centres
+• An Events programme including training events or activities for readers and author
+visits
+• Family activities: Family reading and learning activities – Bookstart Rhymetime
+homework clubs, links to family information services, holiday reading challenges.
+• Programmes of engagement with the community including outreach initiatives and
+ways of encouraging wider usage, including families
+• Details of how to get involved with user groups, supporting or influencing the library
+service
+• Spaces for community use
+• Childcare or crèche
+• Additional Services like CD and DVD borrowing, a book delivery service, coffee shops etc
+Other ideas are included throughout this document.
+Next steps: Government recommends that library authorities finalise their Library Offer
+to the public by the end of 2010. Government will review the Library Offer after two
+years and consider whether to legislate to make it a statutory obligation.
+2. Guidance on process of engagement and consultation: Sitting alongside the
+Library Offer to the public, the questions set out below are issued here as best practice
+guidance on the processes which Government recommends library authorities consider
+under their statutory duty. Government will review the best practice guidance set out
+here after two years and consider whether to legislate to make the guidance statutory.
+Q1 What resources are available and how does this match the needs of the
+community?
+• Have you analysed and considered need and demand? What are the specific needs of
+adults, families and young people of all ages? Would members of the community be
+able and willing to contribute to the delivery of library services as volunteers or
+joint managers?
+• What are the needs of those living, working and studying in the area?
+• How accessible is the service? Is public transport appropriate? Are there barriers to
+physical access of library buildings that should be removed?
+• Have local people been consulted? How?
+• What are the views of users and what are the views of non users?
+• Have you done an Equality Impact Assessment?
+
+The modernisation review of public libraries: A policy statement
+
+• What implications are there for other strategies e.g. educational attainment, support
+for those seeking work, digital inclusion, adult social care?
+• Are there other partnerships that can be explored – e.g. with the third sector,
+community and development trusts or town and parish councils?
+Q2 How efficient is the current service?
+• Are the arrangements for the delivery of the library service (eg buildings, staff, service
+provision, facilities, online presence etc) meeting the demand of the community and
+are they cost efficient?
+• What other delivery partnerships could be formed inside and outside the library
+authority or region to make the library service more efficient and effective (see
+examples in Appendix B)?
+• Can the facilities be used more flexibly?
+• What are you doing to encourage use and maximise income?
+• What scope is there for integrating or co-locating the library service with other
+services in the public or private sector (eg council services, post offices, schools,
+children’s centres etc)
+3. Modernising the process of intervention – set out roles and responsibilities:
+Although the Government does not expect to activate the inquiry rules often, the
+Government will amend the Public Libraries (Inquiries Procedure) Rules 1992 to
+modernise the processes by which the Secretary of State intervenes in a library service.
+This will include setting out the roles and responsibilities of the various organisations
+involved, the trigger mechanisms for intervening, the processes for holding an inquiry,
+and the input of the local community and library users. The principles for all proposed
+changes will be to:
+• Maintain procedural fairness
+• Ensure the processes allow the view of users to be fully communicated
+• Strip out bureaucracy
+Next steps: The Department for Culture, Media and Sport (DCMS) will amend
+secondary legislation and publish advice on the roles and responsibilities as soon as
+possible.
+4. A strategic body for the libraries sector: The Government is minded to establish
+a strategic body for the library sector as a means of providing a stronger national voice
+for libraries and improving leadership and development of the sector. As part of the
+wider review of arms length bodies, the Government will consider bringing together the
+functions of three different organisations – the Museums, Libraries and Archives Council
+(MLA), the Advisory Council on Libraries and the Registrar of Public Lending Right. The
+Government believes that any such body should be an improvement and development
+agency and should have vested in it greater authority than is afforded to the MLA in its
+current form. Government therefore proposes that the libraries body has a statutory
+advisory function, with the formal power to advise the Secretary of State on his role
+under the 1964 Act. Aligning with the Government’s Smarter Government White
+Paper10, the library strategic body will be a key part of the DCMS’s drive to modernise
+the arrangements for public bodies with a focus on delivering better value and quality
+for the public while rationalising administration.
+
+10
+
+Putting the Frontline First: Smarter Government, HMG: December 2009
+(http://www.hmg.gov.uk/media/52788/smarter-government-final.pdf)
+
+7
+
+8
+
+The modernisation review of public libraries: A policy statement
+
+Government recognises that, following the re-organisation of the MLA, that body has
+begun to make significant progress. DCMS shall continue to monitor their work and will
+take their achievements into account when considering the shape of a new strategic body.
+The body would have a statutory role to advise the Secretary of State on oversight
+of library services as set out in the 1964 Act, with the following responsibilities:
+• Co-ordinator of a voluntary peer review and accreditation programme for public
+libraries in England (more detail at proposal 5)
+• Improvement and development work for public libraries including guidance, best
+practice and advice on:
+– Service improvement, user engagement and targeting particular user groups
+– Reading and Information
+– Governance models
+– Co-location and partnership working
+– Total Place principles in place-shaping
+– Fundraising and commercial ventures
+– Digital innovation – lending, digital engagement and communication, digital content
+– Learning and skills
+• The Public Lending Right administering the PLR Scheme
+• A series of national programmes or initiatives as appropriate – could include a
+national online catalogue (if money becomes available) or digital content programmes
+• Co-ordinating a programme of research and evidence
+• Partnership working with Government, third sector and private organisations
+Next steps: The Government will undertake a business case in consultation with
+stakeholders and will publish more detail as part of the broader review of arms length
+bodies, including an assessment of the capability of the MLA to undertake that role
+alongside its other functions, including those for museums and archives.
+5. Accreditation and peer review: As part of its responsibilities the strategic body for
+libraries will devise and run a voluntary peer review and accreditation programmes for
+public library services.
+6. A LIFT programme for libraries when funds become available: As more public
+funds become available in the future, a LIFT programme for libraries should be pursued
+whereby capital investment is linked to service improvements.
+
+Chapter 2 – Aim: to reverse the current trend of decline in library usage and
+grow the numbers using the library service
+7: Communicating the Library Offer to the public: Government recommends all
+library authorities make their Library Offer to the public clear and visible to all the
+citizens in the area – on their website, in library buildings and through any other local
+marketing opportunities.
+8: Library Membership as an entitlement from birth: The Government expects that
+from April 2011 all library services offer library membership as an entitlement from
+birth. This might be achieved in a number of ways:
+• Offering Library membership at the registration of a birth
+• Offering Library membership along with child benefits
+• Offering library membership with Bookstart packs
+
+The modernisation review of public libraries: A policy statement
+
+DCMS will ensure that there will be no net additional costs to local authorities in line
+with the Government’s new burdens procedures.
+9: Attracting new members: Drawing on the guidance in chapter 1, all library
+authorities should consider how they attract new members, through seeking greater
+community engagement and through community outreach initiatives.
+10: Opening hours: Local authorities should review opening hours to assess whether
+they meet local need, including that of families. Opening hours should reflect customer
+demand.
+11: Library buildings: With reference to the guidance set out in proposal 2, local
+authorities should regularly review the footprint of the library service to determine
+whether they have the right buildings in the right place.
+12: Co-location: Local authorities should maximise all partnership and co-location
+opportunities.
+13: Accessibility: Accessibility of library services should be included as criteria in the
+accreditation and peer review scheme.
+
+Chapter 3 – Aim: that the library service is able to respond to limited public
+resource and economic pressures
+14: Governance and delivery models: All library authorities should consider
+innovative ways to generate improvements and efficiencies through shared services,
+partnership working, new delivery models and new governance arrangements.
+15: RIEPS: Library services, with their parent authorities, should make use of Regional
+Improvement and Efficiency Partnerships (RIEPs) to support more innovative joint
+service working.
+16: Local authority commissioning: All library authorities should do more to respond
+to local authority commissioning, developing the necessary understanding and skills to
+identify new opportunities for the library service.
+17: Supply chain: All library authorities should maximise efficiencies in the stock
+supply chain to improve customer experience, and to achieve the best public value.
+18: Commercial partnerships: All library services should explore innovative new
+funding streams and ways of delivering services through commercial partnerships or
+initiatives.
+19: Philanthropy: The strategic body for libraries will explore the opportunities for
+developing philanthropic giving to the public library service.
+
+Chapter 4 – Aim: to ensure that all libraries respond to a 24/7 culture and to
+changing expectations of people who want immediate access to information
+20: Customer service: The peer review and accreditation scheme will include criteria
+for recognising customer service and responsiveness.
+21: Qualifications: Providers of library and information sector courses should develop
+and implement a new framework for public library professional qualifications, founded
+on user driven policy and practices including customer service and people skills,
+community outreach, working with children, marketing and leadership.
+
+9
+
+10
+
+The modernisation review of public libraries: A policy statement
+
+22: Evidence skills: Library services should improve their ability to use and evaluate
+evidence in order to better illustrate the impact of the service.
+23: Advertising library posts: Library services should advertise posts outside the
+professional library press and use wider cultural and local government networks, such as
+the LGA’s National Graduate Development Programme, to draw in new and diverse talent.
+24: Partnership working: Using improved evidence of impact, library leaders should
+develop their role as a respected partner in cross-authority strategic partnerships that
+deliver improved outcomes for communities.
+25: Leadership: Local Authority Chief Executives should include their library leaders in
+leadership and management development for senior local authority staff.
+26: Volunteers: All libraries should consider how best to attract, nurture and utilise
+volunteers, to complement their workforce.
+
+Chapter 5 – Aim: that all libraries grasp the opportunities presented by
+digitisation
+27: Free internet access: The Government expects that from April 2011 all library
+services will provide free internet access to users as part of their Library Offer to the
+public. Government will, under section 8(2)(b) of the Public Libraries and Museums Act
+1964, make an (affirmative) Order preventing libraries from charging for internet access.
+DCMS will ensure that there will be no net additional costs to local authorities in line
+with the Government’s new burdens procedures.
+28: Support to get online: Government recommends that all library services provide
+support and advice for users wanting to get online as part of their Library Offer to the
+public.
+29: Engaging with UK Online: Libraries should engage with UKOnline for practical
+support and are encouraged to bid for funding for projects to help get one million
+additional people online over the next 3 years.
+30: myguide tool: Government recommend that libraries use the myguide tool to
+support the Government’s digital inclusion target for getting one million additional
+people online over the next 3 years.
+31: Online public services in libraries: Local leaders should consider how they can
+use internet access in libraries and UKOnline Centres as a means of allowing access to
+online public services.
+32: High speed broadband: Local Authorities should actively consider investing in
+JANET, the education online network, to provide high speed broadband access in public
+libraries.
+33: Assessing the demand for e-books: Government recommends that libraries
+assess the opportunity and demand for e-book lending in their community, and
+develop strategies.
+34: Free e-books: Government expects e-books to be loaned for free. Government will
+under section 8(2)(b) of the Public Libraries and Museums Act 1964 make an
+(affirmative) Order preventing libraries from charging for e-books lending of any sort
+including remotely.
+
+The modernisation review of public libraries: A policy statement
+
+35: Extending the Public Lending Right to non print books: DCMS will work with
+stakeholders to develop the secondary legislation for the extension of the Public Lending
+Right to non print books to enable simple, cost effective and easy to use arrangements
+for all public libraries.
+36: A digital offer: Government recommends that library services use digital
+technologies to enhance and complement their existing offer and move towards
+providing a 24/7 partnership with other services, such as publishers, commercial
+providers and academic libraries and institutions, the NHS and other e-government
+services. In the very near future, library services should aim to have an integrated digital
+and physical public offer.
+37: A national online catalogue: When money becomes available, the strategic body
+for libraries will develop a national online library catalogue for library users, building on
+the established Unity UK staff-facing catalogue.
+38: Social networking in libraries: Government recommends that all libraries allow
+access for users to social networking sites which are valuable communication tools and
+part of our cultural infrastructure.
+39: A national consortium for digital innovation: The strategic body for libraries
+will bring together a national consortium of stakeholders including technologists,
+publishers, librarians, local authorities and academics to develop a digital innovation
+strategy for public libraries.
+
+Chapter 6 – Aim: to demonstrate to citizens, commentators and politicians
+that libraries are still relevant and vital
+40: Connecting to local priorities: Government recommends that all library
+authorities consider connections to local policy priorities and innovate around their
+service provisions to align the libraries’ work with local needs and local priorities
+eg. Raising educations standards and narrowing gaps in attainment between different
+groups in the local population.
+41: Contributing to local services: Local authority leaders should actively consider
+how their library service could contribute effectively to other local services eg. services
+for children, schools and families.
+42: Links to the accreditation and peer review schemes: Connections to other
+services and policy priorities should be a criteria included in the accreditation and peer
+review schemes.
+43: Championing partnership working: Local authority chief executives should
+champion the partnership agenda for libraries, encouraging relationships with the private
+and third sectors as well as those between libraries and other public services or
+institutions – for instance early years and children’s centres, schools and their libraries;
+and libraries in further and higher education – to deliver improved services and greater
+efficiencies, particularly through co-location and joint back office functions.
+44: Cross boundary working: Local authorities should ensure they consider cross
+boundary working for libraries to improve service delivery and efficiency.
+45: Advocacy across Whitehall: DCMS will advocate across Whitehall about the
+contribution libraries can make to a broad range of government priorities. This will help
+improve access to funding streams and encourage government to use library services to
+deliver a broad range of outcomes.
+
+11
+
+12
+
+The modernisation review of public libraries: A policy statement
+
+46: Taking Part Survey and library visits for the purpose of paid work and study:
+From 2011 the DCMS Taking Part survey will also cover visits to libraries for the purpose
+of paid work or academic study as a discrete element.
+47: Inclusion of Omnibus questions in the Taking Part survey: From 2011 DCMS
+will include the questions from its Omnibus survey – including those on use of library
+computers – in the DCMS Taking Part survey to develop an ongoing picture about what
+people use libraries for and what library services might be attractive to non users.
+48: CLG Place Survey: The Department for Communities and Local Government (CLG)
+Place Survey provides information on people’s perceptions of their local area and the
+local services they receive. DCMS will analyse the results of this survey alongside DCMS
+and CIPFA surveys in order to correlate library membership/use with resident
+satisfaction with the local area.
+49: Feeding into National Indicators: Government recommends that library
+authorities should analyse how their work feeds into the full range of their Local
+Authority’s National Indicators and ensure that their contribution is recognised and
+aligned with the wider work of the local authority.
+50: Future National Indicators: DCMS will work with the Department for Communities
+and Local Government (CLG) to develop new measures for any future iteration of the
+National Indicator Set, which fully demonstrates and robustly captures the contribution
+that a modernised library services can make to delivering local outcomes.
+51: Understanding Society Panel Study: DCMS will use Understanding Society – the
+largest Panel Study in the world which explores the socio-economic circumstances and
+attitudes of 100,000 individuals in 40,000 British households – to provide longitudinal
+evidence. We will build on the Panel Study evidence by running a small longitudinal
+study with respondents to the DCMS Taking Part Survey in order to gain an ongoing
+understanding of the long term impact of library participation.
+52: Consortium approach to measuring impact: DCMS and the strategic library
+body will bring together partners who have a research interest (universities, third sector
+bodies etc) as a consortium to develop a cross sectoral approach to measuring impact.
+53: DCMS CASE Programme: As part of wider evidence work across the cultural sector
+and using the evidence available, DCMS-led CASE programme is exploring ways to
+detect and measure links between library engagement and perceptions of wellbeing. This
+work will be published in the coming spring.
+54: Contribution to health and wellbeing: The Reading Agency and Loughborough
+University Library & Information Statistics Unit (LISU) will this year conduct a major
+new project looking at the contribution public libraries are making to the health and
+wellbeing of the communities they serve.
+
+The modernisation review of public libraries: A policy statement
+
+Chapter 1
+Aim: to drive the quality of all library services up to the level of the best
+The Public Libraries and Museums Act 1964 (the 1964 Act) sets out the statutory duty
+for all local authorities to provide a ‘comprehensive and efficient’ library service set in
+the context of local need – specifically of those who live, work and study in the local
+area. The 1964 Act imposes a duty on the Secretary of State to oversee and promote
+the public library service and to secure discharge of the statutory duties of local
+authorities as well as providing certain powers to take action where a local authority is
+in breach of its own duty.
+Although there was recognition that some aspects of the 1964 Act are outdated, 80%
+of respondents to the consultation in local government (and 60% of all respondents)
+supported its continued use and the Secretary of State’s power to intervene. 75% felt
+that further clarification and definition is needed if the statutory duty is to be
+meaningful. The consultation showed strong support for a national offer or user
+entitlement across all libraries (85% of respondents were in favour).
+The Government therefore judges that the 1964 Act’s imposition of this duty on local
+authorities is appropriate and that the Secretary of State’s overview role should be
+maintained. We have no plans, therefore, to review the primary legislation but recognise
+that the process of intervention needs modernisation.
+
+1. A Library Offer to the public – ‘core’ and ‘local’ offer
+The Government believes that the community should be at the heart of the public
+library service and building on the work already developed in this area – such as the
+Chartered Institute of Librarians and Information Professionals (CILIP) guidelines, the
+LoveLibraries campaign and the Youth Offer for Libraries – the Government recommends
+that all library authorities introduce a Library Offer to the public. The Library Offer will
+be made up of a ‘core offer’ – services which Government believes should be offered
+across all library authorities, and a ‘local offer’ – services which are shaped and provided
+at local level. The Library Offer can be communicated to the public but can also
+illustrate how each library authority is delivering a ‘comprehensive service’ as required
+by the 1964 Act. This balance between central best practice guidance and local variation
+is in harmony with the Smarter Government White Paper11 which gives increasing
+independence and freedom to local authorities whilst recognising an appetite for greater
+guidance around legislative duties.
+A core offer for all libraries: Government recommends that the core offer for all
+libraries should include the following provisions to be made available across all library
+authorities:
+
+11
+
+Putting the Frontline First: Smarter Government, HMG: December 2009
+(http://www.hmg.gov.uk/media/52788/smarter-government-final.pdf)
+
+13
+
+14
+
+The modernisation review of public libraries: A policy statement
+
+• Library membership from birth: Details of local schemes to ensure that library
+membership is available from the earliest point in a child’s life (the Government
+expects that from April 2011 all local authorities ensure that library membership is an
+entitlement to children from birth. More detail in proposal 8 on p 25)
+• An opportunity to have your say and get involved in shaping the service (local
+details to be set out)
+• Free access to a range and quality of book stock to browse and borrow and
+online resources and information that meet local needs (including e-books as the
+market grows)
+• Access to the national book collection – any book from anywhere: Order any
+book through your library (even out of print books)
+• Free Internet access for all: Computers and access to online information and
+communication. (The Government will change legislation to prevent library authorities
+charging for internet access from April 2011. Further details set out in proposal 27
+on p 41)
+• Help to get online: Support for people using the internet for the first time or
+searching for information
+• Links to other public services and opportunities: Connections to health, education
+and learning or employment opportunities (local details to be set out)
+• A Community of Readers: Connecting people to other readers through reading
+groups, activities and recommendations
+• Flexible opening hours to suit the needs of the local people (local details to be set out)
+• Commitment to customer service and expert, helpful staff
+• A safe local space which is accessible and convenient for the community
+• 24 hour access: Through your library’s online catalogue, online reference and other
+services. (Website details to be set out)
+• Services which reach out and attract local people (local details to be set out
+including ‘at home’ services to housebound people)
+• An opportunity to be a member of all libraries in England: Easy to join, accessible
+services as announced by the Society of Chief Librarians (SCL)12
+The Government believes that these services represent the core offer which should be
+provided across all library authorities in England. Most library authorities are already
+providing this core service in full but Government recommends that all libraries provide
+a universal core offer.
+A local offer for libraries: As part of the local element of the Library Offer to the
+public, library authorities can shape their offer around local need but might consider
+including:
+• Commitments on book stock variety, investment and procurement
+• Opportunities and activities for young people as part of the local provision of
+positive activities
+• Provisions for learning such as improving reading and writing skills, and partnerships
+with local schools, early years setting and children’s centres
+• An Events programme including training events or activities for readers and
+author visits
+12
+
+http://www.goscl.com
+
+The modernisation review of public libraries: A policy statement
+
+• Family activities: Family reading and learning activities – Bookstart Rhymetime
+homework clubs, links to family information services, holiday reading challenges.
+• Programmes of engagement with the community including outreach initiatives and
+ways of encouraging wider usage, including families
+• Details of how to get involved with user groups, supporting or influencing the
+library service
+• Spaces for community use
+• Childcare or crèche
+• Additional Services like CD and DVD borrowing, book delivery service, coffee shops etc
+Other ideas are included throughout this document.
+Proposal 1: The Government recommends a Library Offer to the public for all public
+libraries in England. The Library Offer will be made up of a ‘core offer’ of services which
+all library services should deliver and a ‘local offer’ of services, shaped and delivered at
+local level. Government will review the Library Offer after two years and consider
+whether to legislate to make it a statutory obligation.
+Next steps: Government recommends that library authorities finalise their Library Offer
+to the public by the end of 2010.
+
+2. Guidance on processes of engagement and consultation
+Most respondents to the consultation agreed that decisions about services, opening hours
+and locations must be based on consultation and research in the community. They felt
+the decision to close a library should always be part of an agreed strategy which ensures
+there is a clear plan for the development of the library service as a whole and that
+arrangements to cater for the local community through alternative provisions (especially
+the vulnerable or disadvantaged) should be agreed and be in place before the closure.
+Sue Charteris’s inquiry into library service provision in the Wirral made a number of
+recommendations about a local authority’s duties as set out in the 1964 Act. The
+Government recommends that all library authorities familiarise themselves with their
+statutory duties13. Library authorities may also wish to consider the findings of the
+Charteris Report on the Wirral Library Service14 when developing their library policy and
+particularly when considering significant changes to library provision. It is important to
+reiterate that the Government recognises that library closures may sometimes be
+necessary, but closures must form part of a strategic approach to service provision
+and decisions must only be taken after consultation with the community.
+Effective engagement is key to understanding community needs and now, under the
+Local Government & Public Involvement in Health Act 2008, local authorities have a
+statutory duty to involve local people. We recognise that there is no single way of
+making an appropriate assessment of the general needs of a community and the specific
+needs of adults, children, families and young people. However, we would expect a library
+authority to devise a comprehensive vision and development plan for their service based
+on some common types of information and data. Sue Charteris expressed these most
+clearly in her report.
+13
+14
+
+http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1964/cukpga_19640075_en_1
+A Local Inquiry into the Public Library Service Provided by Wirral Metropolitan Borough Council
+(http://www.culture.gov.uk/reference_library/publications/6485.aspx)
+
+15
+
+16
+
+The modernisation review of public libraries: A policy statement
+
+When reviewing their service, library authorities should consider the following questions:
+Q1 What resources are available and how does this match the needs of the
+community?
+• Have you analysed and considered need and demand? What are the specific needs of
+adults, families and young people of all ages? Would members of the community be
+able and willing to contribute to the delivery of library services as volunteers or
+joint managers?
+• What are the needs of those living, working and studying in the area?
+• How accessible is the service? Is public transport appropriate? Are there barriers to
+physical access of library buildings that should be removed?
+• Have local people been consulted? How?
+• What are the views of users and what are the views of non users?
+• Have you done an Equality Impact Assessment?
+• What implications are there for other strategies e.g. educational attainment, support
+for those seeking work, digital inclusion, adult social care?
+• Are there other partnerships that can be explored – e.g. with the third sector,
+community and development trusts or town and parish councils?
+Q2 How efficient is the current service?
+• Are the arrangements for the delivery of the library service (eg buildings, staff, service
+provision, facilities, online presence etc) meeting the demand of the community and
+are they cost efficient?
+• What other delivery partnerships could be formed inside and outside the library
+authority or region to make the library service more efficient and effective (see
+examples in Appendix B)?
+• Can the facilities be used more flexibly?
+• What are you doing to encourage use and maximise income?
+• What scope is there for integrating or co-locating the library service with other
+services in the public or private sector (eg council services, post offices, schools,
+children’s centres etc)
+The questions set out here will already be considered as part of broader strategies in
+many areas and can also be used to gather community feedback and help develop the
+local offer set out above. It is recommended that library authorities consider these
+questions, when they are undertaking reviews of the library service.15
+Proposal 2: Sitting alongside the Library Offer to the public, the questions set out
+above are issued here as best practice guidance on the processes which Government
+recommends library authorities consider under their statutory duty. Government will
+review the best practice guidance set out here after two years and consider whether to
+legislate to make the guidance statutory.
+
+15
+
+Library authorities that are seeking to improve their relationship with the community can also consider
+the MLA’s advice and the toolkit published in 2006 (http://www.mla.gov.uk/what/publications/2006)
+
+The modernisation review of public libraries: A policy statement
+
+3. Modernising the process of intervention – set out roles and
+responsibilities
+In the event that a local authority fails to demonstrate the link between the design and
+delivery of the service and identifiable local need, the Secretary of State may launch an
+inquiry to determine whether the authority has breached its duty under the 1964 Act.
+Such inquiries are carried out in accordance with the Public Libraries (Inquiries
+Procedure) Rules 1992.
+These Rules were used for the first time in 2009 and although a number of respondents
+to the consultation reported that the Report on the Wirral Inquiry provided some useful
+guidance on local authority duties, the process prescribed by the Rules was
+cumbersome, bureaucratic and encouraged an adversarial environment. Feedback also
+indicates that the procedures were fair and that individuals felt they were able to
+communicate and contribute their views.
+Although the Government does not expect to activate the inquiry rules often, the Wirral
+Inquiry has highlighted the need to reconsider and modernise the processes required by
+the legislation.
+Proposal 3: The Government will amend the Public Libraries (Inquiries Procedure) Rules
+1992 to modernise the processes by which the Secretary of State intervenes in a library
+service. This will include setting out the roles and responsibilities of the various
+organisations involved, the trigger mechanisms for intervening, the processes for holding
+an inquiry, and the input of the local community and library users. The principles for all
+proposed changes will be to:
+• Maintain procedural fairness
+• Ensure the processes allow the view of users to be fully communicated
+• Strip out bureaucracy
+Next steps: The Department for Culture, Media and Sport (DCMS) will amend secondary
+legislation and publish advice on the roles and responsibilities as soon as possible.
+
+4. A strategic body for libraries
+89% of respondents to the consultation on this question supported the idea of a Library
+Development Agency as recommended by the All-Party Parliamentary Group on Libraries,
+Literacy and Information Management16. They favoured a body to provide co-ordination
+and strategic development of the library service. The Government is convinced by some
+of the arguments for an NDPB for libraries but believes that any changes should be in
+keeping with wider Government moves to streamline public bodies. Government
+recognises that, following the re-organisation of the MLA, that body has begun to make
+significant progress. DCMS shall continue to monitor their work and will take their
+achievements into account when considering the shape of a new strategic body.
+
+16
+
+All-Party Parliamentary Group on Libraries, Literacy and Information Management’s ‘Inquiry into the
+Governance and Leadership of the Public Library Service in England’ report, September
+2009.(http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Pages/appg.aspx)
+
+17
+
+18
+
+The modernisation review of public libraries: A policy statement
+
+Proposal 4: The Government is minded to establish a strategic body for the sector as a
+means of providing a stronger national voice for libraries and improving leadership and
+development of the sector. As part of the wider review of arms length bodies, the
+Government will consider bringing together the functions of three different
+organisations – the Museums, Libraries and Archives Council (MLA), the Advisory Council
+on Libraries and the Registrar of Public Lending Right. The Government believes that any
+such body should be an improvement and development agency and should have vested
+in it greater authority than is afforded to the MLA in its current form. Government
+therefore proposes that the libraries body has a statutory advisory function, with the
+formal power to advise the Secretary of State on his role under the 1964 Act.
+Aligning with the Government’s Smarter Government White Paper17, the library strategic
+body will be a key part of the DCMS’s drive to modernise the arrangements for public
+bodies with a focus on delivering better value and quality for the public while
+rationalising administration.
+The body would have a statutory role to advise the Secretary of State on oversight of
+library services as set out in the 1964 Act, with the following responsibilities:
+• Co-ordinator of a voluntary peer review and accreditation programme for public
+libraries in England (more detail at proposal 5)
+• Improvement and development work for public libraries including guidance, best
+practice and advice on:
+– Service improvement, user engagement and targeting particular user groups
+– Reading and Information
+– Governance models
+– Co-location and partnership working
+– Total Place principles in place-shaping
+– Fundraising and commercial ventures
+– Digital innovation – lending, digital engagement and communication, digital content
+– Learning and skills
+• The Public Lending Right administering the PLR Scheme
+• A series of national programmes or initiatives as appropriate – could include a
+national online catalogue (if money becomes available) or digital content programmes
+• Co-ordinating a programme of research and evidence
+• Partnership working with Government, third sector and private organisations
+Next steps: The Government will undertake a business case in consultation with
+stakeholders and will publish more detail as part of the broader review of arms length
+bodies, including an assessment of the capability of the MLA to undertake that role
+alongside its other functions, including those for museums and archives.
+
+5. Accreditation and peer review
+A key theme from respondents to the consultation was a desire to see more national
+monitoring with a national quality standard and an accreditation scheme for libraries.
+Government is therefore proposing that the strategic body for libraries introduces a
+voluntary accreditation scheme for libraries and expands the current light touch peer
+review programme.
+17
+
+Putting the Frontline First: Smarter Government, HMG: December 2009
+(http://www.hmg.gov.uk/media/52788/smarter-government-final.pdf)
+
+The modernisation review of public libraries: A policy statement
+
+Based on similar models in the museum, tourism and sports sectors, the accreditation
+programme will be an opt-in programme for which library services can apply. In the
+shorter term, the scheme might be linked to applications for funding opportunities for
+libraries so that accreditation can help libraries applying for funding awards. In the longer
+term and when funding becomes available, Government will link the accreditation
+scheme to a LIFT programme for libraries whereby capital investment is linked to service
+improvements. Where there is a positive effect on culture services in the locality, the
+scheme may also be reflected in Comprehensive Area Assessment (CAA) reporting.
+The Peer Review will build on existing initiatives18 and will share best practice, help
+facilitate partnerships between local authorities or other services and advise on strategy
+for widening usage and connecting to other local authority priorities.
+A number of respondents to the consultation suggested that customer satisfaction
+needed to be better taken into account when measuring library performance so the
+views of users and non users will form part of the accreditation scheme.
+The scheme will monitor the implementation of the Library Offer to the public (proposal 1)
+and the guidance on processes of engagement and consultation (proposal 2).
+Proposal 5: As part of its responsibilities the strategic body for libraries will devise and
+run a voluntary peer review and accreditation programmes for public library services.
+
+Proposal 6: As more public funds become available in the future, a LIFT programme for
+libraries should be pursued whereby capital investment is linked to service
+improvements.
+
+18
+
+MLA’s Light Touch Peer Review – www.mla.gov.uk/news_and_views/press/releases/2009/~/media/Files/
+pdf/2009/Light_Touch_Review and A Passion for Excellence: An improvement strategy for culture and
+sport, March 2008 (http://www.idea.gov.uk/idk/core/page.do?pageId=8722751)
+
+19
+
+20
+
+The modernisation review of public libraries: A policy statement
+
+Chapter 2
+Aim: to reverse the current trend of decline in library usage and grow the numbers
+using the library service
+Government recognises that many library authorities have a good story to tell about
+their usage figures and this is illustrated by the national surveys of library participation
+which show significant differences between the performance of library authorities.
+Data collected by The Chartered Institute of Public Finance and Accountancy (CIPFA)
+show that although children’s book issues have been increasing year on year for the past
+five years (shown in graph 2), after a brief resurgence from 2002 visits to library
+premises fell in 2008/09 (shown in graph 1) and adult book issues and the number of
+‘active borrowers’ (those who have borrowed an item from the library in the last 12
+months) are down significantly.
+CIPFA Public Library statistics for 2008/09 are going through final checks for imminent
+publication as we go to print; there may be some minor adjustments incurred.
+Graph 1: Visits to library premises, 1992/93 to 2008/09
+
+360
+
+Visits (Millions)
+
+340
+320
+300
+280
+260
+
+9
+
+8
+
+/0
+
+/0
+20
+
+08
+
+7
+20
+
+07
+
+6
+
+/0
+
+/0
+20
+
+06
+
+5
+20
+
+05
+
+4
+
+/0
+
+20
+
+04
+
+3
+
+/0
+
+/0
+20
+
+03
+
+2
+20
+
+02
+
+1
+
+/0
+
+20
+
+01
+
+0
+
+/0
+00
+
+20
+
+9
+19
+
+99
+
+/2
+
+00
+
+8
+
+/9
+
+/9
+19
+
+98
+
+7
+19
+
+97
+
+6
+
+/9
+
+19
+
+96
+
+5
+
+/9
+
+/9
+19
+
+95
+
+4
+
+94
+19
+
+/9
+93
+
+92
+19
+
+19
+
+/9
+
+3
+
+240
+
+Year
+
+Source: Public Library Statistics 1992/93 to 2008/09 Actuals (CIPFA)
+
+Graph 2 displays a ten-year trend in issues of books for adults and children from
+England’s public libraries. Although there is no evidence of a causal link between book
+issues and visits, the graph shows how loans of adults’ books have steadily declined over
+the decade, falling by more than a third in that time. Children’s loans, however, fell
+steadily until 2003-4 but the downward trend has since reversed, increasing in each of
+the last five years. While this is encouraging, the level of children’s loans is still lower
+than it was 10 years ago.
+
+21
+
+The modernisation review of public libraries: A policy statement
+
+75
+
+190
+
+70
+
+170
+
+65
+
+150
+
+60
+
+Year
+
+Children’s book issues (millions)
+
+210
+
+20
+08
+/0
+9
+
+80
+
+20
+07
+/0
+8
+
+230
+
+20
+06
+/0
+7
+
+85
+
+20
+05
+/0
+6
+
+250
+
+20
+04
+/0
+5
+
+90
+
+20
+03
+/0
+4
+
+270
+
+20
+02
+/0
+3
+
+95
+
+20
+01
+/0
+2
+
+290
+
+20
+00
+/0
+1
+
+100
+
+19
+99
+/2
+00
+0
+
+310
+
+19
+98
+/9
+9
+
+Adult book issues (millions)
+
+Graph 2: Issues of adult and children’s books from public libraries 1998/99 to 2008/09
+
+Adult book issues, England
+Child book issues, England
+
+Source: Public Library Statistics 1998/09 to 2008/09 Actuals (CIPFA)
+
+The DCMS Taking Part Survey tells us the percentage of the population using libraries.
+Use includes physical visits to library premises; use of on-line library resources or services
+remotely (i.e. use of a computer outside the library to view the website, catalogue or
+databases); access, and receipt, of the library service by email, telephone, fax or letter and
+receipt of an outreach service such as home delivery or library events outside a library
+building19. The survey shows an increase in the proportion of children using libraries
+(illustrated in graph 3) but a significant and year on year decline in the proportion of the
+adult population doing so (shown in graph 4). Fortunately analysis shows that there is a
+clear link between engagement as a child and participation as an adult. Increasing
+children’s use of libraries builds audiences for the future20.
+Graph 3: Percentage of 11-15 year old children using a Library
+80
+70
+60
+50
+40
+Jan 06-Dec 06
+
+Jan 07-Dec 07
+
+Sept 08-Aug 09
+
+Source: Children’s Taking Part (DCMS)
+
+19
+
+Technical note – PSA21: Indicator 6 http://www.culture.gov.uk/images/research/PSA21_Technical_Note_­
+_Final_baseline.doc
+20
+The first DCMS Taking Part Survey in 2005/6 found that children who were taken to libraries as a child
+had significantly higher recent attendance rates than those who were not taken as a child, p.46 Taking
+Part: The National Survey of Culture, Leisure and Sport, May 2007
+
+22
+
+The modernisation review of public libraries: A policy statement
+
+Graph 4: Percentage of adults using libraries, July 2005 to December 2009
+55
+
+Percentage
+
+50
+45
+40
+35
+
+O
+ct
+
+Ju
+l
+
+20
+05
+-Ju
+
+n
+20
+20
+06
+05
+-S
+Ja
+ep
+n
+20
+20
+06
+06
+-D
+Ap
+e
+c
+r2
+20
+00
+06
+6M
+Ju
+a
+l2
+r2
+00
+00
+67
+J
+O
+u
+n
+ct
+2
+20
+00
+06
+7
+-S
+Ja
+e
+n
+p
+20
+20
+07
+07
+-D
+Ap
+ec
+r2
+20
+00
+07
+7M
+Ju
+a
+l2
+r2
+00
+00
+78
+Ju
+O
+n
+ct
+20
+20
+08
+07
+-S
+Ja
+e
+n
+p
+20
+20
+08
+08
+D
+Ap
+e
+c2
+r2
+00
+00
+8
+8M
+Ju
+ar
+l2
+20
+00
+08
+8Ju
+O
+n
+ct
+20
+20
+09
+08
+-S
+Ja
+ep
+n
+20
+20
+09
+09
+-D
+ec
+20
+09
+
+30
+
+Time Period
+Source: Taking Part Survey (DCMS)
+
+Further consideration of the statistics is set out in chapter 6, but Government believes
+that with only children’s use increasing there is a clear message in this data which we
+cannot simply ignore. Even where local figures are good it continues to be vital for library
+authorities to do all they can to attract new members and maintain their regular visitors.
+To improve intelligence on the market demand for library services we included some
+questions about library use and non-use in an Omnibus survey to find out more about
+the activities being undertaken in libraries and explore where non library users might
+have an interest in library services21.
+
+Libraries Omnibus Findings
+In December 2009, DCMS commissioned Ipsos MORI to carry out research into public
+library usage involving face-to-face surveys with a representative sample of 5000 people
+aged 15+ in England. Through DCMS Taking Part surveys and CIPFA, we have knowledge
+about the number of public library users and of visits made, but have been lacking data
+regarding other aspects of library usage. The survey was designed with two main aims:
+• To find out what people visit public libraries to do.
+• To investigate the level of latent demand – that is, how many people are doing
+activities elsewhere that could potentially be done in a library?
+Library users: 41% of our sample had been to a public library in the past 12 months22.
+The activities done by these library users is summarised on the following page23:
+
+21
+
+http://www.dcms.gov.uk/reference_library/research_and_statistics/6753.asp
+This variance from the 37.5% Taking Part figure is most likely down to the different sampling methods
+utilised in the two studies rather than a recent, sudden rise in library visitor numbers.
+23
+‘Other’ includes attending a group or class, getting help using a computer, reading a magazine or
+newspaper, and using a photocopier.
+22
+
+23
+
+The modernisation review of public libraries: A policy statement
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+81
+
+30
+13
+
+9
+
+th
+er
+
+15
+
+O
+
+16
+
+Bo
+r
+
+Ch
+
+ild
+
+fo
+r
+
+ow
+n
+
+re
+n’
+sa
+
+in
+
+a
+Re
+se
+ar
+ch
+
+Bo
+rro
+w
+
+19
+
+ct
+ivi
+tie
+ro
+s
+w
+co mu
+m si
+pu c,
+te film
+rg s
+am or
+es
+Us
+e
+In
+a
+co
+fo
+r
+m
+tra ma
+pu
+t
+in io
+te
+in n
+r
+g, on
+lo jo
+ca b
+l e s,
+ve he
+nt alt
+s e h,
+Q
+ui
+tc
+et
+.
+pl
+ac
+e
+to
+st
+ud
+y
+
+te
+re
+st
+
+20
+
+bo
+ok
+
+Percentage
+
+Graph 5: Activities undertaken in libraries
+
+Activity
+
+Potential library users: There is a high degree of potential demand – that is people
+who have not been to a public library in the past 12 months, but who have taken part in
+an activity which could have been undertaken in a public library. Therefore there is the
+potential that these people could become library users. For instance, of the 48.5% of our
+sample who had not visited a library in the past 12 months, 31.2% had either borrowed
+or wanted to borrow a book. That is 15% of our total sample.
+Graph 6: Library use, non-use and potential use
+
+60
+48.5
+
+Percentage
+
+50
+41
+40
+30
+20
+
+10.5
+10
+0
+Visit libraries
+
+Don’t but do activities
+
+Do neither
+
+Digital engagement: Of those who access the internet via a public place (4.8% of our
+sample), just over half had done so in a public library. So there is potential for a rise in
+the number of people using public libraries for internet access. Computer usage in a
+public library reduces as income rises, suggesting that this provision is serving the lower
+income members of the community. 12% of our sample had used the internet to look
+at public library websites.
+
+24
+
+The modernisation review of public libraries: A policy statement
+
+The consultation elicited a variety of ideas on the question of how to increase
+participation with a majority of respondents supporting better communication of what
+the public library service offers and a number of respondents emphasising the
+importance of location and opening hours.
+
+6. Communicating the Library Offer to the public effectively
+Many respondents to the consultation felt that there is more to be done to promote the
+benefits of libraries to those who do not currently use them. Consumers need to know
+what they can expect from their local library service, yet many public libraries are not
+publicising their offer in terms that the public can understand, and there are too many
+perceived barriers to use. The Library Offer to the public represents a commitment to
+the community and can help communicate library services to users and non users alike.
+It also reflects the importance of giving people guarantees of high quality public
+services, as set out in the Smarter Government White Paper.24 The Government
+therefore proposes the following:
+Proposal 7: Government recommends all library authorities make their Library Offer to
+the public clear and visible to all the citizens in the area – on their website, in library
+buildings and through any other local marketing opportunities.
+
+7. Attracting new members, engaging effectively with the community,
+and community outreach
+There are a number of schemes operating at national and local level which are
+successful in attracting new library members and promoting reading. Lead by The
+National Literacy Trust and The Reading Agency, the National Year of Reading in 2008
+encouraged 2.3 million people to join the library25 and Bookstart baby packs successfully
+encourage parents to enrol their children as library members26. Last year the Summer
+Reading Challenge, involving 95% of libraries and spearheaded by the Reading Agency
+during the long school holiday, saw 725,000 children participating with 47,000
+becoming new library members.27
+The consultation responses and the Community Led Reference Group for this review
+identified the importance of engaging in outreach activities in order to attract new,
+often hard to reach, library users. In Manchester, when funding from existing budgets
+was identified to create a temporary outreach and promotions assistant, a new
+approach was taken to targeting the 72% of residents that did not already have a library
+ticket. A portable mini-library with wheeled shelf units and bearing a selection of
+seasonal stock was taken round to potentially fruitful recruiting grounds including the
+town hall, large private companies and HE institutions. By Summer 2009 the library
+service had held 45 ‘Meet the Neighbours’ sessions and recruited 3,750 new members.
+All library authorities should consider how they can shape services to respond to the
+locally identified needs of their community – including families28. This, in turn, helps
+develop services which appeal to new users and which might be cost effective in a
+constrained financial environment.
+24
+
+p. 9 Putting the Frontline First: Smarter Government, HMG: December 2009
+(http://www.hmg.gov.uk/media/52788/smarter-government-final.pdf)
+25
+http://www.readingforlife.org.uk/99
+26
+Evaluation in 2009 found that found membership among Bookstart pack recipients increased 7% in three
+months http://booktrustadmin.kentlyons.com/downloads/NationalImpactEvaluation09.pdf
+27
+http://www.readingagency.org.uk/media/Christmas%202009.html
+28
+Authorities that are seeking to improve their relationship with the community can consider the MLA’s
+advice and the toolkit published in 2006 http://www.mla.gov.uk/what/publications/2006
+
+The modernisation review of public libraries: A policy statement
+
+Leeds Library and Information Service: engagement project
+When Leeds Library and Information service was awarded £1.4 million from the Big
+Lottery Fund Communities Libraries Programme to extend and refurbish a dull 1960’s
+library in Garforth into a new vibrant creative space and One Stop Centre, a
+comprehensive community engagement plan was adopted to ensure that communities
+could influence the service the new building would provide. Parents, business
+representatives, children of primary school age, older people and representatives from the
+voluntary sector were consulted and focus groups were held. A community Steering Group
+selected a large proportion of the book stock for the new library. The success of the project
+is illustrated by visitor statistics – 1600 people attended the first family day at the library.
+
+Proposal 8: We know children benefit in many ways from early access to books and
+reading29. The Government therefore expects that from April 2011 all library services
+offer library membership as an entitlement from birth. This might be achieved in a
+number of ways:
+• Offering Library membership at the registration of a birth30
+• Offering Library membership along with child benefits
+• Offering library membership with Bookstart packs
+Two thirds of libraries already provide library membership information with packs
+which are distributed to all children at 7- 9 months31. DCMS will ensure that there
+will be no net additional costs to local authorities in line with the Government’s new
+burdens procedures.
+
+Proposal 9: Drawing on the guidance in chapter 1, all library authorities should consider
+how they attract new members, through seeking greater community engagement and
+through community outreach initiatives.
+
+8. Providing an accessible library service
+Opening hours: People’s lives have changed and people’s expectations have also
+changed. Library opening hours need to respond to their customers’ needs and wants –
+including those of families. Out of hours access was a key access issue confirmed
+through the consultation – particularly by library users who emphasised the importance
+of determining opening hours in consultation with the community. Libraries can
+
+29
+
+A Report by the Sutton Trust suggests a child taken to the library on a monthly basis from ages 3 to 5 is
+two and a half months ahead of an equivalent child at age 5 who did not visit the library so frequently
+(http://www.dcsf.gov.uk/news/images/userfiles/file/Early_years_report%20final.doc). The Centre for
+Longitudinal Studies at the Institute of Education’s Millennium Cohort Study, which by following nearly
+19,000 children born at the start of the 21st century until they are 11 will gauge the long-term impact of
+poverty, parenting, education, health, religion and ethnicity on their formative years, has found that
+children whose parents read to them every day at the age of three were more likely to flourish in their
+first year in primary school, getting more than two months ahead not just in language and literacy but
+also in maths (www.cls.ioe.ac.uk)
+30
+The Tell Us Once service may help library authorities administer these arrangements. Tell Us Once joins up
+government for citizens so that they only need to inform central and local government just once of changes
+in their circumstances such as a birth or a death. Tell Us Once is a cross government programme based
+within DWP and works in partnership with local authorities, Her Majesty’s Revenue & Customs (HMRC),
+Identity and Passport Service (IPS), and Driver and Vehicle Licensing Agency (DVLA) to deliver services the
+way customers want them. Each local council will tailor the needs of their residents and one of the services
+that a citizen can notify about the birth of a child is their local council Library service. Tell Us Once will
+become a national programme in May and information will be accessed via Directgov from that point.
+31
+www.bookstart.co.uk
+
+25
+
+26
+
+The modernisation review of public libraries: A policy statement
+
+consider using volunteers to help deliver longer opening hours. 14.7% of respondents to
+DCMS Taking Part survey who had not visited a public library in 2007/08 said they did
+not have time to go. The most innovative libraries are changing – opening later in the
+evening and opening on Sundays.
+For example, in Suffolk Sunday opening was introduced across the whole service in 2003
+with a view to attracting 5,200 additional visitors per week. That happened and seven
+years later the service continues to attract more people and all 44 libraries remain open
+on Sundays
+Proposal 10: Local authorities should review opening hours to assess whether they meet
+local need, including that of families. Opening hours should reflect customer demand.
+Buildings infrastructure: Libraries offer a rare social and versatile space for multi­
+generational use and most are busy and well-loved. Communities should have access to
+welcoming, high quality library buildings in the right place and open at the right times
+for their users. There are some fantastic new libraries with iconic designs, innovative
+services and inventive links to local people. The popularity of new builds confirms the
+‘pulling power’ of the buildings infrastructure. For instance, the new library in
+Bournemouth town centre was built and funded as a PFI pathfinder project. It is 3.5
+times larger than the library it replaced and includes retail units. In its first year alone
+visits increased by 120% and stock issues increased by 50%. Almost 5000 new
+borrowers registered in the first week. In 2007 the Big Lottery Fund awarded £80m
+investment to build and refurbish libraries across 58 authorities with a key requirement
+to engage communities in planning.32
+As set out in proposal 6, as more public funds become available in the future, a LIFT
+capital programme for libraries should be pursued whereby capital investment is linked
+to specific service improvements, and to the accreditation scheme.
+Small libraries in communities make an important contribution to the library
+infrastructure and mobile libraries and ‘library access points’ in community spaces can
+be an attractive alternative in some communities to dedicated library buildings. This
+approach has been successful in the East Riding of Yorkshire where, until a fundamental
+review of the mobile library service was carried out in 2000-01, communities were
+missing out on a modern library service due to the predominantly rural nature of the
+area and lack of dedicated library buildings. The new mobile vehicle provides a broad
+range of services and now many somewhat isolated rural communities have the
+equivalent of a one-stop-shop on their doorstep.
+Proposal 11: With reference to the guidance set out at proposal 2, local authorities
+should regularly review the footprint of the library service to determine whether they
+have the right buildings in the right place.
+Co-location: Co-location of services can help to widen usage and make valuable links
+for the user. Respondents to the consultation said co-location works when it brings
+together complementary services on an equal footing. Effective co-location of libraries
+with other services – such as health or employment services, post offices, leisure
+services, schools, early years settings and children’s centres, universities or other
+educational institutions – enables innovation, offers value for money and delivers a
+
+32
+
+http://tinyurl.com/y1e2rcu
+
+The modernisation review of public libraries: A policy statement
+
+coherent, joined-up approach to the public. Respondents to the consultation agreed that
+co-located libraries can be used as community hubs. The Total Place initiative provides
+co-location opportunities for local authorities (more details of Total Place on p 30).
+Libraries are viable and valued partners for co-location because:
+• Libraries are a universal service
+• Libraries are free, community spaces
+• They are widely used by the individuals and community groups other partners want
+to reach33
+• They provide free access to quality information, reading and Information and
+Communication Technology (ICT) resources which support and complement the work
+of many partners, particularly in health, education and learning
+• Library spaces are relatively inexpensive to fit out in a shared building
+VAT position on co-location: Co-location with other services is an important route to
+improved services and increased efficiency but, as with any innovation, there are barriers
+to achieving successful partnerships – most commonly the impact on the normally
+beneficial VAT position of the local authority. This has caused some local authorities to
+think twice, but it is possible to mitigate the potential impact of VAT by understanding
+and considering the issues at the outset of the project. Further information on this issue
+can be found in the separate study which accompanies this publication.34
+Proposal 12: Local authorities should maximise all partnership and co-location
+opportunities.
+
+Proposal 13: Accessibility of library services should be included as criteria in the
+accreditation and peer review scheme.
+
+33
+
+In 2008, CFE Consulting surveyed library users in deprived areas of the North East and found that they
+largely reflected the target groups for the government careers advice service, nextstep, and the Regional
+Employability Framework (REF). 61% of the people interviewed were of ‘working age’ (17-64) with below
+Level 4 qualifications and in socio-economic grades C1, C2, D or E. 34% lived in social housing, 17% were
+claiming Income Support and the mean annual personal income of participants was £8,600, below
+regional and national averages. Approximately 1 in 5 (19%) of library users had used a library to find out
+about, and make choices relating to, learning and work in the last two years (http://tinyurl.com/y8rnf2f)
+34
+http://www.dcms.gov.uk/reference_library/publications/6754.aspx
+
+27
+
+28
+
+The modernisation review of public libraries: A policy statement
+
+Building Schools for the Future (BSF) is providing a catalyst to plan strategically and
+invest in facilities for the delivery of educational and social outcomes for children, young
+people and wider communities. These programmes offer a framework which allows
+partners, including library services, to think about how different professionals and
+organisations can work together towards a common goal and make the most of the
+available resources. Key elements of school delivery such as family learning and extended
+curriculum provision can all be delivered effectively through a range of different cultural
+professionals, with libraries offering resources and expertise to school delivery.
+BSF is the largest capital investment programme of its kind for 50 years, and nearly a
+third of all secondary schools in England are now involved in the BSF programme. Every
+local authority engaged in BSF must develop a Cultural Stakeholder Group to engage
+with relevant local stakeholders and are required to develop plans which include their
+entire education and learning estate35.
+
+35
+
+For more information about linking to a Cultural Stakeholder Group or engaging with the Building Schools
+for the Future Programme see: http://www.partnershipsforschools.org.uk/library/Art_and_Culture.jsp
+
+The modernisation review of public libraries: A policy statement
+
+Chapter 3
+Aim: that the library service is able to respond to limited public resource and
+economic pressures
+As local authorities face tough choices over how to manage council tax, encourage
+growth in their local areas and protect high quality local services, central Government
+encourages councils to prioritise the protection of frontline services to the public, like
+the public library service.
+Responses to the library review consultation recognised the tough climate for public
+resources and the risks of cuts to public libraries. Like other public sector services, local
+authorities are under pressure to improve the sustainability of libraries and boost their
+incomes. This can be difficult and local authorities need to balance income generation
+against creating barriers to use. Research in 2008 found that funding innovation in
+libraries is traditionally poor. Almost 80% of library services thought they could do more
+to achieve sustainability, but as a local authority body, felt constrained in trying new
+ways of working and developing income streams36.
+
+9. Governance and delivery models
+There is a growing mixed economy of delivery models and governance across library
+authorities, ranging from new multiple service trust models, commissioning of the
+library service by private companies or outsourcing of the back office functions. There
+are already examples of substantial partnership working, shared services and library
+authorities exploring mergers and permanent partnerships across boundaries. The
+impetus for change in the business model of libraries is often as a result of local
+authority rationalisation and an onus on delivering efficiencies through shared training,
+procurement and improvement. However, there are also opportunities for improvements
+and better services to customers through shared learning and partnership working.
+Responses to the consultation suggested that a number of local authorities are gauging
+other authorities’ experiences of alternative governance models, emphasising the
+importance of sharing information across local authority boundaries. A number of
+respondents considered that bespoke solutions would be needed for different areas with
+no single structure universally relevant.
+The Government believes that the current model of 151 library authorities is
+unsustainable. Library authorities must look at new delivery models if they are to
+continue to offer citizens a comprehensive service at local level. Library services will
+need to either work closely together, merge with other authorities or establish new
+trust models or private/public partnerships. There may also be opportunities to share
+
+36
+
+Business Models and Financial Instruments for the museums, libraries and archives sector: Review of the
+Literature and Survey Findings, Freshminds for MLA, 2008 (http://research.mla.gov.uk/evidence/documents/
+Business%20Models%20and%20Financial%20Instruments.PDF)
+
+29
+
+30
+
+The modernisation review of public libraries: A policy statement
+
+services with university libraries and collaborate on opening times, access and
+management of stock.
+The Total Place initiative may provide a vehicle for exploring those opportunities and
+help to identify valuable improvements and efficiencies. The Total Place initiative fits
+with the Comprehensive Area Assessment (CAA) and requires local services to
+understand the needs of their communities and work in partnership to tackle local
+challenges. There are 13 Total Place pilot areas focussing on themes covering physical &
+mental health of adults & children, crime & antisocial behaviour, deprivation,
+worklessness, asset management and procurement. Engaging library services as a partner
+in Total Place could identify valuable improvements and efficiencies and, given their role
+as community hubs, libraries could be a critical part of this process.37
+Local authorities are already operating alternative models to the delivery of their library
+services. These include:
+Wigan (Charitable Trust Model) Wigan Leisure & Culture Trust has made major
+investment in Wigan Council’s libraries, museums and leisure centres. The Trust’s most
+significant investment funding has come from not having to pay business rates (saving
+£500,000). The Trust has been able to spend an extra £1.5m over the last five years on
+extended opening hours, new stock and increased partnership projects with schools,
+health and children’s centres.
+Luton (Charitable Trust and Company Limited by Guarantee) Luton’s cultural services
+(museums, libraries and arts) are now a Trust. A charity running the services on a notfor-profit basis has meant resources not available to the Council have been accessed and
+speedier decisions made with focus given to providing a first class services to customers.
+In addition to these governance models some local authorities are examining the
+opportunity for shared back office and front office partnerships and mergers.
+• For instance, in the East of England, the SPINE project has been established to
+identify a viable option for sharing library services in the region which can deliver
+savings and efficiency for each of its six council partners38. The project has funding
+from Improvement East (the regional improvement and efficiency body) with
+additional funding from MLA, and both cash and in-kind contributions from each of
+the councils. By September 2010, the project will have explored governance
+arrangements, identified an appropriate delivery vehicle, and scoped out a catalogue
+of services. From the start, the founding partners have recognised that this model may
+be scaleable and transferable, so recognise it may offer a range of opportunities which
+go beyond libraries. In each case the drivers for involvement include efficiency and
+value for money, with a shared vision around developing innovation and public benefit.
+• London Library Change Programme: Supported by Capital Ambition, London’s
+Regional Improvement and Efficiency Partnership, research for the London Library
+Change Programme identified that costs and service quality varies widely across public
+libraries in London with no correlation between the two. Only by boroughs working
+together can public expectations be met, while bearing down on costs in the new
+financial environment. Individual local services will continue to offer bespoke library
+services to meet local need in consultation with residents but the programme aims to
+result in shared back-office services and a unified approach to stock management and
+procurement. This will enable the library user to get books more quickly while driving
+
+37
+38
+
+For more information about Total Place visit http://www.localleadership.gov.uk/totalplace/
+The six founding partners are Essex, Cambridgeshire, Suffolk, Hertfordshire, Thurrock and Southend
+
+The modernisation review of public libraries: A policy statement
+
+down costs. Employing best practice in deployment of staff will improve value for
+money and, ultimately, the customer experience.
+South East Library Management System: Different IT systems can limit opportunities
+for improved partnership working. South East Library Management System (SELMS) is a
+consortium of public library authorities set up in 2005 to explore opportunities to work
+in partnership to effectively renew and improve library management systems.
+Key benefits for library customers and staff include:
+• a larger pool of lending stock available
+• optimum use of front desk and administrative personnel resources
+• improved ability to provide an increasing range of services at a reasonable and
+consistent cost
+• better interoperability with other library services
+• opportunities to explore other back office efficiencies jointly39
+There is no one size fits all solution to the efficiency challenges facing library services
+and library authorities should research their options thoroughly, drawing on the
+experience of other libraries, the MLA and other experts. Whatever the arrangement, the
+library authority continues to be accountable and answerable for the statutory duty.
+Proposal 14: All library authorities should consider innovative ways to generate
+improvements and efficiencies through shared services, partnership working, new
+delivery models and new governance arrangements.
+
+Proposal 15: Library services, with their parent authorities, should make use of Regional
+Improvement and Efficiency Partnerships (RIEPs) to support more innovative joint
+service working.
+
+10. Commissioning structures
+Rather than rationing resources by departmental silos, local government is moving
+towards commissioning services according to their contribution to local priorities. As
+many Heads of Service already recognise, this presents an opportunity for libraries
+because of the contribution they make to wider policies. Successful Library services
+must be able to position themselves as partners of choice and offer services of
+recognised value to local policy goals.
+Commissioners need to be informed about what libraries provide and libraries must be
+pro-active in offering solutions to local priorities. Without compromising their core
+purpose libraries can respond to local priorities and are delivering enhanced services and
+increasing funding opportunities.
+
+39
+
+The six founding members of SELMS are Wokingham Borough Council (procurement lead), Brighton and
+Hove City Council, Buckinghamshire County Council, Milton Keynes Council, West Berkshire Council and
+the Royal Borough of Windsor and Maidenhead (administrative lead). Since the consortium became live
+six other partners have joined, three of whom are now operating on the joint system. These three are Kent
+County Council, Medway Borough Council & the London Borough of Hammersmith & Fulham. More
+recent members, who will go live over the next twelve months, are Slough Borough Council and the
+London Borough of Camden.
+
+31
+
+32
+
+The modernisation review of public libraries: A policy statement
+
+For instance, in Luton, the Primary Care Trust has just commissioned the Library Service
+to buy a collection of books for Books on Prescription, and the Borough Council Early
+Years section is funding them to extend Books on Prescription to children and
+adolescents. The Early Years Service in Northamptonshire has commissioned the
+county’s library service to run children’s centres in three libraries. As well as providing
+information, activities and resources for parents and carers with preschool children and
+links to a wide variety of partners (including health, child minders, local voluntary
+groups and schools), team librarians are commissioned to deliver family reading groups
+and to provide 1:1 support to help improve parents’ employability e.g. CV writing,
+interview skills, general IT skills, literacy and numeracy. Four further libraries in the
+county are designated to become co-located Children’s Centres.
+Proposal 16: All library authorities should do more to respond to local authority
+commissioning, developing the necessary understanding and skills to identify new
+opportunities for the library service.
+
+11. Supply Chain
+Many library authorities have worked hard at maximising efficiencies in the stock supply
+chain driven by the desire to improve customer experience, and to achieve the best
+public value. It is vital that all libraries do so.
+Almost all library authorities in England are part of wider book purchasing consortia
+with other library authorities or other local authority partners. Consortia can help drive
+down procurement costs resulting in better value for library authorities and more books
+for library customers.
+Electronic Data Interchange (EDI): Libraries that employ full EDI have in place a totally
+computerised process for stock purchasing, from initial price quoting, to final invoice
+payment. This can lead to efficiencies by freeing staff from routine ‘back office’ duties.
+There are accreditation schemes which recognise best practice in EDI to which libraries
+can freely apply40.
+Radio Frequency Identification (RFID) is a technology that is gaining in popularity
+with libraries because of the flexibility it provides around (typically) self service, security,
+and stock management. Using RFID to manage the book stock provides libraries with
+better flexibility to locate, refresh, transfer, present and issue stock, leading to an
+improved customer experience. The best RFID systems contribute to efficiency; doing
+more with the same resources; or doing more with less. Staff can be re-assigned in ways
+that improve customer service and cost-efficiency.
+Proposal 17: All library authorities should maximise efficiencies in the stock supply
+chain to improve customer experience, and to achieve the best public value.
+
+12. Fundraising and Commercial partnerships
+Councils need not always look to fund service improvements through their budgets.
+Creating new opportunities, as libraries are already doing, by exploring innovative revenue
+streams, sponsorship and commercial partnerships can generate income for the service.
+
+40
+
+http://www.bic.org.uk/e4libraries/
+
+The modernisation review of public libraries: A policy statement
+
+Respondents to the consultation identified advertising, coffee shop concessions and
+working with booksellers as potential income generators. Some respondents warned that
+libraries’ neutrality should not be compromised by commercial opportunities and that it
+would be inappropriate for libraries to form partnerships that could be perceived as
+being in any way controversial e.g. with fast food outlets.
+In Northamptonshire the library service is generating money by offering personal
+financial advice to residents through the library for a small fee and in Hillingdon there is
+a partnership with Starbucks providing cafes.York Library Service has matched funding
+with Aviva to improve the financial capability of the people of York. The company’s
+investment has also contributed towards the transformation of York central library into
+an ‘explore centre’ with more books, state of the art learning rooms equipped with the
+latest learning technologies, a quiet room, a café, changing facilities, self service
+machines, a new flexible ICT learning centre and Wi-Fi Internet throughout. Birmingham
+Library hosts an annual event for Global Entrepreneurship Week, to raise the profile of
+the library within the business and entrepreneurial community and as a contribution to
+city council economic priorities, and is exploring the further development of corporate
+sponsorship with advice from Arts and Business. Luton Library Service has a link to
+Amazon on the library website and every purchase made via this link generates income
+for Luton Cultural Services Trust, starting at 5% of the cost price, and rising as more
+items are purchased.
+Libraries have also had considerable success in securing capital funding through
+commercial partnerships. The £2 million library and Workzone in Shepherds Bush was
+built and fitted out at zero cost to the taxpayer through Section 106 agreements with
+developers. Successful Private Finance Initiatives have funded a number of significant
+library developments including the joint Worcester public and university library (in
+development), the Jubilee Library in Brighton, the Downham Health and Leisure Centre
+in Lewisham and Newcastle’s Central Library. Since 2000 the Government has invested
+over £500m of PFI credits in nearly 40 projects to build or refurbish libraries or to
+include a public library in part of a larger construction project.
+Respondents to the consultation acknowledged the opportunities to learn from the
+private sector on issues like marketing, display/layout of buildings, targeting and
+understanding customers (using data on customers to encourage use), performance
+management of staff or procurement and contract management. In Devon, library
+managers are learning from John Lewis’ managers in order to maximise how they display
+library stock to encourage ‘impulse borrowing’, and performance management of staff.
+Proposal 18: All library services should explore innovative new funding streams and
+ways of delivering services through commercial partnerships or initiatives.
+
+13. Philanthropy
+Beyond the opportunities for commercial partnerships and business sponsorship, public
+libraries could do much more to promote philanthropy and to benefit from the
+generosity of private donors across society. The legacy of Andrew Carnegie continues to
+provide public benefit well over a century after the first libraries were set up in his
+name, but where is his 21st Century successor? Philanthropists today continue to give
+generously to a broad range of good causes, and public libraries are equally deserving of
+their support. How do we identify and cultivate major donors, and their financial
+
+33
+
+34
+
+The modernisation review of public libraries: A policy statement
+
+advisors? That requires strong and visionary leadership, and a commitment to long-term
+relationship management. Strong donor development skills are in short supply in the
+public library sector. It is also unlikely to be done best by individual library authorities,
+but rather on a national basis.
+Proposal 19: The strategic body for libraries will explore the opportunities for
+developing philanthropic giving to the public library service.
+
+The modernisation review of public libraries: A policy statement
+
+Chapter 4
+Aim: to ensure that all libraries respond to a 24/7 culture and to changing
+expectations of people who want immediate access to information
+A small but vocal element of consultation responses support a clear vision of libraries as
+singly a book loaning service with a mantra of ‘if you buy the books, they will come’.
+Book stock, of course, is vital, and as the recent DCMS Omnibus survey confirms41,
+books are the main reason why people go to the library. But which books and what
+other library services? As all the best Heads of Service know, libraries cannot passively
+sit back and wait for people to borrow books – however good the stock is. There is
+already a culture of helpfulness in the library workforce – in the last National PLUS
+survey (2006-07) more than 95% of respondents considered staff helpfulness was very
+good (72.5%) or good (23.8%)42. This culture should be nurtured and celebrated. The
+library workforce and policy makers must continue to build on this and actively engage
+with local people, finding out what they want and need from their service, and respond
+to those needs. And in a 24/7 culture, that is not about a stagnant book stock.
+
+14. Providing a customer focused workforce
+Library services need a flexible and user responsive workforce to offer the level of
+customer experience that the public want, but while there is excellent best practice, some
+services remain unable to meet this challenge. At the head of most innovative library
+services is someone who can respond to change with speed and imagination and who
+can ensure local leaders understand and advocate for the library service. Successful heads
+of service clearly articulate the benefits that libraries can deliver and can empower staff
+to manage, promote and innovate within the service in the best way possible.
+Increasingly, new library leaders will not have come up through the service itself.
+Supported by the right mix of staff, competencies in people and project management;
+business development; performance management and advocacy are increasingly vital.
+Future leaders need a proactive and entrepreneurial approach, seeking continual service
+improvement and pursuing and making partnerships with the public, private and third
+sectors where they see the potential for public benefit and the delivery of shared priorities.
+73% of those that commented on the relevance of library courses in their consultation
+response felt they did not have the relevant content or teach the right skills to equip
+the library workforce. The modern library workforce can and should be drawn from a
+wide range of skills and experience such as youth work, community development or
+adult education to fulfil the service’s potential to flexibly respond to the needs and
+expectations of users. IT, marketing, and entrepreneurial skills and information-handling
+skills are considered essential now.
+
+41
+42
+
+http://www.dcms.gov.uk/reference_library/research_and_statistics/6753.asp
+PLUS National Report April 2006 to March 2007
+
+35
+
+36
+
+The modernisation review of public libraries: A policy statement
+
+Government expects that posts requiring library qualifications will be necessary to
+oversee strategic planning and improvement and will support and lead the teams
+managing branch libraries and delivering community engagement. We may need fewer
+qualified librarians, but where such change is part of a well planned strategic review, the
+new professional posts are usually better defined, well paid jobs which clearly add value
+to the service.
+Library services are best when staffed by a mixture of professionals including librarians
+and people qualified for work in other fields. The diagram at Appendix C illustrates the
+mix of workforce skills necessary to deliver a modernised library service. A broad range
+of generic skills and attributes underpins a successful contemporary service and these
+skills may be derived from different careers and training routes. Above all, the sector
+must be receptive to new ways of working to ensure that libraries satisfy customer
+demands and deliver a modernised service.
+Proposal 20: The peer review and accreditation scheme will include criteria for
+recognising customer service and responsiveness.
+
+Proposal 21: Providers of library and information sector courses should develop and
+implement a new framework for public library professional qualifications, founded on
+user driven policy and practices including customer service and people skills, community
+outreach, working with children, marketing and leadership.
+Training and development: To address unhelpful hierarchical structures, a whole
+workforce approach needs to be taken to training provision. Some library services
+already work in partnership with local training and skills providers, including library and
+information schools, to develop the training they need. More services could develop this
+model or partner with existing schemes. DCMS will work with The Department for
+Children Schools and Families (DCSF) to help library staff benefit from professional
+development in working with children and their families and in promoting the
+importance of children’s language development, sharing ideas for supporting children
+and their parents from the Every Child a Talker programme.
+Mentoring and work-shadowing opportunities are effective and make senior positions
+more attainable and transparent. Despite having the biggest workforce in the cultural
+sector, libraries have a low number of applicants for apprenticeships and the Clore
+Leadership Programme43.
+Proposal 22: Library services should improve their ability to use and evaluate evidence
+in order to better illustrate the impact of the service44.
+
+Proposal 23: Library services should advertise posts outside the professional library
+press and use wider cultural and local government networks, such as the LGA’s National
+Graduate Development Programme, to draw in new and diverse talent.
+
+43
+
+The Clore Leadership Programme is an initiative of the Clore Duffield Foundation which aims to
+strengthen leadership across a wide range of cultural activities including libraries.
+44
+MLA’s Generic Social Outcomes and Generic Learning can support this
+(http://www.inspiringlearningforall.gov.uk/toolstemplates/)
+
+The modernisation review of public libraries: A policy statement
+
+Proposal 24: Using improved evidence of impact, library leaders should develop their
+role as a respected partner in cross-authority strategic partnerships that deliver
+improved outcomes for communities.
+
+Proposal 25: Local Authority Chief Executives should include their library leaders in
+leadership and management development for senior local authority staff.
+Volunteers: Volunteers play an important role in supporting key activities by providing
+services such as home visits and supporting staff in the library team.
+The Workforce Reference Group to this review discussed the benefits of volunteers who
+often have skills which complement (but don’t replace) staff expertise. In Leicester
+library service, Paul Hamlyn Foundation ‘Welcome to Your Library’ and Home Office
+‘Challenge Fund’ money was used to encourage asylum seekers and refugees to engage
+with the service as volunteers in 2005. 15 out of 22 of the participants went on to find
+jobs, one of them in the library and, at their suggestion, new informal learning
+programmes have been developed that continue to attract Black and Minority Ethnic
+(BME) audiences45.
+Without radical change in the workforce, library services will not be able to modernise
+nor achieve the potential role set out here. Real change needs partnership working,
+leadership within local government and the library sector and a readiness from all library
+staff to embrace a new role.
+Proposal 26: All libraries should consider how best to attract, nurture and utilise
+volunteers, to complement their workforce.
+
+45
+
+www.welcometoyourlibrary.org.uk/editorial.asp?page_id=88#anchor1191
+
+37
+
+38
+
+The modernisation review of public libraries: A policy statement
+
+Chapter 5
+Aim: that all libraries grasp the opportunities presented by digitisation
+Libraries’ traditional role has been providing books, learning and information and it is
+critical that we transpose that role into the digital world where a vast quantity of
+information is online and citizens, more than ever, need support in navigating through it.
+The consultation showed strong support for libraries to embrace a digital agenda with
+many respondents arguing digital is crucial for libraries to remain relevant.
+Changes in the market – such as the mass digitisation of content by Google and others,
+Web 2.0 technology and the advent of e-books – are changing how people want to
+receive and engage with information. In 2006/07 there were 180 million visits to local
+authority websites in England and 48 million of them were to public library sites. Visits
+to public library websites in 2007/08 grew to 57 million46. As many library authorities
+pointed out in their consultation responses, consumption of digital information has
+been transforming the library’s role as an information provider over the last ten years.
+Digital media offer new opportunities to libraries. They can help the service to:
+• Be more accessible more of the time.
+• Bridge the digital divide for those people without online access or skills.
+• Offer a broader range of content and resources and new ways of accessing,
+manipulating and comparing information.
+• Attract new users to library services: a recent survey suggests that online usage has a
+positive effect on in person visits in libraries47.
+• Be more efficient and cost effective, both directly for the public and the back of house
+operation.
+Public libraries are embracing digital opportunities at very different rates. For instance all
+public libraries have an online presence but only about 14 currently offer e-book loans.
+The Government believes that all libraries must embrace their digital mission as integral
+to their role.
+
+15. Libraries at the heart of Digital Inclusion
+At a time when around 80% of the population is online, citizens now see access to the
+internet as a right rather than a ‘nice to have’. Libraries have a central role to play in
+providing access to the internet and helping people get online, supporting the delivery of
+the national digital priorities set out by the Government and the Champion for Digital
+Inclusion, Martha Lane Fox. There are 12.5 million adults in the UK who do not use the
+internet today and this group will rely heavily on libraries to reach online information,
+including public services which will increasingly be delivered online. The National Plan for
+
+46
+47
+
+CIPFA annual statistics for 2006/07 and 2007/08
+http://interconnectionsreport.org/
+
+The modernisation review of public libraries: A policy statement
+
+Digital Participation48 sets out the Government’s vision, shared with business and the
+third sector through the Consortium for the promotion of Digital Participation, of helping
+everyone who wants to be online to get online, do more online and benefit from the
+advantages of being online.
+Delivery of online services has already brought significant benefits to both Government
+and users. As local authorities move more of their services online there are opportunities
+for significant budget savings:
+• Services such as NHS Choices have provided a step change in e-Health delivery in the
+UK. NHS Choices had 5.2 million visitors a month as at January 2009.
+• The Electronic Vehicle Licensing (EVL) scheme, which enables customers to tax their
+car online, saves the DVLA around £8m per annum, and attracted 18m users last year.
+For every additional re-licensing transaction that is processed through the EVL channel
+a further 93p will be saved.
+• The Government Whole Farm Approach enables farmers to provide a common set of
+information once to all of the interested agencies, reducing form filling by 15% and
+saving the industry £16.5m per annum49.
+• The new DCSF-funded Family Information Directory (FIDy) is an online service to all
+families that signposts to local and national services. Local Authority Family Information
+Services (FIS) are already required to provide information to the local community. By
+using the FIDy – and partnering with their local FIS – libraries could generate savings by
+not needing to maintain their own local directories of services for families
+As a consequence of this online provision, local authorities must ensure that everyone
+can access those digital public services. In December, Putting the Frontline First: Smarter
+Government White Paper50 recognised that online government had to mean 100% online
+citizens and announced it will invest £30 million with UKOnline Centres to support the
+development of the National Plan for Digital Participation to get more than one million
+people online in the next three years. Libraries are a vital component in guaranteeing that
+universal access, and libraries and UKOnline Centres must collaborate to position
+themselves in a central role to co-ordinate and signpost these e-government services – a
+function which mirrors the pivotal role libraries already hold in helping people find
+support and information. Two thousand libraries are already UKOnline Membership
+Centres and working collaboratively with UK Online and will be able to bid for funding
+for projects from this scheme over the next three years.51 To help meet the target to get
+one million people online, libraries should use the myguide online registration package52
+(only 53% do at present). Online basics is part of the myguide package and can help
+people taking their first steps with computers and the internet to get online53.
+A recent MLA survey about online access in libraries highlights the substantial role libraries
+already play in providing internet access for their communities. 79% of library services in
+English local authorities provide free internet access and a further 12% charge nothing for
+the first hour (91% in total). 98% of local authorities provide access in the evening and at
+48
+
+The National Plan for Digital Participation, BIS, March 2010 (http://www.bis.gov.uk/uploads/plan-digital­
+participation.pdf)
+49
+Digital Britain Final Report, June 2009 (http://www.culture.gov.uk/what_we_do/broadcasting/6216.aspx)
+50
+Putting the Frontline First: Smarter Government, HMG: December 2009
+(http://www.hmg.gov.uk/media/52788/smarter-government-final.pdf)
+51
+http://www.ukonlinecentres.co.uk/corporate/regions-and-network/funding
+52
+myguide http://wwwmmyguide.gov.uk is a free resource to support people to get started online. Further
+information http://www.myguide.gov.uk/myguide/MyguideHome.do
+53
+Online basics was developed by BIS and UK Online, in response to the Estelle Morris Independent Review
+of ICT User Skills (http://www.dius.gov.uk/~/media/publications/I/ict_user_skills).
+
+39
+
+40
+
+The modernisation review of public libraries: A policy statement
+
+weekends. 72% of library services have provided digital training to their frontline staff to
+support them in providing help to library users to get them online. 86% of library services
+report that they provide support to the unemployed to get online and 76% support online
+job-searches54. The recent DCMS Omnibus survey on libraries suggests that 50% of people
+who use the internet in a public space did so in a public library55.
+To support online access in libraries, in December 2009, the MLA brokered an agreement
+with Joint Information Systems Committee (JISC) and Joint Academic NetworkUK
+(JANET(UK)), who respectively fund and operate the JANET education and research
+network, to give public libraries access to a wider range of high quality online learning
+resources and the option of a faster internet service. JANET connection speeds are 1
+gigabit per second (1Gbit/s) – up to ten times more than existing typical bandwidths at
+central libraries in England, which in turn can be ten times greater than home connections.
+The People’s Network: £100 million National Lottery fund was invested in the People’s
+Network programme which launched in 2000. Delivered by the MLA, the People’s
+Network supported the development of ICT learning in public libraries through the
+provision of 30,000 internet enabled computers. It linked every public library in the UK
+to the internet by the end of 2002. The expansion in hardware capacity, coupled with
+increased opening hours in many libraries, meant that over 68.5 million hours of
+potential internet use were being provided by libraries across the UK every year.
+Monitoring data collected from all public libraries in England showed 11.7 million user
+sessions on the People’s Network in 200356. From 1999 a related £20 million ICT
+training programme equipped public library staff with skills, knowledge and confidence
+to use ICT effectively in their day-to-day work supporting users of the People’s Network.
+A survey by MORI for the National Audit Office in March 2004 found that 16% of the
+public aged 16 and over have used the internet at a public library. Despite this
+significant progress in equipping libraries with digital capability there are weaknesses in
+the public library digital infrastructure offer. Respondents to the consultation confirmed
+that the People’s Network is now often run down although many local authorities have
+invested in new computers and training. Broadband speeds are variable and local
+authority IT networks often hamper the digital offer.
+Silver Surfers’ Day
+Silver Surfers’ Day, co-ordinated by Digital Unite, provides an opportunity to positively
+encourage older people to take the first step to get online by participating in IT taster
+events in May each year. Older people are a significant proportion of the current 12.5
+million digitally excluded and make up 39% of the six million socially and digitally
+excluded adults. Public libraries have an important role in reducing this digital divide.
+44% of libraries offer regular one to one support or group sessions specifically aimed at
+supporting older people to get online. Last year 400 of the 1,000 Silver Surfers Day
+events took place in public libraries and the MLA is working with Digital Unite to
+encourage even greater library support for Silver Surfers Day 201057.
+Get Online Day
+Get Online Day, run by UKOnline Centres, is an annual campaign to communicate the
+benefit of getting online and offering support through UKOnline Centres to develop
+digital skills.
+
+54
+
+‘Role of Public Libraries in Supporting and Promoting Digital Participation’, MLA January 2010
+(http://research.mla.gov.uk/evidence/view-publication.php?dm=nrm&pubid=992)
+55
+http://www.dcms.gov.uk/reference_library/research_and_statistics/6753.asp
+56
+http://research.mla.gov.uk/evidence/documents/Peoples_network_evaluation_summary.PDF
+57
+http://silversurfers.digitalunite.com
+
+The modernisation review of public libraries: A policy statement
+
+700 events took place in October 2009 which included 29% of library services. The MLA
+research on the role of public libraries in supporting digital participation, January 2010,
+found that an additional 67% of library services would be interested in supporting Get
+Online Day in future, demonstrating the pivotal role of public libraries in supporting
+digital inclusion58.
+
+Proposal 27: The Government expects that from April 2011 all library services will
+provide free internet access to users as part of their Library Offer to the public.
+Government will, under section 8(2)(b) of the Public Libraries and Museums Act 1964,
+make an (affirmative) Order preventing libraries from charging for internet access. DCMS
+will ensure that there will be no net additional costs to local authorities in line with the
+Government’s new burdens procedures.
+
+Proposal 28: Government recommends that all library services provide support and
+advice for users wanting to get online as part of their Library Offer to the public.
+
+Proposal 29: Libraries should engage with UK Online for practical support and are
+encouraged to bid for funding for projects to help get one million additional people
+online over the next 3 years59.
+
+Proposal 30: Government recommends that libraries use the myguide tool to support
+the Government’s digital inclusion target for getting one million additional people
+online over the next 3 years60.
+
+Proposal 31: Local leaders should consider how they can use internet access in libraries
+and UKOnline Centres as a means of allowing access to online public services.
+
+Proposal 32: Local Authorities should actively consider investing in JANET, the
+education online network, to provide high speed broadband access in public libraries.
+
+16. E-books and e-lending
+There are new and exciting opportunities around digital lending. With the launch of a
+number of different e-reading devices, digital reading is growing in the public
+consciousness where downloadable audio books are already fully established. Libraries
+must have the freedom to experiment with these new services and test out the market
+for new and established library users. Currently 14 library services offer e-book services
+in England with more planning to launch shortly. All lend for free.
+Although media commentators are fond of setting up an opposition between printed
+and digital books, there is no suggestion that e-books will drive out our nation’s passion
+for printed books or that libraries will be delivered only in the online space. E-books will
+enable library services to remain relevant in a market where people are using mobile
+devices to access information and entertainment and will provide a new opportunity to
+58
+
+‘Role of Public Libraries in Supporting and Promoting Digital Participation’, MLA January 2010
+(http://research.mla.gov.uk/evidence/view-publication.php?dm=nrm&pubid=992)
+59
+http://www.ukonlinecentres.co.uk/corporate/regions-and-network/funding
+60
+For further information go to www.myguide.gov.uk/myguide/MyguideHome.do
+
+41
+
+42
+
+The modernisation review of public libraries: A policy statement
+
+reach people who may not visit their local library building regularly, but who would like
+to borrow e-books from home. A large number of respondents to the consultation
+suggested that it is important to extend to e-book loans the principle of ‘free at the
+point of demand’. The Government believes that e-book lending is likely to form a key
+24/7 public service in the future with public library services being accessed from home
+and on the move as well as in library buildings, and will therefore initiate changes to
+secondary legislation to guarantee e-book loans are free.
+Currently, most of the e-content bought by libraries is in copyright and libraries buy it
+from the publisher or third party suppliers with the explicit purpose of lending it to the
+public. When libraries purchase e-book content they buy a time-limited licence for use.
+Most e-book contracts are between 1-3 years and if the contract is not renewed the
+content disappears from the virtual library shelf. Contracts for use of content are
+negotiated on an individual basis with either publishers directly or third-party suppliers
+who negotiate terms of use with publishers and bundle deals for library services.
+
+Current e-book arrangements in libraries
+There are currently two methods of e-book access – Download and Online. Both are in
+file formats compatible with most PCs and Macs and most e-book readers. They are
+not compatible with e-book readers that operate proprietary formats, such as the
+Amazon Kindle.
+Downloads (e.g. Overdrive): Downloading schemes are currently the most common
+form of e-book supply from libraries. The user enters their library card number and a
+unique PIN code for access. Users are able to read the book on e-book readers which are
+not networked (e.g. Sony e-reader) by downloading onto them. The scheme employs
+DRM (digital rights management), so the file destroys itself after 3 weeks. Files employ a
+single user access model but if multiple licenses (i.e. copies) are bought they can be
+borrowed concurrently, each on a single user basis.
+Online access (e.g. Bloomsbury): Online arrangements for e-book lending are less
+common at present. E-books are not ‘lent’ in the traditional way and not downloaded –
+these e-books are accessed online as if they were a reference work via the same
+password system as for e-book downloads. The library service pays a subscription based
+on population, which allows multiple user access to the copy when they are online. It is
+limited by the quality of the network connection the user has which will determine
+whether they have an uninterrupted link when reading. Currently e-book readers are not
+networked, so cannot be used to access these e-books but it may become popular as
+more networked devices (eg the iPad) become more prevalent.
+
+New legislation around digital lending
+To extend the options available to readers by ensuring that libraries can loan non-print
+books easily, Government has included a clause in the Digital Economy Bill which will
+remove the need for time consuming and complicated negotiations between library
+authorities and rights-holders for permission to provide digital lending services in library
+premises. Libraries will be protected from infringement of copyright when rights are
+instead protected under the Public Lending Right Act 1979.
+To ensure that libraries are not able to provide the public with unlimited access to an
+author’s work (which would undermine commercial business models) the clause only
+extends Public Lending Right (PLR) to audiobook and e-book files downloaded within
+
+The modernisation review of public libraries: A policy statement
+
+library premises and defines digital lending as files made available for a limited period
+only. It will restrict lending to one loan per copy of the electronic work held by the
+library unless the library has purchased permission to lend the work to more than one
+person at any one time. These are the same terms on which print format books are
+currently lent by public libraries.
+By introducing this change, we hope to achieve a more flexible and less bureaucratic
+mechanism for libraries to lend audiobooks and e-books without needing to rely on
+third party suppliers. The detail of the new arrangements will be finalised in secondary
+legislation but will not interfere with the arrangements already in operation or
+opportunities for libraries to develop other arrangements for digital delivery with
+publishers and booksellers.
+Proposal 33: Government recommends that libraries assess the opportunity and
+demand for e-book lending in their community, and develop strategies.
+
+Proposal 34: Government expects e-books to be loaned for free. Government will under
+section 8(2)(b) of the Public Libraries and Museums Act 1964, make an (affirmative)
+Order preventing libraries from charging for e-books lending of any sort including
+remotely.
+
+Proposal 35: DCMS will work with stakeholders to develop the secondary legislation for
+the extension of the Public Lending Right to non print books to enable simple, cost
+effective and easy to use arrangements for all public libraries.
+
+17. Digital Content and engagement
+Digital content and networks bring with them new ways to communicate and engage
+with customers. Many libraries take advantage of the Reference Online service brokered
+by the MLA61 and all library services already have a web presence. Consistent with the
+Public Data principles in Putting the Frontline First: Smarter Government62, all libraries
+should publish information about their services in a free, open and re-useable form
+including their location, opening hours and catalogues.
+Despite great potential and customers’ high expectations, local authorities and library
+services are rarely early adopters of new technologies. 92% of respondents to the
+consultation believe that libraries should be using Web 2.0 while acknowledging that
+local authority network security policies often restrict their ability to do so. Consultation
+responses suggest this may be because authorities are cautious about investing in
+resources to develop relatively new and untested services. The majority of respondents
+favoured a national catalogue, though some concerns were raised about the resources
+required to deliver this project.
+There is a need for greater shared awareness about emerging technologies, testing and
+learning lessons about implementation and ensuring value for money. Success will
+depend on the ability of library services to talk constructively with local IT and legal
+departments, to make the case for change.
+
+61
+62
+
+http://www.mla.gov.uk/what/support/online
+Putting the Frontline First: Smarter Government HMG, December 2000.
+(http://www.hmg.gov.uk/media/52788/smarter-government-finalpdf
+
+43
+
+44
+
+The modernisation review of public libraries: A policy statement
+
+And there are huge opportunities for libraries to consider – many libraries already use
+email and text alerts, library applications and innovative web content like links to
+reading materials are achievable and inexpensive opportunities. For instance, in Leicester
+the desktop of all the libraries’ public computers are used to showcase library or local
+partner initiatives, which significantly increases attendance. Partners have now started
+to pay the library for a place on the public desktop. The service sends 14,000 emails a
+month to library members about events and book reviews and also partner promotions.
+They also send texts for requests and overdue reminders instead of posting letters
+whenever possible. The service uses Youtube to advertise events and has used Web 2.0
+technology to develop an events calendar for libraries using free Google tools.
+At a time when public services are encouraging citizens to engage with online content
+and services it is important that libraries provide a compelling offer to their users,
+especially in attracting young people to use libraries.
+
+Digital Library Licensing Service
+MLA is working with JISC Collections and public library staff to provide public libraries with
+high quality digital content to support lifelong learning. The new content will build on the
+resources already available through MLA’s Reference Online service63. The digital resources
+will be available to members of the public using public access PCs within public libraries,
+offsite via secure authentication log ins and to library staff to support their work with
+library users. JISC Collections are currently working with publishers to negotiate reduced
+subscription rates to digital content identified by librarians as important and relevant to
+their users. This will range from e-books, genealogy and family history resources, multi ­
+media reference works and online databases. Subscription rates will be based on a price
+banding model which provides both value for money and has no restrictions on numbers
+of users for each resource. All resources will be procured under local and European
+procurement regulations and agreed standards including access management.
+
+Proposal 36: Government recommends that library services use digital technologies to
+enhance and complement their existing offer and move towards providing a 24/7
+partnership with other services, such as publishers, commercial providers and academic
+libraries and institutions, the NHS and other e-government services. In the very near
+future, library services should aim to have an integrated digital and physical public offer.
+
+Proposal 37: When money becomes available, the strategic body for libraries will
+develop a national online library catalogue for library users, building on the established
+Unity UK staff-facing catalogue.
+
+Proposal 38: Government recommends that all libraries allow access for users to social
+networking sites which are valuable communication tools and part of our cultural
+infrastructure. 86% provide access at present.
+
+Proposal 39: The strategic body for libraries will bring together a national consortium of
+stakeholders including technologists, publishers, librarians, local authorities and
+academics to develop a digital innovation strategy for public libraries.
+
+63
+
+http://www.mla.gov.uk/what/support/online
+
+The modernisation review of public libraries: A policy statement
+
+Chapter 6
+Aim: to demonstrate to citizens, commentators and politicians that libraries are
+still relevant and vital
+One of the great strengths of the public library service is its influence and impact on a
+multitude of social and governmental priorities – on literacy, health and well-being, pre­
+school children’s development, informal adult learning and digital inclusion. Because of
+this pervasive impact across such a broad range of services, in order to demonstrate and
+amplify the impact and value of the service there is an ongoing and collective challenge
+to make the vital links to national and local priorities which will ensure public libraries
+are integral to planning and delivery.
+
+18. Making connections to other local services and policy priorities
+Modern library services do not operate independently. They collaborate locally with a
+broad range of public, private and third sector partners because they work best when
+integrated with these services. The Funding Innovation Reference Group for this review
+recognised and debated the opportunities for a library to be a ‘shop window’ for the
+council in every community and the best local leaders are already well aware of the
+opportunities offered by the library service for delivering on local priorities. The leading
+heads of service are skilful in shaping initiatives for targeting particular audiences or
+policies, and, as discussed in chapter 3, accessing funding streams to meet local
+challenges. A number of respondents to the consultation explained how public libraries
+are effective in engaging with hard to reach groups.
+An example of this is the Reading Agency’s Six Book Challenge which encourages less
+confident adults to read for pleasure by providing incentives and recognising their
+achievement with certificates if they read six books. In 2009 the scheme was delivered
+by 121 library authorities in England in partnership with FE colleges, prisons and trade
+unions and more than 9000 people took part. The scheme was found to increase learner
+confidence in reading, raise literacy rates and increase use of the library service.64
+Around a quarter of respondents to the consultation felt that a lot of local authorities
+were already communicating library initiatives effectively and contributing to other local
+initiatives. Respondents mentioned a multitude of policy priorities where libraries play a
+part – lifelong learning and literacy, online access, health services, links to services for
+children, families, schools and the curriculum, services for the unemployed and benefits
+services, work on community safety and with local police, links to Local travel and
+transport services, green initiatives and rural outreach work. The table at Appendix B
+illustrates a broad list of examples of partnerships between public libraries, other local
+authority services and external partners.
+
+64
+
+http://www.sixbookchallenge.org.uk/support/case-studies/ninety-nine-esol-students-from/
+
+45
+
+46
+
+The modernisation review of public libraries: A policy statement
+
+Home Library Service
+In Essex, the home library service visits people who are unable to reach the library
+because of disability, age or long-term illness. Volunteers deliver books, CDs, DVDs and
+information to customers in their homes, and chat to them about reading. When asked
+what they got out of the home library service, people talked about the benefits of social
+contact, stimulation and meeting new people. One person said “Without it, life wouldn’t
+be so interesting. I’d miss out on a good friend. I look forward to her visits” and another
+“I’d miss it greatly, his chats – it’s a lifeline.”
+In Birmingham the home library service visits 2,000 people in their homes each
+month, as well as calling at 230 residential care homes and sheltered accommodation
+units. As well as lending books, music and DVDs, the library promotes the Stay Well 65
+scheme. A partnership between Health Exchange CEC Limited, a social enterprise, and
+Birmingham City Council which assesses older people’s needs and puts them in touch
+with the benefits and services they’re entitled to. Library staff raise awareness of this
+scheme among the people they visit and take laptops out with them to help older
+people fill in the online forms.
+The majority of those responding on this point in the consultation thought more could
+be done to communicate the potential of libraries and drive effective partnerships. In
+order to improve, some library services still need to embrace this agenda, challenge their
+traditional delivery models and work with one another and other public, private and
+third sector partners.
+In 2003 Framework for the Future identified the importance of libraries making
+connections to national programmes and interpreting them locally, and that theme still
+prevails in 2010. The consultation responses also suggested that national government
+could do more to draw out the connections to national policies and the value of public
+libraries to multiple agendas.
+There are a number of national policies already highlighting the library role:
+• A partnership between libraries and NHS Choices (the comprehensive online
+information service about the NHS): Libraries’ collections of printed material on a
+wide variety of health and lifestyle topics and the availability of free or low cost
+internet access make them an ideal place for people to research their condition,
+dispense their information prescriptions or to book their health appointments online.
+Government recognises the valuable impact libraries can have on health and will be
+delivering a campaign promoting public libraries via doctors surgeries and other health
+outlets. The Department of Health has developed free online training for library staff
+around helping people to use the NHS Choices website to get advice about lifestyle
+issues like smoking, drinking and exercise or to find and use health services in England.
+• Libraries’ role in informal adult learning: Public libraries were recognised as playing
+a key role in supporting individuals, families and communities to learn throughout life
+in the Learning Revolution White Paper published in March 200965. The White Paper
+identified the wider benefits of informal adult learning in building cohesive and
+confident communities, promoting health and well-being and supporting an
+increasingly ageing population to stay active, independent and fulfilled. Public libraries
+are engaging local spaces that offer access to a wide range of free resources that
+
+65
+
+http://www.dius.gov.uk/skills/engaging_learners/informal_adult_learning/~/media/publications/
+L/learning_revolution
+
+The modernisation review of public libraries: A policy statement
+
+encourage people to continue learning throughout their lives. They play a significant
+role in supporting people who would not otherwise be able to participate in online
+learning opportunities by offering a, largely free, community internet service. They are
+ideally placed to support a thriving culture of lifelong learning to become established
+in communities. Local authorities, in their new role as lead accountable bodies for
+informal adult learning, will have the opportunity to commission a broader range of
+learning opportunities for their local communities linked to local priorities. Public
+libraries, in partnership with other public and third sector bodies, can play a clear role
+in opening up access to a wide range of learning opportunities and should be
+integrated into the adult learning plans that lead accountable bodies will be tasked
+with developing.
+Proposal 40: Government recommends that all library authorities consider connections
+to local policy priorities, innovate around their service provisions to align the libraries’
+work with local needs and local priorities. Eg. Raising education standards and narrowing
+gaps in attainment between different groups in the local population.
+
+Proposal 41: Local authority leaders should actively consider how their library service
+could contribute effectively to other local services. E.g. services for children, schools
+and families.
+
+Proposal 42: Connections to other services and policy priorities should be a criteria
+included in the accreditation and peer review schemes.
+
+Proposal 43: Local authority chief executives should champion the partnership agenda
+for libraries, encouraging relationships with the private and third sectors as well as those
+between libraries and other public services or institutions – for instance early years and
+children’s centres, schools and their libraries; and libraries in further and higher
+education – to deliver improved services and greater efficiencies, particularly through
+co-location and joint back office functions.
+
+Proposal 44: Local authorities should ensure they consider cross boundary working for
+libraries to improve service delivery and efficiency.
+
+Proposal 45: DCMS will advocate across Whitehall about the contribution libraries can
+make to a broad range of government priorities. This will help improve access to funding
+streams and encourage government to use library services to deliver a broad range of
+outcomes.
+
+19. Improving Data and research
+If we are to understand the value of libraries we must research and analyse their take up
+and their impact. To examine how libraries can contribute to meeting local priorities as
+set out in the new model of impact (Appendix A), library services need a radical change
+in data and research collection. Data exists at national level but may not be being used
+by local decision makers and practitioners effectively; national and local research
+initiatives have been undertaken without sufficient coordination and small scale local
+evaluations and research have limited application nationally.
+
+47
+
+48
+
+The modernisation review of public libraries: A policy statement
+
+Data: Many of the consultation responses raised concerns about the type of data we are
+collectively using, and a number of library authorities expressed frustration that local
+statistics are extremely positive whilst the national picture does not reflect those
+changes. While measuring book issues and visits were still felt to be relevant, there was a
+general desire among respondents for more outcome/impact focused monitoring.
+Customer satisfaction was also felt to be an important measure and a number of
+respondents asked for better measurement of digital participation.
+CIPFA Statistics: CIPFAstats are the independent source of data about local government
+services. Established as a partnership between local authorities and CIPFA, the annual
+public library statistics have been collected for many decades and present a consistent
+picture of library use as evidenced by loans, acquisitions, visits etc. They are used by
+library authorities as a management information tool in benchmarking and self
+assessment. The data is collected from local authorities annually at the end of the
+financial year. Validity checks can delay publication of the data but from next year CIPFA
+aim to publish data nationally in December.
+As set out on page 22, to see if we could improve our knowledge and understanding,
+DCMS included some questions about library use and non-use in an Omnibus survey.
+When funding becomes available CIPFA will look to evaluate ‘alternative’ use of the
+library service that would look to better track a visitor’s journey through a library. From
+this, questions would be developed to more effectively collect valuable information
+relating to digital technology, use of the internet / e-books and services provided by
+libraries outside their traditional scope such as crèches, reading groups etc.
+DCMS Taking Part Survey: The DCMS Taking Part Survey measures the percentage of
+the population using public libraries. It comprises face to face interviews and provides
+both national and regional figures for library participation, including a picture of usage
+outside the library premises such as website use, home visits, outreach work and mobile
+library attendance. The DCMS Taking Part Survey measures library use for leisure
+purposes – the DCMS Public Service Agreement (PSA) target – and therefore excludes
+visits for the purpose of academic study or paid work. The survey shows an increase in
+the proportion of children using libraries but a year on year decline in adult use. This is
+illustrated by Graphs 3 and 4 on pages 21 and 22.
+This concurs with CIPFA data for the same period showing that the number of visits and
+the number of adult book issues have declined in England. Between 2001/02 and
+2005/06, however, CIPFA statistics showed a short-term rise in visits to library premises,
+but accompanied by a consistent drop in the number of book issues. All of this
+illustrates the need for different data on library usage in order to unravel the nuances in
+these trends so that we can understand more clearly who visits public libraries, how
+often, and what they do there.
+Government will review the data collected to ensure it is fit for purpose with the
+following changes:
+Proposal 46: From 2011 the DCMS Taking Part survey will also cover visits to libraries
+for the purpose of paid work or academic study as a discrete element. This will provide
+consistency for the survey and allow the figures to be amalgamated or used separately
+and can still respond to the DCMS PSA target.
+
+The modernisation review of public libraries: A policy statement
+
+Proposal 47: From 2011 DCMS will include the questions from its Omnibus survey –
+including those on use of library computers – in the DCMS Taking Part survey to develop
+an ongoing picture about what people use libraries for and what library services might
+be attractive to non users.
+
+Proposal 48: The Department for Communities and Local Government (CLG) Place
+Survey provides information on people’s perceptions of their local area and the local
+services they receive. DCMS will analyse the results of this survey alongside DCMS and
+CIPFA surveys in order to correlate library membership/use with resident satisfaction
+with the local area. The more we know about library users and non-users the more
+confident we can be about steps we might take to improve library services and increase
+participation.
+
+National Indicator for Libraries
+National Indicator 9 measures adult public library use. Only ten local authorities
+currently take up this Indicator and a number of respondents to the review suggested
+that it should be expanded to also include children’s use of libraries as well.
+The Government has sympathy with this argument and recognises the key role that
+libraries play in children’s development. However, the national indicators themselves will
+not change during the current Local Area Agreement (LAA) period and future national
+indicators may have a different measurement method than the current Active People
+survey. At the next review of national indicators, Government will consider whether
+extending the library indicator to children’s attendance is beneficial and represents value
+for money.
+Proposal 49: Government recommends that library authorities should analyse how
+their work feeds into the full range of their local authority’s National Indicators and
+ensure that their contribution is recognised and aligned with the wider work of the
+local authority.
+
+Proposal 50: DCMS will work with the Department for Communities and Local
+Government (CLG) to develop new measures for any future iteration of the National
+Indicator Set, which fully demonstrates and robustly captures the contribution that a
+modernised library service can make to delivering local outcomes.
+
+Evidence and Research
+The library workforce knows that libraries change lives, help learning and improve
+community cohesion. The Capturing Impact Reference Group for this review and the
+majority of those responding to this issue in the consultation identified the importance
+of measuring impact on library users. If we are to convince local and national leaders,
+and partner organisations of the value of public libraries we must produce evidence
+which connects library use to local and national priorities. A number of respondents felt
+that there is already a good body of research of impact but the Government considers
+that the majority of research projects are not sufficiently evidenced to make a forceful
+case to local or national decision makers.
+
+49
+
+50
+
+The modernisation review of public libraries: A policy statement
+
+However, there are a number of exceptions where evidence of impact is robust. In
+November 2008 DCMS and its Capturing Impact Reference Group commissioned BOP
+Consulting to undertake a study of the existing evidence base on the impact of public
+libraries. The resulting report, Capturing the Impact of Libraries was published by DCMS in
+March 200966. This research confirmed that public libraries contribute to a number of
+policy priorities. For example, nearly all libraries participate in The Reading Agency’s
+Summer Reading Challenge (SRC) which motivates children aged 4 to 12 to read six
+library books during the school summer holiday. 725,000 children took part in SRC in
+2009 and evidence suggests that most make gains in motivation, in achievement as
+readers and in the scope of their reading experience67. Similarly 78% of Bookstart co­
+ordinators who distribute Bookstart packs in nearly every local authority in the country
+are funded by library services68. Bookstart has been found to impact positively on
+parental reading habits and children’s progress in early years69.
+The BOP consultancy report points to strong correlations between literacy levels and a
+variety of physical and mental health and well being outcomes70. For instance, The
+Reader Organisation’s Get Into Reading initiative, (in which Wirral Library Service is a
+partner) has been found to have significant potential to increase feelings of well-being
+in participants71. Links between libraries and a number of other public policy agendas are
+also identified in the BOP report. Libraries’ ability to engage with excluded groups, such
+as refugees and asylum seekers or children in care72, can contribute to building stronger
+and safer communities, for example.
+Libraries’ work with preschool children – through Bookstart Rhymetime, Baby Bounce
+and storytime sessions particularly – makes a valuable contribution to language and
+literacy development. Research has shown that these are accurate predictors of
+educational attainment later in the life of the child73.
+Despite these valuable examples, the impact of libraries is not often evaluated
+effectively. This is predominantly because the projects being appraised are often pilots
+with small sample groups, because baselines against which to monitor improvement are
+not available, or because the studies are limited in their reach.
+Government recognises the need for more co-ordination of the research agenda:
+Proposal 51: DCMS will use Understanding Society – the largest Panel Study in the
+world which explores the socio-economic circumstances and attitudes of 100,000
+individuals in 40,000 British households – to provide longitudinal evidence. We will build
+on the Panel Study evidence by running a small longitudinal study with respondents to
+the DCMS Taking Part Survey in order to gain an ongoing understanding of the long
+term impact of library participation.
+
+66
+
+Capturing the Impact of Libraries, January 2009
+(http://www.culture.gov.uk/reference_library/publications/5914.aspx)
+67
+http://www.readingagency.org.uk/children/Final_SRC_Impact_research_report_Dec_09%20v2.doc
+68
+Bookstart Online Audit 2008/09
+69
+Wade, B & Moore, M. (2000). A Sure Start with Books. Early Years 20, Spring, pp.39-46
+70
+p34 Capturing the Impact of Libraries,
+(http://www.culture.gov.uk/reference_library/publications/5914.aspx)
+71
+Reading between the lines: the experiences of taking part in a community reading project. S Hodge, J
+Robinson and P Davis (http://tinyurl.com/ydbax8o)
+72
+For example Paul Hamlyn Foundation funded programmes Welcome to Your Library Project –
+(http://www.welcometoyourlibrary.org.uk/content_files/files/WTYLEvaluationReportrevisedversion.PDF)
+and Right to Read (http://www.phf.org.uk/page.asp?id=154)
+73
+Bookstart National Impact Evaluation 2009
+(http://booktrustadmin.kentlyons.com/downloads/NationalImpactEvaluation09.pdf)
+
+The modernisation review of public libraries: A policy statement
+
+Proposal 52: DCMS and the strategic Library body will bring together partners who
+have a research interest (universities, third sector bodies etc) as a consortium to develop
+a cross sectoral approach to measuring impact.
+
+Proposal 53: As part of wider evidence work across the cultural sector and using the
+evidence available, DCMS-led CASE programme is exploring ways to detect and measure
+links between library engagement and perceptions of wellbeing. This work will be
+published in the coming spring. For more information about the programme go to
+www.culture.gov.uk/case.
+
+Proposal 54: The Reading Agency and Loughborough University Library & Information
+Statistics Unit (LISU) will this year conduct a major new project looking at the contribution
+public libraries are making to the health and wellbeing of the communities they serve.
+DCMS will ensure that any outcomes of the CASE work feed into this project 74.
+
+74
+
+www.culture.gov.uk/case
+
+51
+
+52
+
+The modernisation review of public libraries: A policy statement
+
+Appendix A: Model
+Model of Impact
+Impact
+Appendix A
+
+PUBLIC LIBRARY ACTIVITIES
+& RESOURCES
+
+Free book loans
+Journals and newspapers
+Reference collections
+Access to ICT & Internet
+Information, advice & guidance
+Dedicated expert staff
+Council information and
+guidance
+• Reading groups
+• Study support
+• Formal & informal learning,
+including basic skills
+• Job-hunting support
+• Outreach
+• Public space
+• Activities & events
+• Third sector information
+• Community information
+• Health & well-being
+information, signposting and
+support
+• Personalised service
+• Access to partner and shared
+services
+• MP and council surgeries
+• Volunteering
+
+IMMEDIATE PERSONAL
+BENEFITS
+
+INTERMEDIATE OUTCOMES
+
+SOCIAL CAPITAL
+• Involvement in democratic process,
+service design, participation &
+volunteering
+• Supporting the development of social
+networks and relationships
+• Capacity building the third sector
+• Awareness of rights, beneﬁts & external
+services
+
+•
+•
+•
+•
+•
+•
+•
+
+EMPOWERED
+INFORMED
+ENRICHED
+SAVING
+MONEY
+ENJOYMENT
+
+NON-COGNITIVE SKILLS
+DEVELOPMENT
+• Personal, social and
+emotional skills
+WELL-BEING & HEALTH
+• Increased health information
+• Enable better choices about health
+• Self management abilities
+• Reduced boredom & social isolation
+• Improved mental and physical well
+being
+• Access to online transactions such as
+appointments booking
+
+COGNITIVE SKILLS DEVELOPMENT
+• Speech, language & communication
+• Literacy & language development
+• Other adult basic skills (e.g. ICT,
+numeracy, health literacy)
+• Business support & career management
+skills
+
+53
+
+The modernisation review of public libraries: A policy statement
+
+NATIONAL INDICATORS
+(SUMMARISED SELECTION)
+
+LONG TERM OUTCOMES
+
+• Stronger communities
+• Increasing ‘pro social’ behaviour and
+reducing anti-social behaviour
+• Enhanced local democracy & legitimacy
+• Reduced prejudice and hate crimes
+• Reduced crime & fear of crime
+
+• Improved employability
+• Improved ability to maintain stable
+relationships
+
+• Increased life expectancy
+• Better quality of life
+• Better health & well-being
+• Increased self management and
+independence
+• Reduced costs of health & social
+care
+
+• Social mobility
+• Higher earnings
+• Improved employability
+• Better physical & mental health
+• Reduced offending
+
+NI 1 % of people who believe people from different
+backgrounds get on well together
+NI 2 % of people who feel that they belong to their
+neighbourhood
+NI 3 Civic participation in the local area
+NI 4 % of people who feel they can inﬂuence
+decisions in their locality
+NI 5 Satisfaction with local area
+NI 6 Participation in regular volunteering
+NI 7 Environment for a thriving third sector
+NI 9 Use of public libraries
+NI 11 Engagement in the arts
+NI 13 Migrants English language skills & knowledge
+NI 15 & 16 Violent & acquisitive crime rates
+NI 17 Perceptions of anti-social behaviour
+NI 19 Young offenders – reduced rate of reoffending
+NI 23 Perceptions of respect and dignity
+NI 45 Young offenders engaged in education,
+employment, training
+NI 50 Emotional health of children
+NI 72 – NI 117 Children and young people – Enjoy
+and Achieve & Positive Contribution
+NI 119 People’s overall health and well-being
+NI 120 Mortality rate
+NI124 People with a long-term condition supported
+NI 138 Satisfaction of people over 65 with both
+home and neighbourhood
+NI 139 People over 65 receiving information,
+assistance and support to live independently
+NI 140 Fair treatment by local services
+NI 141 & 142 Vulnerable people achieving &
+maintaining independent living
+NI 144 Offenders in employment at end of order/
+licence
+NI 146 Adults with learning disabilities in employment
+NI 148 Care leavers in employment, education or
+training
+NI 150 Adults in contact with secondary mental
+health services in employment
+NI 161 Learners achieving a Level 1 qualiﬁcation
+in literacy
+NI 162 – NI165 Contribution to outcomes
+NI 179 Value for money
+
+54
+
+The modernisation review of public libraries: A policy statement
+
+Appendix B: Examples of Partnership
+betweenofPublic
+Libraries,
+other
+Examples
+Partnership
+between
+PublicLocal
+Libraries,
+other
+Local Authority
+& External
+partners.
+Authority
+ServicesServices
+& External
+partners
+Skills, Learning & Local Economy
+
+Health & Wellbeing
+
+Local need
+
+Develop skills and learning
+Increase workability
+Widen participation in FE and HE
+Support informal learning
+
+Address health inequalities
+Build a healthy community
+Create new community health
+& well-being resources
+Integrate health and public
+information, advice and guidance
+
+Potential
+partners
+
+Further Education (FE)
+Higher Education (HE)
+Adult Learning
+Learning Skills Council (LSC)/Skills
+Funding Agency
+Higher Education Funding Council
+for England (HEFCE)
+Adults Advancement Careers Service
+Jobcentre Plus
+
+Strategic Health Authority (SHA)
+LIFT
+Primary Care Trust (PCT)
+GPs
+Thirds sector
+Local Authority advice teams
+Community Health Partnership
+Department of Health (DoH)
+
+Potential
+models
+
+Joint library provision for academic/
+college and public use
+Joint public access to all local library
+services in local area
+Libraries deliver and provide
+dedicated support to adult learning
+and informal learning
+Dedicated support for jobhunters
+Business support within library service
+
+Shared building designed to meet
+the public’s needs
+Dedicated health & wellbeing
+space in libraries, supported by
+partnerships with health agencies,
+charities and practitioners
+Local and national public health
+campaigns and information joined up
+Public library staff trained to signpost
+and support people accessing
+quality health information online
+
+55
+
+The modernisation review of public libraries: A policy statement
+
+Children, Young People & Families
+
+Stronger Communities
+
+Enhance primary and secondary
+education and community
+learning provision
+Create greater links between schools
+and communities
+Extend education, family and positive
+activities offer
+
+Increase access to public services
+Improve mobile and house-bound
+services
+Rationalise services and estates
+Engage community in service design
+and activities
+Address rural deprivation
+Reach deprived communities
+Create meaningful interactions
+Increase volunteering opportunities
+
+Children and young people’s services
+Surestart centres
+Local schools and academies
+Building Schools for the Future (BSF)
+Youth service teams
+Pupil Referral Units
+Third sector
+Family Information Services
+
+Private sector
+Local authority advice & guidance teams
+Police
+Parish & District Councils
+One stop shops
+Legal advice
+Third sector organisations
+Lottery funders
+Community groups
+Social care and housing
+Other local authorities
+
+Joint school and public libraries
+Joint Surestart centres and
+public libraries
+Libraries deliver school library service
+Libraries commissioned to deliver
+Surestart services
+
+Libraries act as anchor service
+for a number of shared functions
+and services:
+Front-Ofﬁce Shared Services (FOSS)
+Multi-agency delivery, including
+mobile services across rural areas
+and to housebound
+Libraries delivering early years learning,
+Multi-authority working
+homework clubs and supporting
+Community and voluntary meeting
+learning for excluded children
+spaces and services
+Libraries work with Family Information
+Libraries as community forums
+Services to develop the Family
+Information Directory
+
+56
+
+The modernisation review of public libraries: A policy statement
+
+Skills, Learning & Local Economy
+
+Health & Wellbeing
+
+Potential
+outcomes
+
+Drive up recruitment for HE/FE courses
+Widen demography of learners and users
+Increase support for learners
+Increase skills and qualiﬁcations
+Help people back into work
+Support closer HE, FE, local authority
+and community engagement
+Achieve efﬁciencies
+Contribute to local business
+development
+
+Improve community health
+and wellbeing
+Create accessible and convenient
+community services
+User involvement in design and
+delivery of services
+Greater access to health and wellbeing
+information, particularly for socially
+and digitally excluded groups Increase
+self-management of health and
+wellbeing issues
+Public and third sector working
+together with communities
+
+Where is it
+happening?
+
+Worcester – joint HE and public library
+Manchester – multi-site joint FE
+and public libraries
+Gateshead – one library card gets
+you into all libraries (public, HE, FE
+and health in the area)
+Shropshire - joint adult learning
+centres and libraries
+Most library services support
+jobhunters through IT access
+and training
+Norwich’s dedicated business
+support centre in central library
+
+Salford libraries and Salford PCT have
+built three new Gateway centres
+that provide GP clinics, public health
+services, one stop shops and libraries.
+Platt Bridge Community Centre in
+Wigan has a school, health centre,
+library, advisory services and childcare
+facilities funded by the borough
+council with the local PCT and LIFT.
+Suffolk Council libraries are the lead
+delivery partner in Suffolk for DoH’s
+‘Information on Prescriptions’ initiative
+for people with long-term conditions.
+
+57
+
+The modernisation review of public libraries: A policy statement
+
+Children,Young People & Families
+
+Stronger Communities
+
+Create shared learning environment
+within community
+Increase parenting skills
+Support inter-generational
+relationships and learning
+Increase family support and activities
+Increase learning opportunities
+Extend role and hours of partner
+library and school
+Libraries contributing to Every Child
+Matters outcomes and extending
+learning provision
+
+Improvement and extension in services
+Increased efﬁciencies
+Community engagement and
+management of assets
+Increased democracy
+Joined-up housebound and mobile
+services
+Stronger and more cohesive communities
+User involvement in design and delivery
+of services
+Improved co-working across
+community-focussed organisations
+Tailored support to people’s
+individual needs
+Volunteering opportunities
+
+Where schools are sited in the
+right place for a community local
+authorities have participated with
+BSF to set up joint school and
+community libraries.
+
+Cambridgeshire – community
+managed libraries based upon agreed
+standards of service and performance
+Leeds – libraries hosting community
+groups and sharing space and
+resources with youth service,
+housing and advice, information
+& guidance teams
+Suffolk’s mobile library service has
+longer stops for community activities
+allowing other advisers and services
+to use the library to reach rural
+communities. New satellite dishes on
+the vans provide full online use of the
+internet and the library catalogue
+
+58
+
+The modernisation review of public libraries: A policy statement
+
+Appendix C: A Modernised Public
+Library Workforce
+A Modernised Public
+Library Workforce
+Meeting
+the
+communities
+Meeting
+theneeds
+needs of
+of communities
+
+Personal attributes
+and behaviours:
+• Values and ethics
+• Reﬂective practice
+• Go-to people with a can-do approach
+• Flexibility
+• Positive and helpful attitude
+• Entrepreneurship and creativity
+• Strategic vision and thinking
+• Political awareness.
+
+Core library and information skills:
+• Knowledge, understanding and enthusiasm for reading,
+learning and information literacy in the community
+• Managing, promoting, preserving and evaluating resources
+• Understand, facilitate and support community’s reading,
+learning and information needs.
+Generic skills:
+• Customer care
+• Community and audience
+engagement
+• Communication and marketing
+• Relationship management
+• Partnership working
+• Working with children, young people
+and vulnerable adults
+• Project management and outcome
+delivery
+• E-capable and e-conﬁdent
+• Advocacy.
+
+Speciﬁc leadership and
+management skills:
+• Performance management
+• Financial management
+• Business development
+• Inspiring leadership
+• Governance and ethics
+• Managing and developing people
+• Political advocacy
+• Cultural expertise
+and understanding
+
+Published by TSO (The Stationery Office)
+and available from:
+Online
+www.tsoshop.co.uk
+Mail, Telephone Fax & E-Mail
+TSO
+PO Box 29, Norwich, NR3 1GN
+Telephone orders/General enquiries 0870 600 5522
+Order through the Parliamentary Hotline Lo-Call 0845 7 023474
+Fax orders: 0870 600 5533
+E-mail: customer.services@tso.co.uk
+Textphone: 0870 240 3701
+The Parliamentary Bookshop
+12 Bridge Street, Parliament Square,
+London SW1A 2JX
+Telephone orders/ General enquiries: 020 7219 3890
+Fax orders: 020 7219 3866
+Email: bookshop@parliament.uk
+Internet: http://www.bookshop.parliament.uk
+TSO@Blackwell and other Accredited Agents
+Customers can also order publications from
+TSO Ireland
+16 Arthur Street, Belfast BT1 4GD
+028 9023 8451 Fax 028 9023 5401
+
+2-4 Cockspur Street
+London SW1Y 5DH
+www.culture.gov.uk
+
+
