@@ -6,6 +6,6 @@ TWEC paper: https://arxiv.org/pdf/1906.02376.pdf
 
 Files:
 
-load-timeslices.ipynb <-- organise data into timeslices
+twec-preprocess.ipynb <-- organise and preprocess data into timeslices for TWEC
 
 visualise-embeddings.ipynb <-- visualise diachronic embeddings obtained using TWEC
