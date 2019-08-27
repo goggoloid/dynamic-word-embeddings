@@ -9,5 +9,3 @@ Files:
 load-timeslices.ipynb <-- organise data into timeslices
 
 visualise-embeddings.ipynb <-- visualise diachronic embeddings obtained using TWEC
-
-pdf2txt.py <-- convert .pdf files to .txt files
