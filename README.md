@@ -8,4 +8,4 @@ Files:
 
 twec-preprocess.ipynb <-- organise and preprocess data into timeslices for TWEC
 
-visualise-embeddings.ipynb <-- visualise diachronic embeddings obtained using TWEC
+local-visualisation.ipynb <-- local visualisation of diachronic embeddings obtained using TWEC
