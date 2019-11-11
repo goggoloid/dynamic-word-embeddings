@@ -11,3 +11,5 @@ twec-preprocess.ipynb <-- organise and preprocess data into timeslices for TWEC
 twec.ipynb <-- run TWEC
 
 graph-visualiser.ipynb <-- visualise diachronic embeddings obtained using TWEC as graphs
+
+string-searcher.ipynb <-- search for documents which contain the semantic relations revealed by TWEC
